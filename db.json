@@ -2171,26 +2171,62 @@
         "attackspeed": 0.625
       }
     },
-    {"Kaisa": {
+    {
+      "version": "12.6.1",
+      "id": "KSante",
+      "key": "145",
+      "name": "K'Sante",
+      "title": "The pride of Nazumah",
+      "blurb": "Defiant and courageous, K'Sante battles colossal beasts and ruthless Ascended to protect his home of Nazumah, a coveted oasis amid the sands of Shurima. But after a falling-out with his former partner, K'Sante realizes that in order to become a warrior worthy of leading his city, he must temper his single-minded drive for success. Only then can he avoid falling prey to his own pride and find the wisdom he needs to defeat the vicious monsters threatening his people.",
+      "info": {
+        "attack": 6,
+        "defense": 7,
+        "magic": 3,
+        "difficulty": 6
+      },
+      "skins": [0,1,2],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "partype": "Mana",
+      "stats": {
+        "hp": 600,
+        "hpperlevel": 88,
+        "mp": 344.88,
+        "mpperlevel": 38,
+        "movespeed": 335,
+        "armor": 28,
+        "armorperlevel": 3,
+        "spellblock": 30,
+        "spellblockperlevel": 0.5,
+        "attackrange": 525,
+        "hpregen": 3.5,
+        "hpregenperlevel": 0.55,
+        "mpregen": 8.2,
+        "mpregenperlevel": 0.45,
+        "crit": 0,
+        "critperlevel": 0,
+        "attackdamage": 59,
+        "attackdamageperlevel": 2,
+        "attackspeedperlevel": 1.8,
+        "attackspeed": 0.644
+      }
+    },
+    {
       "version": "12.6.1",
       "id": "Kaisa",
       "key": "145",
       "name": "Kai'Sa",
       "title": "Daughter of the Void",
-      "blurb": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered...",
+      "blurb": "Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Kaisa.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,14,15,16,17,26,27,29,39,40,48],
       "tags": [
         "Marksman"
       ],
@@ -2217,27 +2253,21 @@
         "attackspeedperlevel": 1.8,
         "attackspeed": 0.644
       }
-    }},
-    {"Kalista": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kalista",
       "key": "429",
       "name": "Kalista",
-      "title": "the Spear of Vengeance",
-      "blurb": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing...",
+      "title": "The Spear of Vengeance",
+      "blurb": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista's wrath should make their final peace, for any pact sealed with this grim hunter can only end with the cold, piercing fire of her soul-spears.",
       "info": {
         "attack": 8,
         "defense": 2,
         "magic": 4,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Kalista.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,5,14],
       "tags": [
         "Marksman"
       ],
@@ -2264,27 +2294,21 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.694
       }
-    }},
-    {"Karma": {
+    },
+    {
       "version": "12.6.1",
       "id": "Karma",
       "key": "43",
       "name": "Karma",
-      "title": "the Enlightened One",
-      "blurb": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can...",
+      "title": "The Enlightened One",
+      "blurb": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost—both to her, and to the land she holds most dear.",
       "info": {
         "attack": 1,
         "defense": 7,
         "magic": 8,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Karma.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,5,6,7,8,19,26,27,44,54],
       "tags": [
         "Mage",
         "Support"
@@ -2312,27 +2336,21 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.625
       }
-    }},
-    {"Karthus": {
+    },
+    {
       "version": "12.6.1",
       "id": "Karthus",
       "key": "30",
       "name": "Karthus",
-      "title": "the Deathsinger",
-      "blurb": "The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of...",
+      "title": "The Deathsinger",
+      "blurb": "The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving.",
       "info": {
         "attack": 2,
         "defense": 2,
         "magic": 10,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Karthus.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,9,10,17,26],
       "tags": [
         "Mage"
       ],
@@ -2359,27 +2377,21 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    }},
-    {"Kassadin": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kassadin",
       "key": "38",
       "name": "Kassadin",
-      "title": "the Void Walker",
-      "blurb": "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes—until the day his village was...",
+      "title": "The Void Walker",
+      "blurb": "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes—until the day his village was consumed by the Void. He vowed vengeance, combining a number of arcane artifacts and forbidden technologies for the struggle ahead. Finally, Kassadin set out for the wastelands of Icathia, ready to face any monstrous Void-construct in his search for their self-proclaimed prophet, Malzahar.",
       "info": {
         "attack": 3,
         "defense": 5,
         "magic": 8,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Kassadin.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,14,15],
       "tags": [
         "Assassin",
         "Mage"
@@ -2407,27 +2419,21 @@
         "attackspeedperlevel": 3.7,
         "attackspeed": 0.64
       }
-    }},
-    {"Katarina": {
+    },
+    {
       "version": "12.6.1",
       "id": "Katarina",
       "key": "55",
       "name": "Katarina",
-      "title": "the Sinister Blade",
-      "blurb": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven...",
+      "title": "The Sinister Blade",
+      "blurb": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven her to pursue heavily-guarded targets, even at the risk of endangering her allies—but no matter the mission, Katarina will not hesitate to execute her duty amid a whirlwind of serrated daggers.",
       "info": {
         "attack": 4,
         "defense": 3,
         "magic": 9,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Katarina.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,12,21,29,37,47,48],
       "tags": [
         "Assassin",
         "Mage"
@@ -2455,27 +2461,21 @@
         "attackspeedperlevel": 2.74,
         "attackspeed": 0.658
       }
-    }},
-    {"Kayle": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kayle",
       "key": "10",
       "name": "Kayle",
-      "title": "the Righteous",
-      "blurb": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned...",
+      "title": "The Righteous",
+      "blurb": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…",
       "info": {
         "attack": 6,
         "defense": 6,
         "magic": 7,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Kayle.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,15,24,33,42,57],
       "tags": [
         "Fighter",
         "Support"
@@ -2503,27 +2503,21 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Kayn": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kayn",
       "key": "141",
       "name": "Kayn",
-      "title": "the Shadow Reaper",
-      "blurb": "A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of...",
+      "title": "The Shadow Reaper",
+      "blurb": "A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will... or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra.",
       "info": {
         "attack": 10,
         "defense": 6,
         "magic": 1,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Kayn.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,8,9,15],
       "tags": [
         "Fighter",
         "Assassin"
@@ -2551,27 +2545,21 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.669
       }
-    }},
-    {"Kennen": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kennen",
       "key": "85",
       "name": "Kennen",
-      "title": "the Heart of the Tempest",
-      "blurb": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his...",
+      "title": "The Heart of the Tempest",
+      "blurb": "More than just the lightning-quick enforcer of Ionian balance, Kennen is the only yordle member of the Kinkou. Despite his small, furry stature, he is eager to take on any threat with a whirling storm of shuriken and boundless enthusiasm. Alongside his master Shen, Kennen patrols the spirit realm, employing devastating electrical energy to strike down his enemies.",
       "info": {
         "attack": 6,
         "defense": 4,
         "magic": 7,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Kennen.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,23,25],
       "tags": [
         "Mage",
         "Marksman"
@@ -2599,27 +2587,21 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.625
       }
-    }},
-    {"Khazix": {
+    },
+    {
       "version": "12.6.1",
       "id": "Khazix",
       "key": "121",
       "name": "Kha'Zix",
-      "title": "the Voidreaver",
-      "blurb": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more...",
+      "title": "The Voidreaver",
+      "blurb": "The Void grows, and the Void adapts—in none of its myriad spawn are these truths more apparent than Kha'Zix. Evolution drives the core of this mutating horror, born to survive and to slay the strong. Where it struggles to do so, it grows new, more effective ways to counter and kill its prey. Initially a mindless beast, Kha'Zix's intelligence has developed as much as its form. Now, the creature plans out its hunts, and even utilizes the visceral terror it engenders in its victims.",
       "info": {
         "attack": 9,
         "defense": 4,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Khazix.png",
-        "centered": "champion1.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,11,60,69],
       "tags": [
         "Assassin"
       ],
@@ -2646,27 +2628,21 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.668
       }
-    }},
-    {"Kindred": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kindred",
       "key": "203",
       "name": "Kindred",
       "title": "The Eternal Hunters",
-      "blurb": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his...",
+      "blurb": "Separate, but never parted, Kindred represents the twin essences of death. Lamb's bow offers a swift release from the mortal realm for those who accept their fate. Wolf hunts down those who run from their end, delivering violent finality within his crushing jaws. Though interpretations of Kindred's nature vary across Runeterra, every mortal must choose the true face of their death",
       "info": {
         "attack": 8,
         "defense": 2,
         "magic": 2,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Kindred.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,12,22,23],
       "tags": [
         "Marksman"
       ],
@@ -2693,27 +2669,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Kled": {
+    },
+    {
       "version": "12.6.1",
       "id": "Kled",
       "key": "240",
       "name": "Kled",
-      "title": "the Cantankerous Cavalier",
-      "blurb": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the...",
+      "title": "The Cantankerous Cavalier",
+      "blurb": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. He is an icon beloved by the empire's soldiers, distrusted by its officers, and loathed by the nobility. Many claim Kled has fought in every campaign the legions have waged, has “acquired” every military title, and has never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is undeniable: Charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what's his… and to take whatever he can get.",
       "info": {
         "attack": 8,
         "defense": 2,
         "magic": 2,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Kled.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,9,18],
       "tags": [
         "Fighter",
         "Tank"
@@ -2741,27 +2711,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    }},
-    {"KogMaw": {
+    },
+    {
       "version": "12.6.1",
       "id": "KogMaw",
       "key": "96",
       "name": "Kog'Maw",
-      "title": "the Mouth of the Abyss",
-      "blurb": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it...",
+      "title": "The Mouth of the Abyss",
+      "blurb": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it. Though not inherently evil, Kog'Maw's beguiling naiveté is dangerous, as it often precedes a feeding frenzy—not for sustenance, but to satisfy its unending curiosity.",
       "info": {
         "attack": 8,
         "defense": 2,
         "magic": 5,
         "difficulty": 6
       },
-      "image": {
-        "splash": "KogMaw.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,19,28,37,46],
       "tags": [
         "Marksman",
         "Mage"
@@ -2789,27 +2753,21 @@
         "attackspeedperlevel": 2.65,
         "attackspeed": 0.665
       }
-    }},
-    {"Leblanc": {
+    },
+    {
       "version": "12.6.1",
       "id": "Leblanc",
       "key": "7",
       "name": "LeBlanc",
-      "title": "the Deceiver",
-      "blurb": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone...",
+      "title": "The Deceiver",
+      "blurb": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc's true motives are as inscrutable as her shifting identity.",
       "info": {
         "attack": 1,
         "defense": 4,
         "magic": 10,
         "difficulty": 9
       },
-      "image": {
-        "splash": "Leblanc.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,12,19,20,29,33,35,45],
       "tags": [
         "Assassin",
         "Mage"
@@ -2837,27 +2795,21 @@
         "attackspeedperlevel": 1.4,
         "attackspeed": 0.625
       }
-    }},
-    {"LeeSin": {
+    },
+    {
       "version": "12.6.1",
       "id": "LeeSin",
       "key": "64",
       "name": "Lee Sin",
-      "title": "the Blind Monk",
-      "blurb": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland...",
+      "title": "The Blind Monk",
+      "blurb": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "LeeSin.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,10,11,12,27,28,29,31,39,41],
       "tags": [
         "Fighter",
         "Assassin"
@@ -2885,27 +2837,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.651
       }
-    }},
-    {"Leona": {
+    },
+    {
       "version": "12.6.1",
       "id": "Leona",
       "key": "89",
       "name": "Leona",
-      "title": "the Radiant Dawn",
-      "blurb": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her...",
+      "title": "The Radiant Dawn",
+      "blurb": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her. Armored in gold and bearing a terrible burden of ancient knowledge, Leona brings enlightenment to some, death to others.",
       "info": {
         "attack": 4,
         "defense": 8,
         "magic": 3,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Leona.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,8,9,10,11,12,21,22,23,33,34,50],
       "tags": [
         "Tank",
         "Support"
@@ -2933,27 +2879,21 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.625
       }
-    }},
-    {"Lillia": {
+    },
+    {
       "version": "12.6.1",
       "id": "Lillia",
       "key": "876",
       "name": "Lillia",
-      "title": "the Bashful Bloom",
-      "blurb": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming...",
+      "title": "The Bashful Bloom",
+      "blurb": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia's forests. Hiding just out of sight of mortals—whose mysterious natures have long captivated, but intimidated, her—Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people's unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!",
       "info": {
         "attack": 0,
         "defense": 2,
         "magic": 10,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Lillia.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,10,19],
       "tags": [
         "Fighter",
         "Mage"
@@ -2981,27 +2921,21 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.625
       }
-    }},
-    {"Lissandra": {
+    },
+    {
       "version": "12.6.1",
       "id": "Lissandra",
       "key": "127",
       "name": "Lissandra",
-      "title": "the Ice Witch",
-      "blurb": "Lissandra's magic twists the pure power of ice into something dark and terrible. With the force of her black ice, she does more than freeze—she impales and crushes those who oppose her. To the terrified denizens of the north, she is known only as ''The...",
+      "title": "The Ice Witch",
+      "blurb": "Lissandra's magic twists the pure power of ice into something dark and terrible. With the force of her black ice, she does more than freeze—she impales and crushes those who oppose her. To the terrified denizens of the north, she is known only as 'The Ice Witch.' The truth is much more sinister: Lissandra is a corruptor of nature who plots to unleash an ice age on the world.",
       "info": {
         "attack": 2,
         "defense": 5,
         "magic": 8,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Lissandra.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,12,23,33,34],
       "tags": [
         "Mage"
       ],
@@ -3028,27 +2962,21 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.656
       }
-    }},
-    {"Lucian": {
+    },
+    {
       "version": "12.6.1",
       "id": "Lucian",
       "key": "236",
       "name": "Lucian",
-      "title": "the Purifier",
-      "blurb": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to...",
+      "title": "The Purifier",
+      "blurb": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Lucian.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,6,7,8,9,18,19,25,31,40],
       "tags": [
         "Marksman"
       ],
@@ -3075,27 +3003,21 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.638
       }
-    }},
-    {"Lulu": {
+    },
+    {
       "version": "12.6.1",
       "id": "Lulu",
       "key": "117",
       "name": "Lulu",
-      "title": "the Fae Sorceress",
-      "blurb": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this...",
+      "title": "The Fae Sorceress",
+      "blurb": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this mundane, physical realm. While others might consider her magic at best unnatural, and at worst dangerous, she believes everyone could use a touch of enchantment.",
       "info": {
         "attack": 4,
         "defense": 5,
         "magic": 7,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Lulu.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,14,15,26,27,37],
       "tags": [
         "Support",
         "Mage"
@@ -3123,27 +3045,21 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.625
       }
-    }},
-    {"Lux": {
+    },
+    {
       "version": "12.6.1",
       "id": "Lux",
       "key": "99",
       "name": "Lux",
-      "title": "the Lady of Luminosity",
-      "blurb": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve...",
+      "title": "The Lady of Luminosity",
+      "blurb": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family's noble status. Nonetheless, Lux's optimism and resilience have led her to embrace her unique talents, and she now covertly wields them in service of her homeland.",
       "info": {
         "attack": 2,
         "defense": 4,
         "magic": 9,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Lux.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,14,15,16,17,18,19,29,39,40,42],
       "tags": [
         "Mage",
         "Support"
@@ -3171,26 +3087,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.669
       }
-    }},
-    {"Malphite": {
+    },
+    {
       "version": "12.6.1",
       "id": "Malphite",
       "key": "54",
       "name": "Malphite",
       "title": "Shard of the Monolith",
-      "blurb": "A massive creature of living stone, Malphite struggles to impose blessed order on a chaotic world. Birthed as a servitor-shard to an otherworldly obelisk known as the Monolith, he used his tremendous elemental strength to maintain and protect his...",
+      "blurb": "A massive creature of living stone, Malphite struggles to impose blessed order on a chaotic world. Birthed as a servitor-shard to an otherworldly obelisk known as the Monolith, he used his tremendous elemental strength to maintain and protect his progenitor, but ultimately failed. The only survivor of the destruction that followed, Malphite now endures Runeterra's soft folk and their fluid temperaments, while struggling to find a new role worthy of the last of his kind.",
       "info": {
         "attack": 5,
         "defense": 9,
         "magic": 7,
         "difficulty": 2
       },
-      "image": {
-        "splash": "Malphite.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-      },
+      "skins": [0,1,2,3,4,5,6,7,16,23,24,25,27,37],
       "tags": [
         "Tank",
         "Fighter"
@@ -3218,27 +3129,21 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.736
       }
-    }},
-    {"Malzahar": {
+    },
+    {
       "version": "12.6.1",
       "id": "Malzahar",
       "key": "90",
       "name": "Malzahar",
-      "title": "the Prophet of the Void",
-      "blurb": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra's salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient...",
+      "title": "The Prophet of the Void",
+      "blurb": "A zealous seer dedicated to the unification of all life, Malzahar truly believes the newly emergent Void to be the path to Runeterra's salvation. In the desert wastes of Shurima, he followed the voices that whispered in his mind, all the way to ancient Icathia. Amidst the ruins of that land, he gazed into the dark heart of the Void itself, and was gifted new power and purpose. Malzahar now sees himself as a shepherd, empowered to bring others into the fold… or to release the voidling creatures that dwell beneath.",
       "info": {
         "attack": 2,
         "defense": 2,
         "magic": 9,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Malzahar.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,9,18,28,38],
       "tags": [
         "Mage",
         "Assassin"
@@ -3266,27 +3171,21 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Maokai": {
+    },
+    {
       "version": "12.6.1",
       "id": "Maokai",
       "key": "57",
       "name": "Maokai",
-      "title": "the Twisted Treant",
-      "blurb": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his...",
+      "title": "The Twisted Treant",
+      "blurb": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his heartwood. Once a peaceful nature spirit, Maokai now furiously battles to banish the scourge of unlife from the Shadow Isles and restore his home to its former beauty.",
       "info": {
         "attack": 3,
         "defense": 8,
         "magic": 6,
         "difficulty": 3
       },
-      "image": {
-        "splash": "Maokai.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,16,24,33],
       "tags": [
         "Tank",
         "Mage"
@@ -3314,27 +3213,21 @@
         "attackspeedperlevel": 2.125,
         "attackspeed": 0.8
       }
-    }},
-    {"MasterYi": {
+    },
+    {
       "version": "12.6.1",
       "id": "MasterYi",
       "key": "11",
       "name": "Master Yi",
-      "title": "the Wuju Bladesman",
-      "blurb": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of...",
+      "title": "The Wuju Bladesman",
+      "blurb": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people—scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them.",
       "info": {
         "attack": 10,
         "defense": 4,
         "magic": 2,
         "difficulty": 4
       },
-      "image": {
-        "splash": "MasterYi.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,9,10,11,17,24,33,42,52,53],
       "tags": [
         "Assassin",
         "Fighter"
@@ -3362,27 +3255,62 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.679
       }
-    }},
-    {"MissFortune": {
+    },
+    {
+      "version": "12.6.1",
+      "id": "Milio",
+      "key": "165",
+      "name": "Milio",
+      "title": "The gentle Flame",
+      "blurb": "Milio is a warmhearted boy from Ixtal who has, despite his young age, mastered the fire axiom and discovered something new: soothing fire. With this newfound power, Milio plans to help his family escape their exile by joining the Yun Tal—just like his grandmother once did. Having traveled through the Ixtal jungles to the capital of Ixaocan, Milio now prepares to face the Vidalion and join the Yun Tal, unaware of the trials—and dangers—that await him.",
+      "info": {
+        "attack": 4,
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 4
+      },
+      "skins": [0,1],
+      "tags": [
+        "Support"
+      ],
+      "partype": "Mana",
+      "stats": {
+        "hp": 570,
+        "hpperlevel": 93,
+        "mp": 300,
+        "mpperlevel": 35,
+        "movespeed": 325,
+        "armor": 28,
+        "armorperlevel": 3,
+        "spellblock": 30,
+        "spellblockperlevel": 0.5,
+        "attackrange": 550,
+        "hpregen": 3.75,
+        "hpregenperlevel": 0.65,
+        "mpregen": 8.04,
+        "mpregenperlevel": 0.65,
+        "crit": 0,
+        "critperlevel": 0,
+        "attackdamage": 52,
+        "attackdamageperlevel": 2.7,
+        "attackspeedperlevel": 3,
+        "attackspeed": 0.656
+      }
+    },
+    {
       "version": "12.6.1",
       "id": "MissFortune",
       "key": "21",
       "name": "Miss Fortune",
-      "title": "the Bounty Hunter",
-      "blurb": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally...",
+      "title": "The Bounty Hunter",
+      "blurb": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family—an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent… and, likely, a bullet or two in their guts.",
       "info": {
         "attack": 8,
         "defense": 2,
         "magic": 5,
         "difficulty": 1
       },
-      "image": {
-        "splash": "MissFortune.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,15,16,17,18,20,21,31,33,40,41],
       "tags": [
         "Marksman"
       ],
@@ -3409,27 +3337,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.656
       }
-    }},
-    {"MonkeyKing": {
+    },
+    {
       "version": "12.6.1",
       "id": "MonkeyKing",
       "key": "62",
       "name": "Wukong",
-      "title": "the Monkey King",
-      "blurb": "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial...",
+      "title": "The Monkey King",
+      "blurb": "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 2,
         "difficulty": 3
       },
-      "image": {
-        "splash": "MonkeyKing.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,16],
       "tags": [
         "Fighter",
         "Tank"
@@ -3457,27 +3379,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.711
       }
-    }},
-    {"Mordekaiser": {
+    },
+    {
       "version": "12.6.1",
       "id": "Mordekaiser",
       "key": "82",
       "name": "Mordekaiser",
-      "title": "the Iron Revenant",
-      "blurb": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but...",
+      "title": "The Iron Revenant",
+      "blurb": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.",
       "info": {
         "attack": 4,
         "defense": 6,
         "magic": 7,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Mordekaiser.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,13,23,32,42],
       "tags": [
         "Fighter"
       ],
@@ -3504,27 +3420,21 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.625
       }
-    }},
-    {"Morgana": {
+    },
+    {
       "version": "12.6.1",
       "id": "Morgana",
       "key": "25",
       "name": "Morgana",
-      "title": "the Fallen",
-      "blurb": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from...",
+      "title": "The Fallen",
+      "blurb": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.",
       "info": {
         "attack": 1,
         "defense": 6,
         "magic": 8,
         "difficulty": 1
       },
-      "image": {
-        "splash": "Morgana.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,10,11,17,26,39,41,50,60],
       "tags": [
         "Mage",
         "Support"
@@ -3552,27 +3462,62 @@
         "attackspeedperlevel": 1.53,
         "attackspeed": 0.625
       }
-    }},
-    {"Nami": {
+    },
+    {
+      "version": "12.6.1",
+      "id": "Naafiri",
+      "key": "267",
+      "name": "Naafiri",
+      "title": "The Hound of a Hundred Bites",
+      "blurb": "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin.",
+      "info": {
+        "attack": 8,
+        "defense": 4,
+        "magic": 5,
+        "difficulty": 7
+      },
+      "skins": [0,1],
+      "tags": [
+        "Assassin"
+      ],
+      "partype": "Mana",
+      "stats": {
+        "hp": 490,
+        "hpperlevel": 74,
+        "mp": 365,
+        "mpperlevel": 43,
+        "movespeed": 335,
+        "armor": 29,
+        "armorperlevel": 4,
+        "spellblock": 30,
+        "spellblockperlevel": 0.5,
+        "attackrange": 550,
+        "hpregen": 5.5,
+        "hpregenperlevel": 0.55,
+        "mpregen": 11.5,
+        "mpregenperlevel": 0.4,
+        "crit": 0,
+        "critperlevel": 0,
+        "attackdamage": 51,
+        "attackdamageperlevel": 3.1,
+        "attackspeedperlevel": 2.61,
+        "attackspeed": 0.644
+      }
+    },
+    {
       "version": "12.6.1",
       "id": "Nami",
       "key": "267",
       "name": "Nami",
-      "title": "the Tidecaller",
-      "blurb": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred...",
+      "title": "The Tidecaller",
+      "blurb": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred ritual that would ensure the safety of her people. Amidst the chaos of this new age, Nami faces an uncertain future with grit and determination, using her Tidecaller staff to summon the strength of the oceans themselves.",
       "info": {
         "attack": 4,
         "defense": 3,
         "magic": 7,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Nami.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,7,8,9,15,24,32,41,42],
       "tags": [
         "Support",
         "Mage"
@@ -3600,27 +3545,21 @@
         "attackspeedperlevel": 2.61,
         "attackspeed": 0.644
       }
-    }},
-    {"Nasus": {
+    },
+    {
       "version": "12.6.1",
       "id": "Nasus",
       "key": "75",
       "name": "Nasus",
-      "title": "the Curator of the Sands",
-      "blurb": "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient...",
+      "title": "The Curator of the Sands",
+      "blurb": "Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the ancient empire of Shurima to greatness for many centuries. After the fall of the empire, he went into self-imposed exile, becoming little more than a legend. Now that the ancient city of Shurima has risen once more, he has returned, determined to ensure it never falls again.",
       "info": {
         "attack": 7,
         "defense": 5,
         "magic": 6,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Nasus.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,10,11,16,25,35,45],
       "tags": [
         "Fighter",
         "Tank"
@@ -3648,27 +3587,21 @@
         "attackspeedperlevel": 3.48,
         "attackspeed": 0.638
       }
-    }},
-    {"Nautilus": {
+    },
+    {
       "version": "12.6.1",
       "id": "Nautilus",
       "key": "111",
       "name": "Nautilus",
-      "title": "the Titan of the Depths",
-      "blurb": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to...",
+      "title": "The Titan of the Depths",
+      "blurb": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to save the wretched, and drag the greedy to their doom. It is said he comes for those who forget to pay the “Bilgewater tithe”, pulling them down beneath the waves with him—an iron-clad reminder that none can escape the depths.",
       "info": {
         "attack": 4,
         "defense": 6,
         "magic": 6,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Nautilus.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,9,18,27],
       "tags": [
         "Tank",
         "Fighter"
@@ -3696,27 +3629,21 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.706
       }
-    }},
-    {"Neeko": {
+    },
+    {
       "version": "12.6.1",
       "id": "Neeko",
       "key": "518",
       "name": "Neeko",
-      "title": "the Curious Chameleon",
-      "blurb": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be...",
+      "title": "The Curious Chameleon",
+      "blurb": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where—or who—Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them.",
       "info": {
         "attack": 1,
         "defense": 1,
         "magic": 9,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Neeko.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,10,11,12,21,22,31],
       "tags": [
         "Mage",
         "Support"
@@ -3744,27 +3671,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Nidalee": {
+    },
+    {
       "version": "12.6.1",
       "id": "Nidalee",
       "key": "76",
       "name": "Nidalee",
-      "title": "the Bestial Huntress",
-      "blurb": "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear...",
+      "title": "The Bestial Huntress",
+      "blurb": "Raised in the deepest jungle, Nidalee is a master tracker who can shapeshift into a ferocious cougar at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear throws. She cripples her quarry before pouncing on them in feline form—the lucky few who survive tell tales of a wild woman with razor-sharp instincts, and even sharper claws...",
       "info": {
         "attack": 5,
         "defense": 4,
         "magic": 7,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Nidalee.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,11,18,27,29,39,48],
       "tags": [
         "Assassin",
         "Mage"
@@ -3792,27 +3713,21 @@
         "attackspeedperlevel": 3.22,
         "attackspeed": 0.638
       }
-    }},
-    {"Nocturne": {
+    },
+    {
       "version": "12.6.1",
-      "id": "Nocturne",
-      "key": "56",
-      "name": "Nocturne",
-      "title": "the Eternal Nightmare",
-      "blurb": "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking...",
+      "id": "Nilah",
+      "key": "167",
+      "name": "Nilah",
+      "title": "The Joy Unbound",
+      "blurb": "Nilah is an ascetic warrior from a distant land, seeking the world's deadliest, most titanic opponents so that she might challenge and destroy them. Having won her power through an encounter with the long-imprisoned demon of joy, she has no emotions other than unceasing jubilation—a small price to pay for the vast strength she now possesses. Channeling the demon's liquid form into a blade of unparalleled might, she stands defiant against ancient threats long forgotten.",
       "info": {
-        "attack": 9,
-        "defense": 5,
-        "magic": 2,
-        "difficulty": 4
+        "attack": 7,
+        "defense": 6,
+        "magic": 4,
+        "difficulty": 6
       },
-      "image": {
-        "splash": "Nocturne.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1],
       "tags": [
         "Assassin",
         "Fighter"
@@ -3840,27 +3755,63 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.721
       }
-    }},
-    {"Nunu": {
+    },
+    {
+      "version": "12.6.1",
+      "id": "Nocturne",
+      "key": "56",
+      "name": "Nocturne",
+      "title": "The Eternal Nightmare",
+      "blurb": "A demonic amalgamation drawn from the nightmares that haunt every sentient mind, the thing known as Nocturne has become a primordial force of pure evil. It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking blades. After freeing itself from the spirit realm, Nocturne descended upon the waking world, to feed upon the kind of terror that can only thrive in true darkness.",
+      "info": {
+        "attack": 9,
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 4
+      },
+      "skins": [0,1,2,3,4,5,6,7,16,17],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "partype": "Mana",
+      "stats": {
+        "hp": 585,
+        "hpperlevel": 95,
+        "mp": 275,
+        "mpperlevel": 35,
+        "movespeed": 345,
+        "armor": 38,
+        "armorperlevel": 3.5,
+        "spellblock": 32,
+        "spellblockperlevel": 0.75,
+        "attackrange": 125,
+        "hpregen": 7,
+        "hpregenperlevel": 0.75,
+        "mpregen": 7,
+        "mpregenperlevel": 0.45,
+        "crit": 0,
+        "critperlevel": 0,
+        "attackdamage": 62,
+        "attackdamageperlevel": 3.1,
+        "attackspeedperlevel": 2.7,
+        "attackspeed": 0.721
+      }
+    },
+    {
       "version": "12.6.1",
       "id": "Nunu",
       "key": "20",
       "name": "Nunu & Willump",
-      "title": "the Boy and His Yeti",
-      "blurb": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu...",
+      "title": "The Boy and His Yeti",
+      "blurb": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu and Willump now ramble wildly across the Freljord, breathing life into imagined adventures. They hope that somewhere out there, they will find Nunu's mother. If they can save her, maybe they will be heroes after all…",
       "info": {
         "attack": 4,
         "defense": 6,
         "magic": 7,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Nunu.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,16,26,35],
       "tags": [
         "Tank",
         "Fighter"
@@ -3888,27 +3839,21 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.625
       }
-    }},
-    {"Olaf": {
+    },
+    {
       "version": "12.6.1",
       "id": "Olaf",
       "key": "2",
       "name": "Olaf",
-      "title": "the Berserker",
-      "blurb": "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great...",
+      "title": "The Berserker",
+      "blurb": "An unstoppable force of destruction, the axe-wielding Olaf wants nothing but to die in glorious combat. Hailing from the brutal Freljordian peninsula of Lokfar, he once received a prophecy foretelling his peaceful passing—a coward's fate, and a great insult among his people. Seeking death, and fueled by rage, he rampaged across the land, slaughtering scores of great warriors and legendary beasts in search of any opponent who could stop him. Now a brutal enforcer for the Winter's Claw, he seeks his end in the great wars to come.",
       "info": {
         "attack": 9,
         "defense": 5,
         "magic": 3,
         "difficulty": 3
       },
-      "image": {
-        "splash": "Olaf.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,15,16,25,35],
       "tags": [
         "Fighter",
         "Tank"
@@ -3936,27 +3881,21 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.694
       }
-    }},
-    {"Orianna": {
+    },
+    {
       "version": "12.6.1",
       "id": "Orianna",
       "key": "61",
       "name": "Orianna",
-      "title": "the Lady of Clockwork",
-      "blurb": "Once a curious girl of flesh and blood, Orianna is now a technological marvel comprised entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice...",
+      "title": "The Lady of Clockwork",
+      "blurb": "Once a curious girl of flesh and blood, Orianna is now a technological marvel comprised entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice, piece by piece. Accompanied by an extraordinary brass sphere she built for companionship and protection, Orianna is now free to explore the wonders of Piltover, and beyond.",
       "info": {
         "attack": 4,
         "defense": 3,
         "magic": 9,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Orianna.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,11,20,29],
       "tags": [
         "Mage",
         "Support"
@@ -3984,27 +3923,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.658
       }
-    }},
-    {"Ornn": {
+    },
+    {
       "version": "12.6.1",
       "id": "Ornn",
       "key": "516",
       "name": "Ornn",
       "title": "The Fire below the Mountain",
-      "blurb": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion...",
+      "blurb": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially Volibear—walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.",
       "info": {
         "attack": 5,
         "defense": 9,
         "magic": 3,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Ornn.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,11],
       "tags": [
         "Tank",
         "Fighter"
@@ -4032,27 +3965,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    }},
-    {"Pantheon": {
+    },
+    {
       "version": "12.6.1",
       "id": "Pantheon",
       "key": "80",
       "name": "Pantheon",
-      "title": "the Unbreakable Spear",
-      "blurb": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn...",
+      "title": "The Unbreakable Spear",
+      "blurb": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect's weapons on the field of battle.",
       "info": {
         "attack": 9,
         "defense": 4,
         "magic": 3,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Pantheon.png",
-        "centered": "champion2.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,16,25,26,36],
       "tags": [
         "Fighter",
         "Assassin"
@@ -4080,27 +4007,21 @@
         "attackspeedperlevel": 2.95,
         "attackspeed": 0.644
       }
-    }},
-    {"Poppy": {
+    },
+    {
       "version": "12.6.1",
       "id": "Poppy",
       "key": "78",
       "name": "Poppy",
       "title": "Keeper of the Hammer",
-      "blurb": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled “Hero of Demacia,” said...",
+      "blurb": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled “Hero of Demacia,” said to be its rightful wielder. Until then, she dutifully charges into battle, pushing back the kingdom's enemies with every whirling strike.",
       "info": {
         "attack": 6,
         "defense": 7,
         "magic": 2,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Poppy.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,14,15,16,24],
       "tags": [
         "Tank",
         "Fighter"
@@ -4128,27 +4049,21 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Pyke": {
+    },
+    {
       "version": "12.6.1",
       "id": "Pyke",
       "key": "555",
       "name": "Pyke",
-      "title": "the Bloodharbor Ripper",
-      "blurb": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural...",
+      "title": "The Bloodharbor Ripper",
+      "blurb": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them.",
       "info": {
         "attack": 9,
         "defense": 3,
         "magic": 1,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Pyke.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,9,16,25,34,44,45,53,54],
       "tags": [
         "Support",
         "Assassin"
@@ -4176,27 +4091,21 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.667
       }
-    }},
-    {"Qiyana": {
+    },
+    {
       "version": "12.6.1",
       "id": "Qiyana",
       "key": "246",
       "name": "Qiyana",
       "title": "Empress of the Elements",
-      "blurb": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the...",
+      "blurb": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan—and by that right, deserving of not only a city, but an empire.",
       "info": {
         "attack": 0,
         "defense": 2,
         "magic": 4,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Qiyana.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,10,11,20,21,30,40],
       "tags": [
         "Assassin",
         "Fighter"
@@ -4224,27 +4133,21 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.688
       }
-    }},
-    {"Quinn": {
+    },
+    {
       "version": "12.6.1",
       "id": "Quinn",
       "key": "133",
       "name": "Quinn",
       "title": "Demacia's Wings",
-      "blurb": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two...",
+      "blurb": "Quinn is an elite ranger-knight of Demacia, who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom's greatest heroes. Nimble and acrobatic when required, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
       "info": {
         "attack": 9,
         "defense": 4,
         "magic": 2,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Quinn.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,14],
       "tags": [
         "Marksman",
         "Assassin"
@@ -4272,27 +4175,21 @@
         "attackspeedperlevel": 3.1,
         "attackspeed": 0.668
       }
-    }},
-    {"Rakan": {
+    },
+    {
       "version": "12.6.1",
       "id": "Rakan",
       "key": "497",
       "name": "Rakan",
       "title": "The Charmer",
-      "blurb": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties...",
+      "blurb": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties, and anarchic music. Few would suspect this energetic, traveling showman is also partner to the rebel Xayah, and is dedicated to her cause.",
       "info": {
         "attack": 2,
         "defense": 4,
         "magic": 8,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Rakan.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,9,18,27],
       "tags": [
         "Support"
       ],
@@ -4319,27 +4216,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.635
       }
-    }},
-    {"Rammus": {
+    },
+    {
       "version": "12.6.1",
       "id": "Rammus",
       "key": "33",
       "name": "Rammus",
-      "title": "the Armordillo",
-      "blurb": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast...",
+      "title": "The Armordillo",
+      "blurb": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert.",
       "info": {
         "attack": 4,
         "defense": 10,
         "magic": 5,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Rammus.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,16,17],
       "tags": [
         "Tank",
         "Fighter"
@@ -4367,27 +4258,21 @@
         "attackspeedperlevel": 2.215,
         "attackspeed": 0.656
       }
-    }},
-    {"RekSai": {
+    },
+    {
       "version": "12.6.1",
       "id": "RekSai",
       "key": "421",
       "name": "Rek'Sai",
-      "title": "the Void Burrower",
-      "blurb": "An apex predator, Rek'Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed...",
+      "title": "The Void Burrower",
+      "blurb": "An apex predator, Rek'Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed caravans, will go hundreds of miles out of their way to avoid her and her offspring's hunting grounds. All know that once Rek'Sai is seen on the horizon, death from below is all but guaranteed.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 2,
         "difficulty": 3
       },
-      "image": {
-        "splash": "RekSai.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,9,17],
       "tags": [
         "Fighter"
       ],
@@ -4414,27 +4299,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.667
       }
-    }},
-    {"Rell": {
+    },
+    {
       "version": "12.6.1",
       "id": "Rell",
       "key": "526",
       "name": "Rell",
-      "title": "the Iron Maiden",
-      "blurb": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control...",
+      "title": "The Iron Maiden",
+      "blurb": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old “academy,” defending the meek while delivering violent death to her former overseers.",
       "info": {
         "attack": 0,
         "defense": 0,
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "splash": "Rell.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,10],
       "tags": [
         "Tank"
       ],
@@ -4461,27 +4340,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.55
       }
-    }},
-    {"Renata": {
+    },
+    {
       "version": "12.6.1",
       "id": "Renata",
       "key": "888",
       "name": "Renata Glasc",
-      "title": "the Chem-Baroness",
-      "blurb": "Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents' alchemical research. In the decades since, she has become Zaun's wealthiest chem-baron, a business magnate who built her power by tying everyone's...",
+      "title": "The Chem-Baroness",
+      "blurb": "Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents' alchemical research. In the decades since, she has become Zaun's wealthiest chem-baron, a business magnate who built her power by tying everyone's interests to her own. Work with her, and be rewarded beyond measure. Work against her, and live to regret it. But everyone comes to her side, eventually.",
       "info": {
         "attack": 2,
         "defense": 6,
         "magic": 9,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Renata.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,10,20,21],
       "tags": [
         "Support",
         "Mage"
@@ -4509,27 +4382,21 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    }},
-    {"Renekton": {
+    },
+    {
       "version": "12.6.1",
       "id": "Renekton",
       "key": "58",
       "name": "Renekton",
-      "title": "the Butcher of the Sands",
-      "blurb": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed...",
+      "title": "The Butcher of the Sands",
+      "blurb": "Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the nation's armies to countless victories. However, after the empire's fall, Renekton was entombed beneath the sands, and slowly, as the world turned and changed, he succumbed to insanity. Now free once more, he is utterly consumed with finding and killing his brother, Nasus, who he blames, in his madness, for the centuries he spent in darkness.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 2,
         "difficulty": 3
       },
-      "image": {
-        "splash": "Renekton.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,17,18,26,33],
       "tags": [
         "Fighter",
         "Tank"
@@ -4557,27 +4424,21 @@
         "attackspeedperlevel": 2.75,
         "attackspeed": 0.665
       }
-    }},
-    {"Rengar": {
+    },
+    {
       "version": "12.6.1",
       "id": "Rengar",
       "key": "107",
       "name": "Rengar",
-      "title": "the Pridestalker",
-      "blurb": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who...",
+      "title": "The Pridestalker",
+      "blurb": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.",
       "info": {
         "attack": 7,
         "defense": 4,
         "magic": 2,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Rengar.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,8,15,23,30,40],
       "tags": [
         "Assassin",
         "Fighter"
@@ -4605,27 +4466,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.667
       }
-    }},
-    {"Riven": {
+    },
+    {
       "version": "12.6.1",
       "id": "Riven",
       "key": "92",
       "name": "Riven",
-      "title": "the Exile",
-      "blurb": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a...",
+      "title": "The Exile",
+      "blurb": "Once a swordmaster in the warhosts of Noxus, Riven is an expatriate in a land she previously tried to conquer. She rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven's faith in her homeland was tested and ultimately broken. Having severed all ties to the empire, she now seeks to find her place in a shattered world, even as rumors abound that Noxus itself has been reforged...",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 1,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Riven.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,16,18,20,22,23,34,44,45,55],
       "tags": [
         "Fighter",
         "Assassin"
@@ -4653,27 +4508,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Rumble": {
+    },
+    {
       "version": "12.6.1",
       "id": "Rumble",
       "key": "68",
       "name": "Rumble",
-      "title": "the Mechanized Menace",
-      "blurb": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff...",
+      "title": "The Mechanized Menace",
+      "blurb": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff and sneer at his junkyard creations, Rumble doesn't mind—after all, he's the one with the flamespitter.",
       "info": {
         "attack": 3,
         "defense": 6,
         "magic": 8,
         "difficulty": 10
       },
-      "image": {
-        "splash": "Rumble.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,13],
       "tags": [
         "Fighter",
         "Mage"
@@ -4701,27 +4550,21 @@
         "attackspeedperlevel": 1.85,
         "attackspeed": 0.644
       }
-    }},
-    {"Ryze": {
+    },
+    {
       "version": "12.6.1",
       "id": "Ryze",
       "key": "13",
       "name": "Ryze",
-      "title": "the Rune Mage",
-      "blurb": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments...",
+      "title": "The Rune Mage",
+      "blurb": "Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with immense arcane power and a boundless constitution, he tirelessly hunts for World Runes—fragments of the raw magic that once shaped the world from nothingness. He must retrieve these artifacts before they fall into the wrong hands, for Ryze understands the horrors they could unleash on Runeterra.",
       "info": {
         "attack": 2,
         "defense": 2,
         "magic": 10,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Ryze.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,11,13,20],
       "tags": [
         "Mage",
         "Fighter"
@@ -4749,27 +4592,21 @@
         "attackspeedperlevel": 2.112,
         "attackspeed": 0.625
       }
-    }},
-    {"Samira": {
+    },
+    {
       "version": "12.6.1",
       "id": "Samira",
       "key": "360",
       "name": "Samira",
-      "title": "the Desert Rose",
-      "blurb": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on...",
+      "title": "The Desert Rose",
+      "blurb": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Samira.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,10,20,30],
       "tags": [
         "Marksman"
       ],
@@ -4796,27 +4633,21 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.658
       }
-    }},
-    {"Sejuani": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sejuani",
       "key": "113",
       "name": "Sejuani",
       "title": "Fury of the North",
-      "blurb": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans...",
+      "blurb": "Sejuani is the brutal, unforgiving Iceborn warmother of the Winter's Claw, one of the most feared tribes of the Freljord. Her people's survival is a constant, desperate battle against the elements, forcing them to raid Noxians, Demacians, and Avarosans alike to survive the harsh winters. Sejuani herself spearheads the most dangerous of these attacks from the saddle of her drüvask boar Bristle, using her True Ice flail to freeze and shatter her enemies.",
       "info": {
         "attack": 5,
         "defense": 7,
         "magic": 6,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Sejuani.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,15,16,26,36],
       "tags": [
         "Tank",
         "Fighter"
@@ -4844,27 +4675,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.688
       }
-    }},
-    {"Senna": {
+    },
+    {
       "version": "12.6.1",
       "id": "Senna",
       "key": "235",
       "name": "Senna",
-      "title": "the Redeemer",
-      "blurb": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to...",
+      "title": "The Redeemer",
+      "blurb": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
       "info": {
         "attack": 7,
         "defense": 2,
         "magic": 6,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Senna.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,9,10,16,26,27,36,46],
       "tags": [
         "Marksman",
         "Support"
@@ -4892,27 +4717,21 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.625
       }
-    }},
-    {"Seraphine": {
+    },
+    {
       "version": "12.6.1",
       "id": "Seraphine",
       "key": "147",
       "name": "Seraphine",
-      "title": "the Starry-Eyed Songstress",
-      "blurb": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She...",
+      "title": "The Starry-Eyed Songstress",
+      "blurb": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others—the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they're not alone, that they're stronger together, and that, in her eyes, their potential is limitless.",
       "info": {
         "attack": 0,
         "defense": 0,
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "splash": "Seraphine.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,14,15,24,34],
       "tags": [
         "Mage",
         "Support"
@@ -4940,27 +4759,21 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.669
       }
-    }},
-    {"Sett": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sett",
       "key": "875",
       "name": "Sett",
-      "title": "the Boss",
-      "blurb": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to...",
+      "title": "The Boss",
+      "blurb": "A leader of Ionia's growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 1,
         "difficulty": 2
       },
-      "image": {
-        "splash": "Sett.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,8,9,10,19,38,45],
       "tags": [
         "Fighter",
         "Tank"
@@ -4988,27 +4801,21 @@
         "attackspeedperlevel": 1.75,
         "attackspeed": 0.625
       }
-    }},
-    {"Shaco": {
+    },
+    {
       "version": "12.6.1",
       "id": "Shaco",
       "key": "35",
       "name": "Shaco",
-      "title": "the Demon Jester",
-      "blurb": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls...",
+      "title": "The Demon Jester",
+      "blurb": "Crafted long ago as a plaything for a lonely prince, the enchanted marionette Shaco now delights in murder and mayhem. Corrupted by dark magic and the loss of his beloved charge, the once-kind puppet finds pleasure only in the misery of the poor souls he torments. He uses toys and simple tricks to deadly effect, finding the results of his bloody “games” hilarious—and for those who hear a dark chuckle in the dead of night, the Demon Jester may have marked them as his next plaything.",
       "info": {
         "attack": 8,
         "defense": 4,
         "magic": 6,
         "difficulty": 9
       },
-      "image": {
-        "splash": "Shaco.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,15,23,33,43,44,49],
       "tags": [
         "Assassin"
       ],
@@ -5035,27 +4842,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.694
       }
-    }},
-    {"Shen": {
+    },
+    {
       "version": "12.6.1",
       "id": "Shen",
       "key": "98",
       "name": "Shen",
-      "title": "the Eye of Twilight",
-      "blurb": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit...",
+      "title": "The Eye of Twilight",
+      "blurb": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.",
       "info": {
         "attack": 3,
         "defense": 9,
         "magic": 3,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Shen.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,15,16,22,40],
       "tags": [
         "Tank"
       ],
@@ -5082,27 +4883,21 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.751
       }
-    }},
-    {"Shyvana": {
+    },
+    {
       "version": "12.6.1",
       "id": "Shyvana",
       "key": "102",
       "name": "Shyvana",
-      "title": "the Half-Dragon",
-      "blurb": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan...",
+      "title": "The Half-Dragon",
+      "blurb": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
       "info": {
         "attack": 8,
         "defense": 6,
         "magic": 3,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Shyvana.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,8,17],
       "tags": [
         "Fighter",
         "Tank"
@@ -5130,27 +4925,21 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    }},
-    {"Singed": {
+    },
+    {
       "version": "12.6.1",
       "id": "Singed",
       "key": "27",
       "name": "Singed",
-      "title": "the Mad Chemist",
-      "blurb": "Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to...",
+      "title": "The Mad Chemist",
+      "blurb": "Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to many that Singed has lost all sense of humanity, leaving a toxic trail of misery and terror in his wake.",
       "info": {
         "attack": 4,
         "defense": 8,
         "magic": 7,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Singed.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,19],
       "tags": [
         "Tank",
         "Fighter"
@@ -5178,27 +4967,21 @@
         "attackspeedperlevel": 1.9,
         "attackspeed": 0.613
       }
-    }},
-    {"Sion": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sion",
       "key": "14",
       "name": "Sion",
       "title": "The Undead Juggernaut",
-      "blurb": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his...",
+      "blurb": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his way, regardless of allegiance, proving he no longer retained his former humanity. Even so, with crude armor bolted onto rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe.",
       "info": {
         "attack": 5,
         "defense": 9,
         "magic": 3,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Sion.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,14,22,30,40],
       "tags": [
         "Tank",
         "Fighter"
@@ -5226,27 +5009,21 @@
         "attackspeedperlevel": 1.3,
         "attackspeed": 0.679
       }
-    }},
-    {"Sivir": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sivir",
       "key": "15",
       "name": "Sivir",
-      "title": "the Battle Mistress",
-      "blurb": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her...",
+      "title": "The Battle Mistress",
+      "blurb": "Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her exorbitant price. Known for her fearless resolve and endless ambition, she prides herself on recovering buried treasures from the perilous tombs of Shurima—for a generous bounty. With ancient forces stirring the very bones of Shurima, Sivir finds herself torn between conflicting destinies.",
       "info": {
         "attack": 9,
         "defense": 3,
         "magic": 1,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Sivir.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,16,25,34,43,50,51],
       "tags": [
         "Marksman"
       ],
@@ -5273,27 +5050,21 @@
         "attackspeedperlevel": 1.6,
         "attackspeed": 0.625
       }
-    }},
-    {"Skarner": {
+    },
+    {
       "version": "12.6.1",
       "id": "Skarner",
       "key": "72",
       "name": "Skarner",
-      "title": "the Crystal Vanguard",
-      "blurb": "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals...",
+      "title": "The Crystal Vanguard",
+      "blurb": "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, the Brackern entered hibernation to avoid untold magical destruction, but recent, threatening events have roused Skarner. As the only Brackern awake, he strives to protect his kind from those who seek to harm them.",
       "info": {
         "attack": 7,
         "defense": 6,
         "magic": 5,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Skarner.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5],
       "tags": [
         "Fighter",
         "Tank"
@@ -5321,27 +5092,21 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.625
       }
-    }},
-    {"Sona": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sona",
       "key": "37",
       "name": "Sona",
       "title": "Maven of the Strings",
-      "blurb": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a...",
+      "blurb": "Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias. This genteel manner has endeared her to the highborn, though others suspect her spellbinding melodies to actually emanate magic—a Demacian taboo. Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.",
       "info": {
         "attack": 5,
         "defense": 2,
         "magic": 8,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Sona.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,9,17,26,35,45,46],
       "tags": [
         "Support",
         "Mage"
@@ -5369,27 +5134,21 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.644
       }
-    }},
-    {"Soraka": {
+    },
+    {
       "version": "12.6.1",
       "id": "Soraka",
       "key": "16",
       "name": "Soraka",
-      "title": "the Starchild",
-      "blurb": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even...",
+      "title": "The Starchild",
+      "blurb": "A wanderer from the celestial dimensions beyond Mount Targon, Soraka gave up her immortality to protect the mortal races from their own more violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets—even healing those who would wish harm upon her. And, for all Soraka has seen of this world's struggles, she still believes the people of Runeterra have yet to reach their full potential.",
       "info": {
         "attack": 2,
         "defense": 5,
         "magic": 7,
         "difficulty": 3
       },
-      "image": {
-        "splash": "Soraka.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,15,16,17,18,27,37],
       "tags": [
         "Support",
         "Mage"
@@ -5417,27 +5176,21 @@
         "attackspeedperlevel": 2.14,
         "attackspeed": 0.625
       }
-    }},
-    {"Swain": {
+    },
+    {
       "version": "12.6.1",
       "id": "Swain",
       "key": "50",
       "name": "Swain",
-      "title": "the Noxian Grand General",
-      "blurb": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new...",
+      "title": "The Noxian Grand General",
+      "blurb": "Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination… and a new, demonic hand. Now, Swain commands from the front lines, marching against a coming darkness that only he can see—in glimpses gathered by shadowy ravens from the corpses all around him. In a swirl of sacrifice and secrets, the greatest secret of all is that the true enemy lies within.",
       "info": {
         "attack": 2,
         "defense": 6,
         "magic": 9,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Swain.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,11,12,21],
       "tags": [
         "Mage",
         "Fighter"
@@ -5465,27 +5218,21 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    }},
-    {"Sylas": {
+    },
+    {
       "version": "12.6.1",
       "id": "Sylas",
       "key": "517",
       "name": "Sylas",
-      "title": "the Unshackled",
-      "blurb": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him...",
+      "title": "The Unshackled",
+      "blurb": "Raised in one of Demacia's lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served… and his band of outcast mage followers seems to grow by the day.",
       "info": {
         "attack": 3,
         "defense": 4,
         "magic": 8,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Sylas.png",
-        "centered": "champion3.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,8,13,14,24,34],
       "tags": [
         "Mage",
         "Assassin"
@@ -5513,27 +5260,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.645
       }
-    }},
-    {"Syndra": {
+    },
+    {
       "version": "12.6.1",
       "id": "Syndra",
       "key": "134",
       "name": "Syndra",
-      "title": "the Dark Sovereign",
-      "blurb": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was...",
+      "title": "The Dark Sovereign",
+      "blurb": "Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was restraining her abilities. Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her.",
       "info": {
         "attack": 2,
         "defense": 3,
         "magic": 9,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Syndra.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,16,25,34,44],
       "tags": [
         "Mage",
         "Support"
@@ -5561,27 +5302,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    }},
-    {"TahmKench": {
+    },
+    {
       "version": "12.6.1",
       "id": "TahmKench",
       "key": "223",
       "name": "Tahm Kench",
       "title": "The River King",
-      "blurb": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a...",
+      "blurb": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
       "info": {
         "attack": 3,
         "defense": 9,
         "magic": 6,
         "difficulty": 5
       },
-      "image": {
-        "splash": "TahmKench.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,11,20,30],
       "tags": [
         "Support",
         "Tank"
@@ -5609,27 +5344,21 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    }},
-    {"Taliyah": {
+    },
+    {
       "version": "12.6.1",
       "id": "Taliyah",
       "key": "163",
       "name": "Taliyah",
-      "title": "the Stoneweaver",
-      "blurb": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe...",
+      "title": "The Stoneweaver",
+      "blurb": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price—for beneath Taliyah's youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble.",
       "info": {
         "attack": 1,
         "defense": 7,
         "magic": 8,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Taliyah.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a" 
-
-      },
+      "skins": [0,1,2,3,11,21],
       "tags": [
         "Mage",
         "Support"
@@ -5657,27 +5386,21 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    }},
-    {"Talon": {
+    },
+    {
       "version": "12.6.1",
       "id": "Talon",
       "key": "91",
       "name": "Talon",
-      "title": "the Blade's Shadow",
-      "blurb": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive...",
+      "title": "The Blade's Shadow",
+      "blurb": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire's command, assassinating enemy leaders, captains, and heroes… as well as any Noxian foolish enough to earn the scorn of their masters.",
       "info": {
         "attack": 9,
         "defense": 3,
         "magic": 1,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Talon.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,12,20,29,38,39],
       "tags": [
         "Assassin"
       ],
@@ -5704,27 +5427,21 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.625
       }
-    }},
-    {"Taric": {
+    },
+    {
       "version": "12.6.1",
       "id": "Taric",
       "key": "44",
       "name": "Taric",
-      "title": "the Shield of Valoran",
-      "blurb": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a...",
+      "title": "The Shield of Valoran",
+      "blurb": "Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of ancient Targon, the Shield of Valoran now stands ever vigilant against the insidious corruption of the Void.",
       "info": {
         "attack": 4,
         "defense": 8,
         "magic": 5,
         "difficulty": 3
       },
-      "image": {
-        "splash": "Taric.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,9,18],
       "tags": [
         "Support",
         "Fighter"
@@ -5752,27 +5469,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    }},
-    {"Teemo": {
+    },
+    {
       "version": "12.6.1",
       "id": "Teemo",
       "key": "17",
       "name": "Teemo",
-      "title": "the Swift Scout",
-      "blurb": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes...",
+      "title": "The Swift Scout",
+      "blurb": "Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout's Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo's conviction is nothing to be trifled with.",
       "info": {
         "attack": 5,
         "defense": 3,
         "magic": 7,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Teemo.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,14,18,25,27,37,47],
       "tags": [
         "Marksman",
         "Assassin"
@@ -5800,27 +5511,21 @@
         "attackspeedperlevel": 3.38,
         "attackspeed": 0.69
       }
-    }},
-    {"Thresh": {
+    },
+    {
       "version": "12.6.1",
       "id": "Thresh",
       "key": "412",
       "name": "Thresh",
-      "title": "the Chain Warden",
-      "blurb": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with...",
+      "title": "The Chain Warden",
+      "blurb": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
       "info": {
         "attack": 5,
         "defense": 6,
         "magic": 6,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Thresh.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,13,14,15,17,27,28,38,39],
       "tags": [
         "Support",
         "Fighter"
@@ -5848,27 +5553,21 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    }},
-    {"Tristana": {
+    },
+    {
       "version": "12.6.1",
       "id": "Tristana",
       "key": "18",
       "name": "Tristana",
-      "title": "the Yordle Gunner",
-      "blurb": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her...",
+      "title": "The Yordle Gunner",
+      "blurb": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
       "info": {
         "attack": 9,
         "defense": 3,
         "magic": 5,
         "difficulty": 4
       },
-      "image": {
-        "splash": "Tristana.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,10,11,12,24,33,40,41,51],
       "tags": [
         "Marksman",
         "Assassin"
@@ -5896,27 +5595,21 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.656
       }
-    }},
-    {"Trundle": {
+    },
+    {
       "version": "12.6.1",
       "id": "Trundle",
       "key": "48",
       "name": "Trundle",
-      "title": "the Troll King",
-      "blurb": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his...",
+      "title": "The Troll King",
+      "blurb": "Trundle is a hulking and devious troll with a particularly vicious streak, and there is nothing he cannot bludgeon into submission—not even the Freljord itself. Fiercely territorial, he chases down anyone foolish enough to enter his domain. Then, his massive club of True Ice at the ready, he chills his enemies to the bone and impales them with jagged, frozen pillars, laughing as they bleed out onto the tundra.",
       "info": {
         "attack": 7,
         "defense": 6,
         "magic": 2,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Trundle.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,12],
       "tags": [
         "Fighter",
         "Tank"
@@ -5944,27 +5637,21 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.67
       }
-    }},
-    {"Tryndamere": {
+    },
+    {
       "version": "12.6.1",
       "id": "Tryndamere",
       "key": "23",
       "name": "Tryndamere",
-      "title": "the Barbarian King",
-      "blurb": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the...",
+      "title": "The Barbarian King",
+      "blurb": "Fueled by unbridled fury and rage, Tryndamere once carved his way through the Freljord, openly challenging the greatest warriors of the north to prepare himself for even darker days ahead. The wrathful barbarian has long sought revenge for the annihilation of his clan, though more recently he has found companionship with Ashe, the Avarosan warmother, and a home with her people. His almost inhuman strength and fortitude is legendary, and has delivered him and his new allies countless victories against the greatest of odds.",
       "info": {
         "attack": 10,
         "defense": 5,
         "magic": 2,
         "difficulty": 5
       },
-      "image": {
-        "splash": "Tryndamere.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,18],
       "tags": [
         "Fighter",
         "Assassin"
@@ -5992,27 +5679,21 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.67
       }
-    }},
-    {"TwistedFate": {
+    },
+    {
       "version": "12.6.1",
       "id": "TwistedFate",
       "key": "4",
       "name": "Twisted Fate",
-      "title": "the Card Master",
-      "blurb": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking...",
+      "title": "The Card Master",
+      "blurb": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.",
       "info": {
         "attack": 6,
         "defense": 2,
         "magic": 6,
         "difficulty": 9
       },
-      "image": {
-        "splash": "TwistedFate.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,11,13,23,25,36],
       "tags": [
         "Mage"
       ],
@@ -6039,27 +5720,21 @@
         "attackspeedperlevel": 3.22,
         "attackspeed": 0.651
       }
-    }},
-    {"Twitch": {
+    },
+    {
       "version": "12.6.1",
       "id": "Twitch",
       "key": "29",
       "name": "Twitch",
-      "title": "the Plague Rat",
-      "blurb": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really...",
+      "title": "The Plague Rat",
+      "blurb": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he's not rooting around in the Sump, he's digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.",
       "info": {
         "attack": 9,
         "defense": 2,
         "magic": 3,
         "difficulty": 6
       },
-      "image": {
-        "splash": "Twitch.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,12,29,36,45],
       "tags": [
         "Marksman",
         "Assassin"
@@ -6087,27 +5762,21 @@
         "attackspeedperlevel": 3.38,
         "attackspeed": 0.679
       }
-    }},
-    {"Udyr": {
+    },
+    {
       "version": "12.6.1",
       "id": "Udyr",
       "key": "77",
       "name": "Udyr",
-      "title": "the Spirit Walker",
-      "blurb": "Udyr is more than a man; he is a vessel for the untamed power of four primal animal spirits. When tapping into the spirits' bestial natures, Udyr can harness their unique strengths: The tiger grants him speed and ferocity, the turtle resilience, the...",
+      "title": "The Spirit Walker",
+      "blurb": "The most powerful spirit walker alive, Udyr communes with all the spirits of the Freljord, whether by empathically understanding their needs, or by channeling and transforming their ethereal energy into his own primal fighting style. He seeks balance within, so that his mind does not get lost amidst others, but he also seeks balance without—for the Freljord's mystical landscape can only thrive with the growth that comes from conflict and struggle, and Udyr knows that sacrifices must be made to keep peaceful stagnance at bay.",
       "info": {
         "attack": 8,
         "defense": 7,
         "magic": 4,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Udyr.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6],
       "tags": [
         "Fighter",
         "Tank"
@@ -6135,27 +5804,21 @@
         "attackspeedperlevel": 2.67,
         "attackspeed": 0.658
       }
-    }},
-    {"Urgot": {
+    },
+    {
       "version": "12.6.1",
       "id": "Urgot",
       "key": "6",
       "name": "Urgot",
-      "title": "the Dreadnought",
-      "blurb": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that...",
+      "title": "The Dreadnought",
+      "blurb": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.",
       "info": {
         "attack": 8,
         "defense": 5,
         "magic": 3,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Urgot.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,9,15,23],
       "tags": [
         "Fighter",
         "Tank"
@@ -6183,27 +5846,21 @@
         "attackspeedperlevel": 3.75,
         "attackspeed": 0.625
       }
-    }},
-    {"Varus": {
+    },
+    {
       "version": "12.6.1",
       "id": "Varus",
       "key": "110",
       "name": "Varus",
-      "title": "the Arrow of Retribution",
-      "blurb": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade...",
+      "title": "The Arrow of Retribution",
+      "blurb": "One of the ancient darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters—they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.",
       "info": {
         "attack": 7,
         "defense": 3,
         "magic": 4,
         "difficulty": 2
       },
-      "image": {
-        "splash": "Varus.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,9,16,17,34,44],
       "tags": [
         "Marksman",
         "Mage"
@@ -6231,27 +5888,21 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.658
       }
-    }},
-    {"Vayne": {
+    },
+    {
       "version": "12.6.1",
       "id": "Vayne",
       "key": "67",
       "name": "Vayne",
-      "title": "the Night Hunter",
-      "blurb": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when...",
+      "title": "The Night Hunter",
+      "blurb": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
       "info": {
         "attack": 10,
         "defense": 1,
         "magic": 1,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Vayne.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,10,11,12,13,14,15,25,32,33,44],
       "tags": [
         "Marksman",
         "Assassin"
@@ -6279,27 +5930,21 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.658
       }
-    }},
-    {"Veigar": {
+    },
+    {
       "version": "12.6.1",
       "id": "Veigar",
       "key": "45",
       "name": "Veigar",
-      "title": "the Tiny Master of Evil",
-      "blurb": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been...",
+      "title": "The Tiny Master of Evil",
+      "blurb": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been hidden away for thousands of years. Now a stubborn creature with an endless fascination for the mysteries of the universe, Veigar is often underestimated by others—but even though he believes himself truly evil, he possesses an inner morality that leads some to question his deeper motivations.",
       "info": {
         "attack": 2,
         "defense": 2,
         "magic": 10,
         "difficulty": 7
       },
-      "image": {
-        "splash": "Veigar.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,13,23,32,41],
       "tags": [
         "Mage"
       ],
@@ -6326,27 +5971,21 @@
         "attackspeedperlevel": 2.24,
         "attackspeed": 0.625
       }
-    }},
-    {"Velkoz": {
+    },
+    {
       "version": "12.6.1",
       "id": "Velkoz",
       "key": "161",
       "name": "Vel'Koz",
-      "title": "the Eye of the Void",
-      "blurb": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to...",
+      "title": "The Eye of the Void",
+      "blurb": "It is unclear if Vel'Koz was the first Void-spawn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel'Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself.",
       "info": {
         "attack": 2,
         "defense": 2,
         "magic": 10,
         "difficulty": 8
       },
-      "image": {
-        "splash": "Velkoz.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,2,3,4,11],
       "tags": [
         "Mage"
       ],
@@ -6373,27 +6012,21 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    }},
-    {"Vex": {
+    },
+    {
       "version": "12.6.1",
       "id": "Vex",
       "key": "711",
       "name": "Vex",
-      "title": "the Gloomist",
-      "blurb": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting...",
+      "title": "The Gloomist",
+      "blurb": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting cheer of the “normie” world. Though she lacks ambition, she is quick to strike down color and happiness, stopping all would-be interlopers with her magical malaise.",
       "info": {
         "attack": 0,
         "defense": 0,
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "splash": "Vex.png",
-        "centered": "champion4.png",
-        "loading": "champion",
-        "tiles": "a"
-
-      },
+      "skins": [0,1,10],
       "tags": [
         "Mage"
       ],
@@ -6420,7 +6053,7 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.669
       }
-    }},
+    },
     {"Vi": {
       "version": "12.6.1",
       "id": "Vi",

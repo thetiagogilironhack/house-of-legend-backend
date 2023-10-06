@@ -1,27 +1,19 @@
 {
-  "champions": {
-    "Aatrox": {
+  "champions": [
+    {"Aatrox": {
       "version": "12.6.1",
       "id": "Aatrox",
       "key": "266",
       "name": "Aatrox",
       "title": "the Darkin Blade",
-      "blurb": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find...",
+      "blurb": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.",
       "info": {
         "attack": 8,
         "defense": 4,
         "magic": 3,
         "difficulty": 4
       },
-      "image": {
-        "full": "Aatrox.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,2,3,7,8,9,11,20,21,30,31],
       "tags": [
         "Fighter",
         "Tank"
@@ -49,29 +41,21 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.651
       }
-    },
-    "Ahri": {
+    }},
+    {"Ahri": {
       "version": "12.6.1",
       "id": "Ahri",
       "key": "103",
       "name": "Ahri",
       "title": "the Nine-Tailed Fox",
-      "blurb": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature...",
+      "blurb": "Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward predator, Ahri is now traveling the world in search of remnants of her ancestors while also trying to replace her stolen memories with ones of her own making.",
       "info": {
         "attack": 3,
         "defense": 4,
         "magic": 8,
         "difficulty": 5
       },
-      "image": {
-        "full": "Ahri.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,2,3,4,5,6,7,14,15,16,17,27,28,42,65,66,76],
       "tags": [
         "Mage",
         "Assassin"
@@ -99,29 +83,21 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.668
       }
-    },
-    "Akali": {
+    }},
+    {"Akali": {
       "version": "12.6.1",
       "id": "Akali",
       "key": "84",
       "name": "Akali",
       "title": "the Rogue Assassin",
-      "blurb": "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one...",
+      "blurb": "Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.",
       "info": {
         "attack": 5,
         "defense": 3,
         "magic": 8,
         "difficulty": 7
       },
-      "image": {
-        "full": "Akali.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,2,3,7,8,9,13,14,15,32,50,60,61,68],
       "tags": [
         "Assassin"
       ],
@@ -148,29 +124,21 @@
         "attackspeedperlevel": 3.2,
         "attackspeed": 0.625
       }
-    },
-    "Akshan": {
+    }},
+    {"Akshan": {
       "version": "12.6.1",
       "id": "Akshan",
       "key": "166",
       "name": "Akshan",
       "title": "the Rogue Sentinel",
-      "blurb": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they...",
+      "blurb": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra's many scoundrels while living by his own moral code: “Don't be an ass.”",
       "info": {
         "attack": 0,
         "defense": 0,
         "magic": 0,
         "difficulty": 0
       },
-      "image": {
-        "full": "Akshan.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,10],
       "tags": [
         "Marksman",
         "Assassin"
@@ -198,29 +166,21 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.638
       }
-    },
-    "Alistar": {
+    }},
+    {"Alistar": {
       "version": "12.6.1",
       "id": "Alistar",
       "key": "12",
       "name": "Alistar",
       "title": "the Minotaur",
-      "blurb": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly...",
+      "blurb": "Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly becoming a beast. Now, free of the chains of his former masters, he fights in the name of the downtrodden and the disadvantaged, his rage as much a weapon as his horns, hooves and fists.",
       "info": {
         "attack": 6,
         "defense": 9,
         "magic": 5,
         "difficulty": 7
       },
-      "image": {
-        "full": "Alistar.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,9,10,19,20,22,29],
       "tags": [
         "Tank",
         "Support"
@@ -248,29 +208,21 @@
         "attackspeedperlevel": 2.125,
         "attackspeed": 0.625
       }
-    },
-    "Amumu": {
+    }},
+    {"Amumu": {
       "version": "12.6.1",
       "id": "Amumu",
       "key": "32",
       "name": "Amumu",
       "title": "the Sad Mummy",
-      "blurb": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe...",
+      "blurb": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction.",
       "info": {
         "attack": 2,
         "defense": 6,
         "magic": 8,
         "difficulty": 3
       },
-      "image": {
-        "full": "Amumu.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
-      },
+      "skins": [0,1,2,3,4,5,6,7,8,17,23,24,34,44],
       "tags": [
         "Tank",
         "Mage"
@@ -298,8 +250,8 @@
         "attackspeedperlevel": 2.18,
         "attackspeed": 0.736
       }
-    },
-    "Anivia": {
+    }},
+    {"Anivia": {
       "version": "12.6.1",
       "id": "Anivia",
       "key": "34",
@@ -313,13 +265,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Anivia.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Anivia.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -348,8 +298,8 @@
         "attackspeedperlevel": 1.68,
         "attackspeed": 0.625
       }
-    },
-    "Annie": {
+    }},
+    {"Annie": {
       "version": "12.6.1",
       "id": "Annie",
       "key": "1",
@@ -363,13 +313,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Annie.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Annie.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -397,8 +345,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.579
       }
-    },
-    "Aphelios": {
+    }},
+    {"Aphelios": {
       "version": "12.6.1",
       "id": "Aphelios",
       "key": "523",
@@ -412,13 +360,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Aphelios.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Aphelios.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -446,8 +392,8 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.64
       }
-    },
-    "Ashe": {
+    }},
+    {"Ashe": {
       "version": "12.6.1",
       "id": "Ashe",
       "key": "22",
@@ -461,13 +407,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Ashe.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Ashe.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -496,8 +440,8 @@
         "attackspeedperlevel": 3.33,
         "attackspeed": 0.658
       }
-    },
-    "AurelionSol": {
+    }},
+    {"AurelionSol": {
       "version": "12.6.1",
       "id": "AurelionSol",
       "key": "136",
@@ -511,13 +455,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "AurelionSol.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "AurelionSol.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -545,8 +487,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "Azir": {
+    }},
+    {"Azir": {
       "version": "12.6.1",
       "id": "Azir",
       "key": "268",
@@ -560,13 +502,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Azir.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Azir.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -595,8 +535,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.625
       }
-    },
-    "Bard": {
+    }},
+    {"Bard": {
       "version": "12.6.1",
       "id": "Bard",
       "key": "432",
@@ -610,13 +550,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Bard.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Bard.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -645,8 +583,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "Blitzcrank": {
+    }},
+    {"Blitzcrank": {
       "version": "12.6.1",
       "id": "Blitzcrank",
       "key": "53",
@@ -660,13 +598,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Blitzcrank.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Blitzcrank.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Tank",
@@ -695,8 +631,8 @@
         "attackspeedperlevel": 1.13,
         "attackspeed": 0.625
       }
-    },
-    "Brand": {
+    }},
+    {"Brand": {
       "version": "12.6.1",
       "id": "Brand",
       "key": "63",
@@ -710,13 +646,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Brand.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Brand.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -744,8 +678,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "Braum": {
+    }},
+    {"Braum": {
       "version": "12.6.1",
       "id": "Braum",
       "key": "201",
@@ -759,13 +693,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Braum.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Braum.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -794,8 +726,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.644
       }
-    },
-    "Caitlyn": {
+    }},
+    {"Caitlyn": {
       "version": "12.6.1",
       "id": "Caitlyn",
       "key": "51",
@@ -809,13 +741,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Caitlyn.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Caitlyn.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -843,8 +773,8 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.681
       }
-    },
-    "Camille": {
+    }},
+    {"Camille": {
       "version": "12.6.1",
       "id": "Camille",
       "key": "164",
@@ -858,13 +788,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Camille.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Camille.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -893,8 +821,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.644
       }
-    },
-    "Cassiopeia": {
+    }},
+    {"Cassiopeia": {
       "version": "12.6.1",
       "id": "Cassiopeia",
       "key": "69",
@@ -908,13 +836,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Cassiopeia.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Cassiopeia.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -942,8 +868,8 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.647
       }
-    },
-    "Chogath": {
+    }},
+    {"Chogath": {
       "version": "12.6.1",
       "id": "Chogath",
       "key": "31",
@@ -957,13 +883,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Chogath.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Chogath.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Tank",
@@ -992,8 +916,8 @@
         "attackspeedperlevel": 1.44,
         "attackspeed": 0.625
       }
-    },
-    "Corki": {
+    }},
+    {"Corki": {
       "version": "12.6.1",
       "id": "Corki",
       "key": "42",
@@ -1007,13 +931,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Corki.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Corki.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -1041,8 +963,8 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.638
       }
-    },
-    "Darius": {
+    }},
+    {"Darius": {
       "version": "12.6.1",
       "id": "Darius",
       "key": "122",
@@ -1056,13 +978,11 @@
         "difficulty": 2
       },
       "image": {
-        "full": "Darius.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Darius.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1091,8 +1011,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.625
       }
-    },
-    "Diana": {
+    }},
+    {"Diana": {
       "version": "12.6.1",
       "id": "Diana",
       "key": "131",
@@ -1106,13 +1026,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Diana.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Diana.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1141,8 +1059,8 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.625
       }
-    },
-    "Draven": {
+    }},
+    {"Draven": {
       "version": "12.6.1",
       "id": "Draven",
       "key": "119",
@@ -1156,13 +1074,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Draven.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Draven.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -1190,8 +1106,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.679
       }
-    },
-    "DrMundo": {
+    }},
+    {"DrMundo": {
       "version": "12.6.1",
       "id": "DrMundo",
       "key": "36",
@@ -1205,13 +1121,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "DrMundo.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "DrMundo.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1240,8 +1154,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.72
       }
-    },
-    "Ekko": {
+    }},
+    {"Ekko": {
       "version": "12.6.1",
       "id": "Ekko",
       "key": "245",
@@ -1255,13 +1169,10 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Ekko.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Ekko.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
       },
       "tags": [
         "Assassin",
@@ -1290,8 +1201,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.688
       }
-    },
-    "Elise": {
+    }},
+    {"Elise": {
       "version": "12.6.1",
       "id": "Elise",
       "key": "60",
@@ -1305,13 +1216,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Elise.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Elise.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -1340,8 +1249,8 @@
         "attackspeedperlevel": 1.75,
         "attackspeed": 0.625
       }
-    },
-    "Evelynn": {
+    }},
+    {"Evelynn": {
       "version": "12.6.1",
       "id": "Evelynn",
       "key": "28",
@@ -1355,13 +1264,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Evelynn.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Evelynn.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin",
@@ -1390,8 +1297,8 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.667
       }
-    },
-    "Ezreal": {
+    }},
+    {"Ezreal": {
       "version": "12.6.1",
       "id": "Ezreal",
       "key": "81",
@@ -1405,13 +1312,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Ezreal.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Ezreal.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -1440,8 +1345,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.625
       }
-    },
-    "Fiddlesticks": {
+    }},
+    {"Fiddlesticks": {
       "version": "12.6.1",
       "id": "Fiddlesticks",
       "key": "9",
@@ -1455,13 +1360,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Fiddlesticks.png",
-        "sprite": "champion0.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Fiddlesticks.png",
+        "centered": "champion0.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -1490,8 +1393,8 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    },
-    "Fiora": {
+    }},
+    {"Fiora": {
       "version": "12.6.1",
       "id": "Fiora",
       "key": "114",
@@ -1505,13 +1408,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Fiora.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Fiora.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -1540,8 +1441,8 @@
         "attackspeedperlevel": 3.2,
         "attackspeed": 0.69
       }
-    },
-    "Fizz": {
+    }},
+    {"Fizz": {
       "version": "12.6.1",
       "id": "Fizz",
       "key": "105",
@@ -1555,13 +1456,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Fizz.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Fizz.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin",
@@ -1590,8 +1489,8 @@
         "attackspeedperlevel": 3.1,
         "attackspeed": 0.658
       }
-    },
-    "Galio": {
+    }},
+    {"Galio": {
       "version": "12.6.1",
       "id": "Galio",
       "key": "3",
@@ -1605,13 +1504,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Galio.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Galio.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Tank",
@@ -1640,8 +1537,8 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.625
       }
-    },
-    "Gangplank": {
+    }},
+    {"Gangplank": {
       "version": "12.6.1",
       "id": "Gangplank",
       "key": "41",
@@ -1655,13 +1552,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Gangplank.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Gangplank.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter"
@@ -1689,8 +1584,8 @@
         "attackspeedperlevel": 3.2,
         "attackspeed": 0.658
       }
-    },
-    "Garen": {
+    }},
+    {"Garen": {
       "version": "12.6.1",
       "id": "Garen",
       "key": "86",
@@ -1704,13 +1599,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Garen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Garen.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1739,8 +1632,8 @@
         "attackspeedperlevel": 3.65,
         "attackspeed": 0.625
       }
-    },
-    "Gnar": {
+    }},
+    {"Gnar": {
       "version": "12.6.1",
       "id": "Gnar",
       "key": "150",
@@ -1754,13 +1647,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Gnar.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Gnar.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1789,8 +1680,8 @@
         "attackspeedperlevel": 6,
         "attackspeed": 0.625
       }
-    },
-    "Gragas": {
+    }},
+    {"Gragas": {
       "version": "12.6.1",
       "id": "Gragas",
       "key": "79",
@@ -1804,13 +1695,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Gragas.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Gragas.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1839,8 +1728,8 @@
         "attackspeedperlevel": 2.05,
         "attackspeed": 0.675
       }
-    },
-    "Graves": {
+    }},
+    {"Graves": {
       "version": "12.6.1",
       "id": "Graves",
       "key": "104",
@@ -1854,13 +1743,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Graves.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Graves.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -1888,8 +1775,8 @@
         "attackspeedperlevel": 2.6,
         "attackspeed": 0.475
       }
-    },
-    "Gwen": {
+    }},
+    {"Gwen": {
       "version": "12.6.1",
       "id": "Gwen",
       "key": "887",
@@ -1903,13 +1790,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Gwen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Gwen.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1938,8 +1823,8 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.69
       }
-    },
-    "Hecarim": {
+    }},
+    {"Hecarim": {
       "version": "12.6.1",
       "id": "Hecarim",
       "key": "120",
@@ -1953,13 +1838,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Hecarim.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Hecarim.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -1988,8 +1871,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.67
       }
-    },
-    "Heimerdinger": {
+    }},
+    {"Heimerdinger": {
       "version": "12.6.1",
       "id": "Heimerdinger",
       "key": "74",
@@ -2003,13 +1886,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Heimerdinger.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Heimerdinger.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -2038,8 +1919,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "Illaoi": {
+    }},
+    {"Illaoi": {
       "version": "12.6.1",
       "id": "Illaoi",
       "key": "420",
@@ -2053,13 +1934,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Illaoi.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Illaoi.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -2088,8 +1967,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.625
       }
-    },
-    "Irelia": {
+    }},
+    {"Irelia": {
       "version": "12.6.1",
       "id": "Irelia",
       "key": "39",
@@ -2103,13 +1982,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Irelia.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Irelia.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -2138,8 +2015,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.656
       }
-    },
-    "Ivern": {
+    }},
+    {"Ivern": {
       "version": "12.6.1",
       "id": "Ivern",
       "key": "427",
@@ -2153,13 +2030,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Ivern.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Ivern.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -2188,8 +2063,8 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.644
       }
-    },
-    "Janna": {
+    }},
+    {"Janna": {
       "version": "12.6.1",
       "id": "Janna",
       "key": "40",
@@ -2203,13 +2078,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Janna.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Janna.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -2238,8 +2111,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.625
       }
-    },
-    "JarvanIV": {
+    }},
+    {"JarvanIV": {
       "version": "12.6.1",
       "id": "JarvanIV",
       "key": "59",
@@ -2253,13 +2126,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "JarvanIV.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "JarvanIV.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Tank",
@@ -2288,8 +2159,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    },
-    "Jax": {
+    }},
+    {"Jax": {
       "version": "12.6.1",
       "id": "Jax",
       "key": "24",
@@ -2303,13 +2174,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Jax.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Jax.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -2338,8 +2207,8 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.638
       }
-    },
-    "Jayce": {
+    }},
+    {"Jayce": {
       "version": "12.6.1",
       "id": "Jayce",
       "key": "126",
@@ -2353,13 +2222,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Jayce.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Jayce.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -2388,8 +2255,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.658
       }
-    },
-    "Jhin": {
+    }},
+    {"Jhin": {
       "version": "12.6.1",
       "id": "Jhin",
       "key": "202",
@@ -2403,13 +2270,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Jhin.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Jhin.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman",
@@ -2438,8 +2303,8 @@
         "attackspeedperlevel": 0,
         "attackspeed": 0.625
       }
-    },
-    "Jinx": {
+    }},
+    {"Jinx": {
       "version": "12.6.1",
       "id": "Jinx",
       "key": "222",
@@ -2453,13 +2318,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Jinx.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Jinx.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -2487,8 +2350,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.625
       }
-    },
-    "Kaisa": {
+    }},
+    {"Kaisa": {
       "version": "12.6.1",
       "id": "Kaisa",
       "key": "145",
@@ -2502,13 +2365,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Kaisa.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kaisa.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -2536,8 +2397,8 @@
         "attackspeedperlevel": 1.8,
         "attackspeed": 0.644
       }
-    },
-    "Kalista": {
+    }},
+    {"Kalista": {
       "version": "12.6.1",
       "id": "Kalista",
       "key": "429",
@@ -2551,13 +2412,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Kalista.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kalista.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -2585,8 +2444,8 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.694
       }
-    },
-    "Karma": {
+    }},
+    {"Karma": {
       "version": "12.6.1",
       "id": "Karma",
       "key": "43",
@@ -2600,13 +2459,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Karma.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Karma.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -2635,8 +2492,8 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.625
       }
-    },
-    "Karthus": {
+    }},
+    {"Karthus": {
       "version": "12.6.1",
       "id": "Karthus",
       "key": "30",
@@ -2650,13 +2507,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Karthus.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Karthus.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage"
@@ -2684,8 +2539,8 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    },
-    "Kassadin": {
+    }},
+    {"Kassadin": {
       "version": "12.6.1",
       "id": "Kassadin",
       "key": "38",
@@ -2699,13 +2554,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Kassadin.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kassadin.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -2734,8 +2587,8 @@
         "attackspeedperlevel": 3.7,
         "attackspeed": 0.64
       }
-    },
-    "Katarina": {
+    }},
+    {"Katarina": {
       "version": "12.6.1",
       "id": "Katarina",
       "key": "55",
@@ -2749,13 +2602,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Katarina.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Katarina.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -2784,8 +2635,8 @@
         "attackspeedperlevel": 2.74,
         "attackspeed": 0.658
       }
-    },
-    "Kayle": {
+    }},
+    {"Kayle": {
       "version": "12.6.1",
       "id": "Kayle",
       "key": "10",
@@ -2799,13 +2650,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Kayle.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kayle.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -2834,8 +2683,8 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.625
       }
-    },
-    "Kayn": {
+    }},
+    {"Kayn": {
       "version": "12.6.1",
       "id": "Kayn",
       "key": "141",
@@ -2849,13 +2698,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Kayn.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kayn.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -2884,8 +2731,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.669
       }
-    },
-    "Kennen": {
+    }},
+    {"Kennen": {
       "version": "12.6.1",
       "id": "Kennen",
       "key": "85",
@@ -2899,13 +2746,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Kennen.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Kennen.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -2934,8 +2779,8 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.625
       }
-    },
-    "Khazix": {
+    }},
+    {"Khazix": {
       "version": "12.6.1",
       "id": "Khazix",
       "key": "121",
@@ -2949,13 +2794,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Khazix.png",
-        "sprite": "champion1.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Khazix.png",
+        "centered": "champion1.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin"
@@ -2983,8 +2826,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.668
       }
-    },
-    "Kindred": {
+    }},
+    {"Kindred": {
       "version": "12.6.1",
       "id": "Kindred",
       "key": "203",
@@ -2998,13 +2841,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Kindred.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Kindred.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -3032,8 +2873,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "Kled": {
+    }},
+    {"Kled": {
       "version": "12.6.1",
       "id": "Kled",
       "key": "240",
@@ -3047,13 +2888,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Kled.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Kled.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -3082,8 +2921,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "KogMaw": {
+    }},
+    {"KogMaw": {
       "version": "12.6.1",
       "id": "KogMaw",
       "key": "96",
@@ -3097,13 +2936,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "KogMaw.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "KogMaw.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman",
@@ -3132,8 +2969,8 @@
         "attackspeedperlevel": 2.65,
         "attackspeed": 0.665
       }
-    },
-    "Leblanc": {
+    }},
+    {"Leblanc": {
       "version": "12.6.1",
       "id": "Leblanc",
       "key": "7",
@@ -3147,13 +2984,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Leblanc.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Leblanc.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -3182,8 +3017,8 @@
         "attackspeedperlevel": 1.4,
         "attackspeed": 0.625
       }
-    },
-    "LeeSin": {
+    }},
+    {"LeeSin": {
       "version": "12.6.1",
       "id": "LeeSin",
       "key": "64",
@@ -3197,13 +3032,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "LeeSin.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "LeeSin.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -3232,8 +3065,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.651
       }
-    },
-    "Leona": {
+    }},
+    {"Leona": {
       "version": "12.6.1",
       "id": "Leona",
       "key": "89",
@@ -3247,13 +3080,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Leona.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Leona.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -3282,8 +3113,8 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.625
       }
-    },
-    "Lillia": {
+    }},
+    {"Lillia": {
       "version": "12.6.1",
       "id": "Lillia",
       "key": "876",
@@ -3297,13 +3128,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Lillia.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Lillia.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -3332,8 +3161,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.625
       }
-    },
-    "Lissandra": {
+    }},
+    {"Lissandra": {
       "version": "12.6.1",
       "id": "Lissandra",
       "key": "127",
@@ -3347,13 +3176,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Lissandra.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Lissandra.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage"
@@ -3381,8 +3208,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.656
       }
-    },
-    "Lucian": {
+    }},
+    {"Lucian": {
       "version": "12.6.1",
       "id": "Lucian",
       "key": "236",
@@ -3396,13 +3223,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Lucian.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Lucian.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -3430,8 +3255,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.638
       }
-    },
-    "Lulu": {
+    }},
+    {"Lulu": {
       "version": "12.6.1",
       "id": "Lulu",
       "key": "117",
@@ -3445,13 +3270,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Lulu.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Lulu.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -3480,8 +3303,8 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.625
       }
-    },
-    "Lux": {
+    }},
+    {"Lux": {
       "version": "12.6.1",
       "id": "Lux",
       "key": "99",
@@ -3495,13 +3318,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Lux.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Lux.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -3530,8 +3351,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.669
       }
-    },
-    "Malphite": {
+    }},
+    {"Malphite": {
       "version": "12.6.1",
       "id": "Malphite",
       "key": "54",
@@ -3545,13 +3366,10 @@
         "difficulty": 2
       },
       "image": {
-        "full": "Malphite.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Malphite.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
       },
       "tags": [
         "Tank",
@@ -3580,8 +3398,8 @@
         "attackspeedperlevel": 3.4,
         "attackspeed": 0.736
       }
-    },
-    "Malzahar": {
+    }},
+    {"Malzahar": {
       "version": "12.6.1",
       "id": "Malzahar",
       "key": "90",
@@ -3595,13 +3413,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Malzahar.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Malzahar.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -3630,8 +3446,8 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.625
       }
-    },
-    "Maokai": {
+    }},
+    {"Maokai": {
       "version": "12.6.1",
       "id": "Maokai",
       "key": "57",
@@ -3645,13 +3461,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Maokai.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Maokai.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -3680,8 +3494,8 @@
         "attackspeedperlevel": 2.125,
         "attackspeed": 0.8
       }
-    },
-    "MasterYi": {
+    }},
+    {"MasterYi": {
       "version": "12.6.1",
       "id": "MasterYi",
       "key": "11",
@@ -3695,13 +3509,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "MasterYi.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "MasterYi.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -3730,8 +3542,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.679
       }
-    },
-    "MissFortune": {
+    }},
+    {"MissFortune": {
       "version": "12.6.1",
       "id": "MissFortune",
       "key": "21",
@@ -3745,13 +3557,11 @@
         "difficulty": 1
       },
       "image": {
-        "full": "MissFortune.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "MissFortune.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -3779,8 +3589,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.656
       }
-    },
-    "MonkeyKing": {
+    }},
+    {"MonkeyKing": {
       "version": "12.6.1",
       "id": "MonkeyKing",
       "key": "62",
@@ -3794,13 +3604,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "MonkeyKing.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "MonkeyKing.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -3829,8 +3637,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.711
       }
-    },
-    "Mordekaiser": {
+    }},
+    {"Mordekaiser": {
       "version": "12.6.1",
       "id": "Mordekaiser",
       "key": "82",
@@ -3844,13 +3652,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Mordekaiser.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Mordekaiser.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter"
@@ -3878,8 +3684,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.625
       }
-    },
-    "Morgana": {
+    }},
+    {"Morgana": {
       "version": "12.6.1",
       "id": "Morgana",
       "key": "25",
@@ -3893,13 +3699,11 @@
         "difficulty": 1
       },
       "image": {
-        "full": "Morgana.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Morgana.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -3928,8 +3732,8 @@
         "attackspeedperlevel": 1.53,
         "attackspeed": 0.625
       }
-    },
-    "Nami": {
+    }},
+    {"Nami": {
       "version": "12.6.1",
       "id": "Nami",
       "key": "267",
@@ -3943,13 +3747,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Nami.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Nami.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -3978,8 +3780,8 @@
         "attackspeedperlevel": 2.61,
         "attackspeed": 0.644
       }
-    },
-    "Nasus": {
+    }},
+    {"Nasus": {
       "version": "12.6.1",
       "id": "Nasus",
       "key": "75",
@@ -3993,13 +3795,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Nasus.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Nasus.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -4028,8 +3828,8 @@
         "attackspeedperlevel": 3.48,
         "attackspeed": 0.638
       }
-    },
-    "Nautilus": {
+    }},
+    {"Nautilus": {
       "version": "12.6.1",
       "id": "Nautilus",
       "key": "111",
@@ -4043,13 +3843,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Nautilus.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Nautilus.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -4078,8 +3876,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.706
       }
-    },
-    "Neeko": {
+    }},
+    {"Neeko": {
       "version": "12.6.1",
       "id": "Neeko",
       "key": "518",
@@ -4093,13 +3891,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Neeko.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Neeko.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -4128,8 +3924,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "Nidalee": {
+    }},
+    {"Nidalee": {
       "version": "12.6.1",
       "id": "Nidalee",
       "key": "76",
@@ -4143,13 +3939,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Nidalee.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Nidalee.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -4178,8 +3972,8 @@
         "attackspeedperlevel": 3.22,
         "attackspeed": 0.638
       }
-    },
-    "Nocturne": {
+    }},
+    {"Nocturne": {
       "version": "12.6.1",
       "id": "Nocturne",
       "key": "56",
@@ -4193,13 +3987,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Nocturne.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Nocturne.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin",
@@ -4228,8 +4020,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.721
       }
-    },
-    "Nunu": {
+    }},
+    {"Nunu": {
       "version": "12.6.1",
       "id": "Nunu",
       "key": "20",
@@ -4243,13 +4035,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Nunu.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Nunu.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -4278,8 +4068,8 @@
         "attackspeedperlevel": 2.25,
         "attackspeed": 0.625
       }
-    },
-    "Olaf": {
+    }},
+    {"Olaf": {
       "version": "12.6.1",
       "id": "Olaf",
       "key": "2",
@@ -4293,13 +4083,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Olaf.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Olaf.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -4328,8 +4116,8 @@
         "attackspeedperlevel": 2.7,
         "attackspeed": 0.694
       }
-    },
-    "Orianna": {
+    }},
+    {"Orianna": {
       "version": "12.6.1",
       "id": "Orianna",
       "key": "61",
@@ -4343,13 +4131,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Orianna.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Orianna.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -4378,8 +4164,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.658
       }
-    },
-    "Ornn": {
+    }},
+    {"Ornn": {
       "version": "12.6.1",
       "id": "Ornn",
       "key": "516",
@@ -4393,13 +4179,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Ornn.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Ornn.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -4428,8 +4212,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "Pantheon": {
+    }},
+    {"Pantheon": {
       "version": "12.6.1",
       "id": "Pantheon",
       "key": "80",
@@ -4443,13 +4227,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Pantheon.png",
-        "sprite": "champion2.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Pantheon.png",
+        "centered": "champion2.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -4478,8 +4260,8 @@
         "attackspeedperlevel": 2.95,
         "attackspeed": 0.644
       }
-    },
-    "Poppy": {
+    }},
+    {"Poppy": {
       "version": "12.6.1",
       "id": "Poppy",
       "key": "78",
@@ -4493,13 +4275,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Poppy.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Poppy.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -4528,8 +4308,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.625
       }
-    },
-    "Pyke": {
+    }},
+    {"Pyke": {
       "version": "12.6.1",
       "id": "Pyke",
       "key": "555",
@@ -4543,13 +4323,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Pyke.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Pyke.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -4578,8 +4356,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.667
       }
-    },
-    "Qiyana": {
+    }},
+    {"Qiyana": {
       "version": "12.6.1",
       "id": "Qiyana",
       "key": "246",
@@ -4593,13 +4371,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Qiyana.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Qiyana.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -4628,8 +4404,8 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.688
       }
-    },
-    "Quinn": {
+    }},
+    {"Quinn": {
       "version": "12.6.1",
       "id": "Quinn",
       "key": "133",
@@ -4643,13 +4419,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Quinn.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Quinn.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman",
@@ -4678,8 +4452,8 @@
         "attackspeedperlevel": 3.1,
         "attackspeed": 0.668
       }
-    },
-    "Rakan": {
+    }},
+    {"Rakan": {
       "version": "12.6.1",
       "id": "Rakan",
       "key": "497",
@@ -4693,13 +4467,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Rakan.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Rakan.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support"
@@ -4727,8 +4499,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.635
       }
-    },
-    "Rammus": {
+    }},
+    {"Rammus": {
       "version": "12.6.1",
       "id": "Rammus",
       "key": "33",
@@ -4742,13 +4514,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Rammus.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Rammus.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -4777,8 +4547,8 @@
         "attackspeedperlevel": 2.215,
         "attackspeed": 0.656
       }
-    },
-    "RekSai": {
+    }},
+    {"RekSai": {
       "version": "12.6.1",
       "id": "RekSai",
       "key": "421",
@@ -4792,13 +4562,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "RekSai.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "RekSai.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter"
@@ -4826,8 +4594,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.667
       }
-    },
-    "Rell": {
+    }},
+    {"Rell": {
       "version": "12.6.1",
       "id": "Rell",
       "key": "526",
@@ -4841,13 +4609,11 @@
         "difficulty": 0
       },
       "image": {
-        "full": "Rell.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Rell.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank"
@@ -4875,8 +4641,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.55
       }
-    },
-    "Renata": {
+    }},
+    {"Renata": {
       "version": "12.6.1",
       "id": "Renata",
       "key": "888",
@@ -4890,13 +4656,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Renata.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Renata.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -4925,8 +4689,8 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    },
-    "Renekton": {
+    }},
+    {"Renekton": {
       "version": "12.6.1",
       "id": "Renekton",
       "key": "58",
@@ -4940,13 +4704,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Renekton.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Renekton.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -4975,8 +4737,8 @@
         "attackspeedperlevel": 2.75,
         "attackspeed": 0.665
       }
-    },
-    "Rengar": {
+    }},
+    {"Rengar": {
       "version": "12.6.1",
       "id": "Rengar",
       "key": "107",
@@ -4990,13 +4752,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Rengar.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Rengar.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -5025,8 +4785,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.667
       }
-    },
-    "Riven": {
+    }},
+    {"Riven": {
       "version": "12.6.1",
       "id": "Riven",
       "key": "92",
@@ -5040,13 +4800,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Riven.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Riven.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -5075,8 +4833,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "Rumble": {
+    }},
+    {"Rumble": {
       "version": "12.6.1",
       "id": "Rumble",
       "key": "68",
@@ -5090,13 +4848,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Rumble.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Rumble.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -5125,8 +4881,8 @@
         "attackspeedperlevel": 1.85,
         "attackspeed": 0.644
       }
-    },
-    "Ryze": {
+    }},
+    {"Ryze": {
       "version": "12.6.1",
       "id": "Ryze",
       "key": "13",
@@ -5140,13 +4896,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Ryze.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Ryze.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -5175,8 +4929,8 @@
         "attackspeedperlevel": 2.112,
         "attackspeed": 0.625
       }
-    },
-    "Samira": {
+    }},
+    {"Samira": {
       "version": "12.6.1",
       "id": "Samira",
       "key": "360",
@@ -5190,13 +4944,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Samira.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Samira.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -5224,8 +4976,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.658
       }
-    },
-    "Sejuani": {
+    }},
+    {"Sejuani": {
       "version": "12.6.1",
       "id": "Sejuani",
       "key": "113",
@@ -5239,13 +4991,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Sejuani.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Sejuani.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -5274,8 +5024,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.688
       }
-    },
-    "Senna": {
+    }},
+    {"Senna": {
       "version": "12.6.1",
       "id": "Senna",
       "key": "235",
@@ -5289,13 +5039,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Senna.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Senna.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman",
@@ -5324,8 +5072,8 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.625
       }
-    },
-    "Seraphine": {
+    }},
+    {"Seraphine": {
       "version": "12.6.1",
       "id": "Seraphine",
       "key": "147",
@@ -5339,13 +5087,11 @@
         "difficulty": 0
       },
       "image": {
-        "full": "Seraphine.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Seraphine.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -5374,8 +5120,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.669
       }
-    },
-    "Sett": {
+    }},
+    {"Sett": {
       "version": "12.6.1",
       "id": "Sett",
       "key": "875",
@@ -5389,13 +5135,11 @@
         "difficulty": 2
       },
       "image": {
-        "full": "Sett.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Sett.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -5424,8 +5168,8 @@
         "attackspeedperlevel": 1.75,
         "attackspeed": 0.625
       }
-    },
-    "Shaco": {
+    }},
+    {"Shaco": {
       "version": "12.6.1",
       "id": "Shaco",
       "key": "35",
@@ -5439,13 +5183,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Shaco.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Shaco.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin"
@@ -5473,8 +5215,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.694
       }
-    },
-    "Shen": {
+    }},
+    {"Shen": {
       "version": "12.6.1",
       "id": "Shen",
       "key": "98",
@@ -5488,13 +5230,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Shen.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Shen.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank"
@@ -5522,8 +5262,8 @@
         "attackspeedperlevel": 3,
         "attackspeed": 0.751
       }
-    },
-    "Shyvana": {
+    }},
+    {"Shyvana": {
       "version": "12.6.1",
       "id": "Shyvana",
       "key": "102",
@@ -5537,13 +5277,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Shyvana.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Shyvana.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -5572,8 +5310,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    },
-    "Singed": {
+    }},
+    {"Singed": {
       "version": "12.6.1",
       "id": "Singed",
       "key": "27",
@@ -5587,13 +5325,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Singed.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Singed.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -5622,8 +5358,8 @@
         "attackspeedperlevel": 1.9,
         "attackspeed": 0.613
       }
-    },
-    "Sion": {
+    }},
+    {"Sion": {
       "version": "12.6.1",
       "id": "Sion",
       "key": "14",
@@ -5637,13 +5373,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Sion.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Sion.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Tank",
@@ -5672,8 +5406,8 @@
         "attackspeedperlevel": 1.3,
         "attackspeed": 0.679
       }
-    },
-    "Sivir": {
+    }},
+    {"Sivir": {
       "version": "12.6.1",
       "id": "Sivir",
       "key": "15",
@@ -5687,13 +5421,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Sivir.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Sivir.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -5721,8 +5453,8 @@
         "attackspeedperlevel": 1.6,
         "attackspeed": 0.625
       }
-    },
-    "Skarner": {
+    }},
+    {"Skarner": {
       "version": "12.6.1",
       "id": "Skarner",
       "key": "72",
@@ -5736,13 +5468,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Skarner.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Skarner.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -5771,8 +5501,8 @@
         "attackspeedperlevel": 2.1,
         "attackspeed": 0.625
       }
-    },
-    "Sona": {
+    }},
+    {"Sona": {
       "version": "12.6.1",
       "id": "Sona",
       "key": "37",
@@ -5786,13 +5516,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Sona.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Sona.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -5821,8 +5549,8 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.644
       }
-    },
-    "Soraka": {
+    }},
+    {"Soraka": {
       "version": "12.6.1",
       "id": "Soraka",
       "key": "16",
@@ -5836,13 +5564,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Soraka.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Soraka.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -5871,8 +5597,8 @@
         "attackspeedperlevel": 2.14,
         "attackspeed": 0.625
       }
-    },
-    "Swain": {
+    }},
+    {"Swain": {
       "version": "12.6.1",
       "id": "Swain",
       "key": "50",
@@ -5886,13 +5612,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Swain.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Swain.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -5921,8 +5645,8 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    },
-    "Sylas": {
+    }},
+    {"Sylas": {
       "version": "12.6.1",
       "id": "Sylas",
       "key": "517",
@@ -5936,13 +5660,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Sylas.png",
-        "sprite": "champion3.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Sylas.png",
+        "centered": "champion3.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -5971,8 +5693,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.645
       }
-    },
-    "Syndra": {
+    }},
+    {"Syndra": {
       "version": "12.6.1",
       "id": "Syndra",
       "key": "134",
@@ -5986,13 +5708,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Syndra.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Syndra.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -6021,8 +5741,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "TahmKench": {
+    }},
+    {"TahmKench": {
       "version": "12.6.1",
       "id": "TahmKench",
       "key": "223",
@@ -6036,13 +5756,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "TahmKench.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "TahmKench.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Support",
@@ -6071,8 +5789,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    },
-    "Taliyah": {
+    }},
+    {"Taliyah": {
       "version": "12.6.1",
       "id": "Taliyah",
       "key": "163",
@@ -6086,13 +5804,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Taliyah.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Taliyah.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage",
@@ -6121,8 +5837,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "Talon": {
+    }},
+    {"Talon": {
       "version": "12.6.1",
       "id": "Talon",
       "key": "91",
@@ -6136,13 +5852,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Talon.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Talon.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin"
@@ -6170,8 +5884,8 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.625
       }
-    },
-    "Taric": {
+    }},
+    {"Taric": {
       "version": "12.6.1",
       "id": "Taric",
       "key": "44",
@@ -6185,13 +5899,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Taric.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Taric.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -6220,8 +5932,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "Teemo": {
+    }},
+    {"Teemo": {
       "version": "12.6.1",
       "id": "Teemo",
       "key": "17",
@@ -6235,13 +5947,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Teemo.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Teemo.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -6270,8 +5980,8 @@
         "attackspeedperlevel": 3.38,
         "attackspeed": 0.69
       }
-    },
-    "Thresh": {
+    }},
+    {"Thresh": {
       "version": "12.6.1",
       "id": "Thresh",
       "key": "412",
@@ -6285,13 +5995,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Thresh.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Thresh.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -6320,8 +6028,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "Tristana": {
+    }},
+    {"Tristana": {
       "version": "12.6.1",
       "id": "Tristana",
       "key": "18",
@@ -6335,13 +6043,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Tristana.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Tristana.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -6370,8 +6076,8 @@
         "attackspeedperlevel": 1.5,
         "attackspeed": 0.656
       }
-    },
-    "Trundle": {
+    }},
+    {"Trundle": {
       "version": "12.6.1",
       "id": "Trundle",
       "key": "48",
@@ -6385,13 +6091,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Trundle.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Trundle.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -6420,8 +6124,8 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.67
       }
-    },
-    "Tryndamere": {
+    }},
+    {"Tryndamere": {
       "version": "12.6.1",
       "id": "Tryndamere",
       "key": "23",
@@ -6435,13 +6139,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Tryndamere.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Tryndamere.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -6470,8 +6172,8 @@
         "attackspeedperlevel": 2.9,
         "attackspeed": 0.67
       }
-    },
-    "TwistedFate": {
+    }},
+    {"TwistedFate": {
       "version": "12.6.1",
       "id": "TwistedFate",
       "key": "4",
@@ -6485,13 +6187,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "TwistedFate.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "TwistedFate.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -6519,8 +6219,8 @@
         "attackspeedperlevel": 3.22,
         "attackspeed": 0.651
       }
-    },
-    "Twitch": {
+    }},
+    {"Twitch": {
       "version": "12.6.1",
       "id": "Twitch",
       "key": "29",
@@ -6534,13 +6234,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Twitch.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Twitch.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -6569,8 +6267,8 @@
         "attackspeedperlevel": 3.38,
         "attackspeed": 0.679
       }
-    },
-    "Udyr": {
+    }},
+    {"Udyr": {
       "version": "12.6.1",
       "id": "Udyr",
       "key": "77",
@@ -6584,13 +6282,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Udyr.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Udyr.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -6619,8 +6315,8 @@
         "attackspeedperlevel": 2.67,
         "attackspeed": 0.658
       }
-    },
-    "Urgot": {
+    }},
+    {"Urgot": {
       "version": "12.6.1",
       "id": "Urgot",
       "key": "6",
@@ -6634,13 +6330,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Urgot.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Urgot.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -6669,8 +6363,8 @@
         "attackspeedperlevel": 3.75,
         "attackspeed": 0.625
       }
-    },
-    "Varus": {
+    }},
+    {"Varus": {
       "version": "12.6.1",
       "id": "Varus",
       "key": "110",
@@ -6684,13 +6378,11 @@
         "difficulty": 2
       },
       "image": {
-        "full": "Varus.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Varus.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -6719,8 +6411,8 @@
         "attackspeedperlevel": 4,
         "attackspeed": 0.658
       }
-    },
-    "Vayne": {
+    }},
+    {"Vayne": {
       "version": "12.6.1",
       "id": "Vayne",
       "key": "67",
@@ -6734,13 +6426,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Vayne.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Vayne.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman",
@@ -6769,8 +6459,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.658
       }
-    },
-    "Veigar": {
+    }},
+    {"Veigar": {
       "version": "12.6.1",
       "id": "Veigar",
       "key": "45",
@@ -6784,13 +6474,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Veigar.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Veigar.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -6818,8 +6506,8 @@
         "attackspeedperlevel": 2.24,
         "attackspeed": 0.625
       }
-    },
-    "Velkoz": {
+    }},
+    {"Velkoz": {
       "version": "12.6.1",
       "id": "Velkoz",
       "key": "161",
@@ -6833,13 +6521,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Velkoz.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Velkoz.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -6867,8 +6553,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "Vex": {
+    }},
+    {"Vex": {
       "version": "12.6.1",
       "id": "Vex",
       "key": "711",
@@ -6882,13 +6568,11 @@
         "difficulty": 0
       },
       "image": {
-        "full": "Vex.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Vex.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -6916,8 +6600,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.669
       }
-    },
-    "Vi": {
+    }},
+    {"Vi": {
       "version": "12.6.1",
       "id": "Vi",
       "key": "254",
@@ -6931,13 +6615,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Vi.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 48,
-        "w": 48,
-        "h": 48
+        "splash": "Vi.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -6966,8 +6648,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.644
       }
-    },
-    "Viego": {
+    }},
+    {"Viego": {
       "version": "12.6.1",
       "id": "Viego",
       "key": "234",
@@ -6981,13 +6663,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Viego.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 0,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Viego.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin",
@@ -7016,8 +6696,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.658
       }
-    },
-    "Viktor": {
+    }},
+    {"Viktor": {
       "version": "12.6.1",
       "id": "Viktor",
       "key": "112",
@@ -7031,13 +6711,11 @@
         "difficulty": 9
       },
       "image": {
-        "full": "Viktor.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 48,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Viktor.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -7065,8 +6743,8 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.658
       }
-    },
-    "Vladimir": {
+    }},
+    {"Vladimir": {
       "version": "12.6.1",
       "id": "Vladimir",
       "key": "8",
@@ -7080,13 +6758,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Vladimir.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 96,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Vladimir.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -7114,8 +6790,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.658
       }
-    },
-    "Volibear": {
+    }},
+    {"Volibear": {
       "version": "12.6.1",
       "id": "Volibear",
       "key": "106",
@@ -7129,13 +6805,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Volibear.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 144,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Volibear.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -7164,8 +6838,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "Warwick": {
+    }},
+    {"Warwick": {
       "version": "12.6.1",
       "id": "Warwick",
       "key": "19",
@@ -7179,13 +6853,11 @@
         "difficulty": 3
       },
       "image": {
-        "full": "Warwick.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 192,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Warwick.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -7214,8 +6886,8 @@
         "attackspeedperlevel": 2.3,
         "attackspeed": 0.638
       }
-    },
-    "Xayah": {
+    }},
+    {"Xayah": {
       "version": "12.6.1",
       "id": "Xayah",
       "key": "498",
@@ -7229,13 +6901,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Xayah.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 240,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Xayah.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Marksman"
@@ -7263,8 +6933,8 @@
         "attackspeedperlevel": 3.9,
         "attackspeed": 0.625
       }
-    },
-    "Xerath": {
+    }},
+    {"Xerath": {
       "version": "12.6.1",
       "id": "Xerath",
       "key": "101",
@@ -7278,13 +6948,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Xerath.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 288,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Xerath.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage"
@@ -7312,8 +6980,8 @@
         "attackspeedperlevel": 1.36,
         "attackspeed": 0.625
       }
-    },
-    "XinZhao": {
+    }},
+    {"XinZhao": {
       "version": "12.6.1",
       "id": "XinZhao",
       "key": "5",
@@ -7327,13 +6995,11 @@
         "difficulty": 2
       },
       "image": {
-        "full": "XinZhao.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 336,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "XinZhao.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Fighter",
@@ -7362,8 +7028,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.645
       }
-    },
-    "Yasuo": {
+    }},
+    {"Yasuo": {
       "version": "12.6.1",
       "id": "Yasuo",
       "key": "157",
@@ -7377,13 +7043,11 @@
         "difficulty": 10
       },
       "image": {
-        "full": "Yasuo.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 384,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Yasuo.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -7412,8 +7076,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.697
       }
-    },
-    "Yone": {
+    }},
+    {"Yone": {
       "version": "12.6.1",
       "id": "Yone",
       "key": "777",
@@ -7427,13 +7091,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Yone.png",
-        "sprite": "champion4.png",
-        "group": "champion",
-        "x": 432,
-        "y": 96,
-        "w": 48,
-        "h": 48
+        "splash": "Yone.png",
+        "centered": "champion4.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Assassin",
@@ -7462,8 +7124,8 @@
         "attackspeedperlevel": 3.5,
         "attackspeed": 0.625
       }
-    },
-    "Yorick": {
+    }},
+    {"Yorick": {
       "version": "12.6.1",
       "id": "Yorick",
       "key": "83",
@@ -7477,13 +7139,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Yorick.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Yorick.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Fighter",
@@ -7512,8 +7172,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.625
       }
-    },
-    "Yuumi": {
+    }},
+    {"Yuumi": {
       "version": "12.6.1",
       "id": "Yuumi",
       "key": "350",
@@ -7527,13 +7187,11 @@
         "difficulty": 2
       },
       "image": {
-        "full": "Yuumi.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 48,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Yuumi.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -7562,8 +7220,8 @@
         "attackspeedperlevel": 1,
         "attackspeed": 0.625
       }
-    },
-    "Zac": {
+    }},
+    {"Zac": {
       "version": "12.6.1",
       "id": "Zac",
       "key": "154",
@@ -7577,13 +7235,11 @@
         "difficulty": 8
       },
       "image": {
-        "full": "Zac.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 96,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zac.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Tank",
@@ -7612,8 +7268,8 @@
         "attackspeedperlevel": 1.6,
         "attackspeed": 0.736
       }
-    },
-    "Zed": {
+    }},
+    {"Zed": {
       "version": "12.6.1",
       "id": "Zed",
       "key": "238",
@@ -7627,13 +7283,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Zed.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 144,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zed.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Assassin"
@@ -7661,8 +7315,8 @@
         "attackspeedperlevel": 3.3,
         "attackspeed": 0.651
       }
-    },
-    "Zeri": {
+    }},
+    {"Zeri": {
       "version": "12.6.1",
       "id": "Zeri",
       "key": "221",
@@ -7676,13 +7330,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Zeri.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 192,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zeri.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Marksman"
@@ -7710,8 +7362,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.658
       }
-    },
-    "Ziggs": {
+    }},
+    {"Ziggs": {
       "version": "12.6.1",
       "id": "Ziggs",
       "key": "115",
@@ -7725,13 +7377,11 @@
         "difficulty": 4
       },
       "image": {
-        "full": "Ziggs.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 240,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Ziggs.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a" 
+
       },
       "tags": [
         "Mage"
@@ -7759,8 +7409,8 @@
         "attackspeedperlevel": 2,
         "attackspeed": 0.656
       }
-    },
-    "Zilean": {
+    }},
+    {"Zilean": {
       "version": "12.6.1",
       "id": "Zilean",
       "key": "26",
@@ -7774,13 +7424,11 @@
         "difficulty": 6
       },
       "image": {
-        "full": "Zilean.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 288,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zilean.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Support",
@@ -7809,8 +7457,8 @@
         "attackspeedperlevel": 2.13,
         "attackspeed": 0.625
       }
-    },
-    "Zoe": {
+    }},
+    {"Zoe": {
       "version": "12.6.1",
       "id": "Zoe",
       "key": "142",
@@ -7824,13 +7472,11 @@
         "difficulty": 5
       },
       "image": {
-        "full": "Zoe.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 336,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zoe.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -7859,8 +7505,8 @@
         "attackspeedperlevel": 2.5,
         "attackspeed": 0.625
       }
-    },
-    "Zyra": {
+    }},
+    {"Zyra": {
       "version": "12.6.1",
       "id": "Zyra",
       "key": "143",
@@ -7874,13 +7520,11 @@
         "difficulty": 7
       },
       "image": {
-        "full": "Zyra.png",
-        "sprite": "champion5.png",
-        "group": "champion",
-        "x": 384,
-        "y": 0,
-        "w": 48,
-        "h": 48
+        "splash": "Zyra.png",
+        "centered": "champion5.png",
+        "loading": "champion",
+        "tiles": "a"
+
       },
       "tags": [
         "Mage",
@@ -7909,6 +7553,6 @@
         "attackspeedperlevel": 2.11,
         "attackspeed": 0.625
       }
-    }
-  }
+    }}]
+
 }

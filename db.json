@@ -8090,7 +8090,7 @@
         3,
         4,
         8,
-        19,
+        17,
         26,
         28,
         37
@@ -8911,7 +8911,8 @@
         "1001",
         "1042"
       ],
-      "id": 3006,     "gold": {
+      "id": 3006,
+      "gold": {
         "base": 500,
         "purchasable": true,
         "total": 1100,
@@ -8941,7 +8942,8 @@
       "from": [
         "1001"
       ],
-      "id": 3009,      "gold": {
+      "id": 3009,
+      "gold": {
         "base": 600,
         "purchasable": true,
         "total": 900,
@@ -8973,7 +8975,8 @@
         "3916",
         "4642"
       ],
-      "id": 3011,      "gold": {
+      "id": 3011,
+      "gold": {
         "base": 550,
         "purchasable": true,
         "total": 2300,
@@ -9215,7 +9218,8 @@
       "plaintext": "",
       "specialRecipe": 3003,
       "inStore": false,
-      "id": 3040,     "gold": {
+      "id": 3040,
+      "gold": {
         "base": 2600,
         "purchasable": false,
         "total": 2600,
@@ -9247,7 +9251,8 @@
       "from": [
         "1082"
       ],
-      "id": 3041,      "gold": {
+      "id": 3041,
+      "gold": {
         "base": 1250,
         "purchasable": true,
         "total": 1600,
@@ -9277,7 +9282,8 @@
       "plaintext": "",
       "specialRecipe": 3004,
       "inStore": false,
-      "id": 3042,      "gold": {
+      "id": 3042,
+      "gold": {
         "base": 3000,
         "purchasable": false,
         "total": 3000,
@@ -9501,7 +9507,8 @@
         "3211",
         "3067"
       ],
-      "id": 3065,     "gold": {
+      "id": 3065,
+      "gold": {
         "base": 850,
         "purchasable": true,
         "total": 2900,
@@ -9725,7 +9732,8 @@
         "3051",
         "3067"
       ],
-      "id": 3078,      "gold": {
+      "id": 3078,
+      "gold": {
         "base": 833,
         "purchasable": true,
         "total": 3333,
@@ -9993,7 +10001,8 @@
         "3113",
         "3108"
       ],
-      "id": 3100,     "gold": {
+      "id": 3100,
+      "gold": {
         "base": 550,
         "purchasable": true,
         "total": 3000,
@@ -10026,7 +10035,8 @@
         "3108",
         "4632"
       ],
-      "id": 3102,      "gold": {
+      "id": 3102,
+      "gold": {
         "base": 700,
         "purchasable": true,
         "total": 2600,
@@ -10206,7 +10216,8 @@
         "1026",
         "1052"
       ],
-      "id": 3115,    "gold": {
+      "id": 3115,
+      "gold": {
         "base": 715,
         "purchasable": true,
         "total": 3000,
@@ -10239,7 +10250,8 @@
         "1011",
         "1052"
       ],
-      "id": 3116,    "gold": {
+      "id": 3116,
+      "gold": {
         "base": 415,
         "purchasable": true,
         "total": 2600,
@@ -10278,7 +10290,8 @@
       "from": [
         "1001"
       ],
-      "id": 3117,     "gold": {
+      "id": 3117,
+      "gold": {
         "base": 700,
         "purchasable": true,
         "total": 1000,
@@ -10318,7 +10331,8 @@
         "3067",
         "1028"
       ],
-      "id": 3119,     "gold": {
+      "id": 3119,
+      "gold": {
         "base": 1000,
         "purchasable": true,
         "total": 2600,
@@ -10351,7 +10365,8 @@
         "1018",
         "1042"
       ],
-      "id": 3124,     "gold": {
+      "id": 3124,
+      "gold": {
         "base": 900,
         "purchasable": true,
         "total": 2600,
@@ -10398,7 +10413,8 @@
         "4630",
         "1026"
       ],
-      "id": 3135,    "gold": {
+      "id": 3135,
+      "gold": {
         "base": 700,
         "purchasable": true,
         "total": 2800,
@@ -10429,7 +10445,8 @@
         "1018",
         "1037"
       ],
-      "id": 3139,     "gold": {
+      "id": 3139,
+      "gold": {
         "base": 225,
         "purchasable": true,
         "total": 3000,
@@ -10470,7 +10487,8 @@
         "3134",
         "3133"
       ],
-      "id": 3142,      "gold": {
+      "id": 3142,
+      "gold": {
         "base": 800,
         "purchasable": true,
         "total": 3000,
@@ -10511,7 +10529,8 @@
         "1029",
         "3067"
       ],
-      "id": 3143,      "gold": {
+      "id": 3143,
+      "gold": {
         "base": 600,
         "purchasable": true,
         "total": 2700,
@@ -10547,7 +10566,8 @@
         "3145",
         "1052"
       ],
-      "id": 3152,      "gold": {
+      "id": 3152,
+      "gold": {
         "base": 865,
         "purchasable": true,
         "total": 3200,
@@ -10584,7 +10604,8 @@
         "1043",
         "1037"
       ],
-      "id": 3153,      "gold": {
+      "id": 3153,
+      "gold": {
         "base": 525,
         "purchasable": true,
         "total": 3300,
@@ -10621,7 +10642,8 @@
         "3155",
         "3133"
       ],
-      "id": 3156,      "gold": {
+      "id": 3156,
+      "gold": {
         "base": 500,
         "purchasable": true,
         "total": 2900,
@@ -10667,7 +10689,8 @@
         "2420",
         "3108"
       ],
-      "id": 3157,    "gold": {
+      "id": 3157,
+      "gold": {
         "base": 50,
         "purchasable": true,
         "total": 2600,
@@ -10705,7 +10728,8 @@
       "from": [
         "1001"
       ],
-      "id": 3158,     "gold": {
+      "id": 3158,
+      "gold": {
         "base": 650,
         "purchasable": true,
         "total": 950,
@@ -10736,7 +10760,8 @@
         "3916",
         "1028"
       ],
-      "id": 3165,     "gold": {
+      "id": 3165,
+      "gold": {
         "base": 450,
         "purchasable": true,
         "total": 2500,
@@ -10768,7 +10793,8 @@
         "3134",
         "1036"
       ],
-      "id": 3179,      "gold": {
+      "id": 3179,
+      "gold": {
         "base": 600,
         "purchasable": true,
         "total": 2400,
@@ -10806,7 +10832,8 @@
         "1037",
         "3044"
       ],
-      "id": 3181,      "gold": {
+      "id": 3181,
+      "gold": {
         "base": 825,
         "purchasable": true,
         "total": 2800,
@@ -10839,7 +10866,8 @@
         "3067",
         "3105"
       ],
-      "id": 3190,      "gold": {
+      "id": 3190,
+      "gold": {
         "base": 300,
         "purchasable": true,
         "total": 2500,
@@ -10877,7 +10905,8 @@
         "3105",
         "1033"
       ],
-      "id": 3193,      "gold": {
+      "id": 3193,
+      "gold": {
         "base": 1050,
         "purchasable": true,
         "total": 3200,
@@ -10911,7 +10940,8 @@
         "3114",
         "1057"
       ],
-      "id": 3222,      "gold": {
+      "id": 3222,
+      "gold": {
         "base": 600,
         "purchasable": true,
         "total": 2300,
@@ -11017,7 +11047,8 @@
         "1028",
         "1031"
       ],
-      "id": 3742,      "gold": {
+      "id": 3742,
+      "gold": {
         "base": 900,
         "purchasable": true,
         "total": 2900,
@@ -11171,7 +11202,8 @@
       "plaintext": "",
       "specialRecipe": 3855,
       "inStore": false,
-      "id": 3857,      "gold": {
+      "id": 3857,
+      "gold": {
         "base": 400,
         "purchasable": false,
         "total": 400,
@@ -11274,7 +11306,8 @@
         "3067",
         "4642"
       ],
-      "id": 4005,     "gold": {
+      "id": 4005,
+      "gold": {
         "base": 750,
         "purchasable": true,
         "total": 2500,
@@ -11309,7 +11342,8 @@
         "1028",
         "3066"
       ],
-      "id": 4401,      "gold": {
+      "id": 4401,
+      "gold": {
         "base": 800,
         "purchasable": true,
         "total": 2900,
@@ -11485,7 +11519,8 @@
         "1011",
         "1052"
       ],
-      "id": 4637,     "gold": {
+      "id": 4637,
+      "gold": {
         "base": 815,
         "purchasable": true,
         "total": 3000,
@@ -11734,7 +11769,8 @@
         "3114",
         "1052"
       ],
-      "id": 6616,     "gold": {
+      "id": 6616,
+      "gold": {
         "base": 630,
         "purchasable": true,
         "total": 2300,
@@ -11765,7 +11801,8 @@
         "3067",
         "4642"
       ],
-      "id": 6617,      "gold": {
+      "id": 6617,
+      "gold": {
         "base": 750,
         "purchasable": true,
         "total": 2500,
@@ -11798,7 +11835,8 @@
         "3133",
         "3067"
       ],
-      "id": 6630,      "gold": {
+      "id": 6630,
+      "gold": {
         "base": 300,
         "purchasable": true,
         "total": 3300,
@@ -12069,7 +12107,8 @@
         "1033",
         "1029"
       ],
-      "id": 6664,     "gold": {
+      "id": 6664,
+      "gold": {
         "base": 950,
         "purchasable": true,
         "total": 2800,
@@ -12110,7 +12149,8 @@
         "1018",
         "1037"
       ],
-      "id": 6671,      "gold": {
+      "id": 6671,
+      "gold": {
         "base": 625,
         "purchasable": true,
         "total": 3400,
@@ -12363,7 +12403,8 @@
         "3134",
         "3133"
       ],
-      "id": 6693,   "gold": {
+      "id": 6693,
+      "gold": {
         "base": 900,
         "purchasable": true,
         "total": 3100,
@@ -12397,7 +12438,8 @@
         "3133",
         "3035"
       ],
-      "id": 6694,    "gold": {
+      "id": 6694,
+      "gold": {
         "base": 650,
         "purchasable": true,
         "total": 3200,
@@ -12429,7 +12471,8 @@
         "3134",
         "1037"
       ],
-      "id": 6695,    "gold": {
+      "id": 6695,
+      "gold": {
         "base": 625,
         "purchasable": true,
         "total": 2600,
@@ -12459,7 +12502,8 @@
         "3134",
         "3133"
       ],
-      "id": 6696,     "gold": {
+      "id": 6696,
+      "gold": {
         "base": 800,
         "purchasable": true,
         "total": 3000,
@@ -12490,7 +12534,8 @@
         "3067",
         "1011"
       ],
-      "id": 8001,     "gold": {
+      "id": 8001,
+      "gold": {
         "base": 800,
         "purchasable": true,
         "total": 2500,
@@ -12522,7 +12567,8 @@
         "3067",
         "3211"
       ],
-      "id": 8020,     "gold": {
+      "id": 8020,
+      "gold": {
         "base": 650,
         "purchasable": true,
         "total": 2700,
@@ -12547,45 +12593,5 @@
       "depth": 3
     }
   ],
-  "builds": [
-    {
-      "title": "My Ziggs build",
-      "champion": "Ziggs",
-      "item1": "Archangel's Staff",
-      "item2": "Berserker's Greaves",
-      "item3": "Nashor's Tooth",
-      "item4": "Manamune",
-      "item5": "Dead Man's Plate",
-      "item6": "Frozen Heart",
-      "win": 0,
-      "loss": 0,
-      "id": 1
-    },
-    {
-      "title": "My ziggs build 2 ",
-      "champion": "Ziggs",
-      "item1": "Mercurial Scimitar",
-      "item2": "Archangel's Staff",
-      "item3": "Guardian Angel",
-      "item4": "Evenshroud",
-      "item5": "Warmog's Armor",
-      "item6": "Berserker's Greaves",
-      "win": 0,
-      "loss": 0,
-      "id": 2
-    },
-    {
-      "title": "my sylas build",
-      "champion": "Sylas",
-      "item1": "Archangel's Staff",
-      "item2": "Chemtech Putrifier",
-      "item3": "Sorcerer's Shoes",
-      "item4": "Evenshroud",
-      "item5": "Youmuu's Ghostblade",
-      "item6": "Last Whisper",
-      "win": 0,
-      "loss": 0,
-      "id": 3
-    }
-  ]
+  "builds": []
 }

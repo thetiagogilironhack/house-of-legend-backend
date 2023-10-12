@@ -1,6 +1,7 @@
 {
   "champions": [
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Aatrox",
       "key": 266,
@@ -13,8 +14,24 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 7, 8, 9, 11, 20, 21, 30, 31],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        20,
+        21,
+        30,
+        31
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Blood Well",
       "stats": {
         "hp": 580,
@@ -40,6 +57,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Ahri",
       "key": 103,
@@ -52,8 +70,30 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 14, 15, 16, 17, 27, 28, 42, 65, 66, 76],
-      "tags": ["Mage", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        17,
+        27,
+        28,
+        42,
+        65,
+        66,
+        76
+      ],
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 500,
@@ -79,6 +119,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Akali",
       "key": 84,
@@ -91,8 +132,26 @@
         "magic": 8,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 7, 8, 9, 13, 14, 15, 32, 50, 60, 61, 68],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        13,
+        14,
+        15,
+        32,
+        50,
+        60,
+        61,
+        68
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Energy",
       "stats": {
         "hp": 500,
@@ -118,6 +177,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Akshan",
       "key": 166,
@@ -130,8 +190,15 @@
         "magic": 0,
         "difficulty": 0
       },
-      "skins": [0, 1, 10],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        10
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -157,6 +224,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Alistar",
       "key": 12,
@@ -169,8 +237,27 @@
         "magic": 5,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 22, 29],
-      "tags": ["Tank", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        19,
+        20,
+        22,
+        29
+      ],
+      "tags": [
+        "Tank",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -196,6 +283,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Amumu",
       "key": 32,
@@ -208,8 +296,26 @@
         "magic": 8,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 17, 23, 24, 34, 44],
-      "tags": ["Tank", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        23,
+        24,
+        34,
+        44
+      ],
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 615,
@@ -235,6 +341,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Anivia",
       "key": 34,
@@ -247,8 +354,25 @@
         "magic": 10,
         "difficulty": 10
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 17, 27, 37, 46],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        27,
+        37,
+        46
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 480,
@@ -274,6 +398,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Annie",
       "key": 1,
@@ -286,8 +411,27 @@
         "magic": 10,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 22, 31],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        22,
+        31
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 524,
@@ -313,6 +457,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Aphelios",
       "key": 523,
@@ -325,8 +470,16 @@
         "magic": 1,
         "difficulty": 10
       },
-      "skins": [0, 1, 9, 18, 20],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        9,
+        18,
+        20
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 510,
@@ -352,6 +505,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Ashe",
       "key": 22,
@@ -364,8 +518,29 @@
         "magic": 2,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 17, 23, 32, 43, 52, 63],
-      "tags": ["Marksman", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        17,
+        23,
+        32,
+        43,
+        52,
+        63
+      ],
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -391,6 +566,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "AurelionSol",
       "key": 136,
@@ -403,8 +579,16 @@
         "magic": 8,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 11, 21],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        11,
+        21
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 575,
@@ -430,6 +614,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Azir",
       "key": 268,
@@ -442,8 +627,19 @@
         "magic": 8,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 14],
-      "tags": ["Mage", "Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        14
+      ],
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 552,
@@ -469,6 +665,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Bard",
       "key": 432,
@@ -481,8 +678,19 @@
         "magic": 5,
         "difficulty": 9
       },
-      "skins": [0, 1, 5, 6, 8, 17, 26],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        5,
+        6,
+        8,
+        17,
+        26
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -508,6 +716,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Belveth",
       "key": 52,
@@ -520,8 +729,14 @@
         "magic": 4,
         "difficulty": 7
       },
-      "skins": [0, 1, 10],
-      "tags": ["Fighter"],
+      "skins": [
+        0,
+        1,
+        10
+      ],
+      "tags": [
+        "Fighter"
+      ],
       "partype": "N/A",
       "stats": {
         "hp": 583,
@@ -547,6 +762,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Blitzcrank",
       "key": 53,
@@ -559,8 +775,27 @@
         "magic": 5,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 11, 20, 21, 22, 29, 36, 47],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        11,
+        20,
+        21,
+        22,
+        29,
+        36,
+        47
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 583,
@@ -586,6 +821,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Brand",
       "key": 63,
@@ -598,8 +834,23 @@
         "magic": 9,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 21, 22, 33],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        33
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -625,6 +876,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Braum",
       "key": 201,
@@ -637,8 +889,20 @@
         "magic": 4,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 10, 11, 24, 33],
-      "tags": ["Support", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        10,
+        11,
+        24,
+        33
+      ],
+      "tags": [
+        "Support",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -664,6 +928,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Briar",
       "key": 49,
@@ -676,8 +941,14 @@
         "magic": 4,
         "difficulty": 8
       },
-      "skins": [0, 1],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Health",
       "stats": {
         "hp": 510,
@@ -703,6 +974,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Caitlyn",
       "key": 51,
@@ -716,9 +988,28 @@
         "difficulty": 6
       },
       "skins": [
-        0, 1, 2, 3, 4, 5, 6, 10, 11, 13, 19, 20, 22, 28, 29, 30, 39, 48
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        13,
+        19,
+        20,
+        22,
+        28,
+        29,
+        30,
+        39,
+        48
       ],
-      "tags": ["Marksman"],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 510,
@@ -744,6 +1035,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Camille",
       "key": 164,
@@ -756,8 +1048,18 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 10, 11, 21],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        10,
+        11,
+        21
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 576,
@@ -783,6 +1085,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Cassiopeia",
       "key": 69,
@@ -795,8 +1098,20 @@
         "magic": 9,
         "difficulty": 10
       },
-      "skins": [0, 1, 2, 3, 4, 8, 9, 18, 28],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        18,
+        28
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -822,6 +1137,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Chogath",
       "key": 31,
@@ -834,8 +1150,22 @@
         "magic": 7,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 14, 23],
-      "tags": ["Tank", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        23
+      ],
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 574,
@@ -861,6 +1191,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Corki",
       "key": 42,
@@ -873,8 +1204,22 @@
         "magic": 6,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 18, 26],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        18,
+        26
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 518,
@@ -900,6 +1245,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Darius",
       "key": 122,
@@ -912,8 +1258,24 @@
         "magic": 1,
         "difficulty": 2
       },
-      "skins": [0, 1, 2, 3, 4, 8, 14, 15, 16, 24, 33, 43],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8,
+        14,
+        15,
+        16,
+        24,
+        33,
+        43
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 582,
@@ -939,6 +1301,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Diana",
       "key": 131,
@@ -951,8 +1314,24 @@
         "magic": 8,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 11, 12, 18, 25, 26, 27, 37, 47],
-      "tags": ["Fighter", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        11,
+        12,
+        18,
+        25,
+        26,
+        27,
+        37,
+        47
+      ],
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -978,6 +1357,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Draven",
       "key": 119,
@@ -990,8 +1370,24 @@
         "magic": 1,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 12, 13, 20, 29, 39, 48],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        12,
+        13,
+        20,
+        29,
+        39,
+        48
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 605,
@@ -1017,6 +1413,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "DrMundo",
       "key": 36,
@@ -1029,8 +1426,24 @@
         "magic": 6,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 21],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        21
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "None",
       "stats": {
         "hp": 583,
@@ -1056,6 +1469,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Ekko",
       "key": 245,
@@ -1068,8 +1482,23 @@
         "magic": 7,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 11, 12, 19, 28, 36, 45, 46],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        11,
+        12,
+        19,
+        28,
+        36,
+        45,
+        46
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -1095,6 +1524,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Elise",
       "key": 60,
@@ -1107,8 +1537,20 @@
         "magic": 7,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 15],
-      "tags": ["Mage", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15
+      ],
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 555,
@@ -1134,6 +1576,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Evelynn",
       "key": 28,
@@ -1146,8 +1589,26 @@
         "magic": 7,
         "difficulty": 10
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 15, 24, 31, 32, 42],
-      "tags": ["Assassin", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        24,
+        31,
+        32,
+        42
+      ],
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 572,
@@ -1173,6 +1634,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Ezreal",
       "key": 81,
@@ -1185,8 +1647,30 @@
         "magic": 6,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 18, 19, 20, 21, 22, 23, 25, 33],
-      "tags": ["Marksman", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        33
+      ],
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -1212,6 +1696,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Fiddlesticks",
       "key": 9,
@@ -1224,8 +1709,23 @@
         "magic": 9,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 27],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        27
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580.4,
@@ -1251,6 +1751,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Fiora",
       "key": 114,
@@ -1263,8 +1764,26 @@
         "magic": 2,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 22, 23, 31, 41, 50, 51, 60, 69],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        22,
+        23,
+        31,
+        41,
+        50,
+        51,
+        60,
+        69
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 550,
@@ -1290,6 +1809,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Fizz",
       "key": 105,
@@ -1302,8 +1822,25 @@
         "magic": 7,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 8, 9, 10, 14, 15, 16, 25, 26],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        10,
+        14,
+        15,
+        16,
+        25,
+        26
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -1329,6 +1866,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Galio",
       "key": 3,
@@ -1341,8 +1879,22 @@
         "magic": 6,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 13, 19, 28],
-      "tags": ["Tank", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        19,
+        28
+      ],
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 562,
@@ -1368,6 +1920,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Gangplank",
       "key": 41,
@@ -1380,8 +1933,23 @@
         "magic": 4,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 14, 21, 23],
-      "tags": ["Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        21,
+        23
+      ],
+      "tags": [
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -1407,6 +1975,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Garen",
       "key": 86,
@@ -1419,8 +1988,27 @@
         "magic": 1,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 13, 14, 22, 23, 24, 33],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        13,
+        14,
+        22,
+        23,
+        24,
+        33
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "None",
       "stats": {
         "hp": 620,
@@ -1446,6 +2034,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Gnar",
       "key": 150,
@@ -1458,8 +2047,22 @@
         "magic": 5,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 13, 14, 15, 22, 31],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        13,
+        14,
+        15,
+        22,
+        31
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Rage",
       "stats": {
         "hp": 510,
@@ -1485,6 +2088,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Gragas",
       "key": 79,
@@ -1497,8 +2101,25 @@
         "magic": 6,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 20],
-      "tags": ["Fighter", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        20
+      ],
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -1524,6 +2145,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Graves",
       "key": 104,
@@ -1536,8 +2158,24 @@
         "magic": 3,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 14, 18, 25, 35, 42],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        18,
+        25,
+        35,
+        42
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 555,
@@ -1563,6 +2201,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Gwen",
       "key": 887,
@@ -1575,8 +2214,16 @@
         "magic": 5,
         "difficulty": 5
       },
-      "skins": [0, 1, 11, 20],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        11,
+        20
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 590,
@@ -1602,6 +2249,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Hecarim",
       "key": 120,
@@ -1614,8 +2262,23 @@
         "magic": 4,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 14, 22],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        22
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -1641,6 +2304,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Heimerdinger",
       "key": 74,
@@ -1653,8 +2317,21 @@
         "magic": 8,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 15, 24],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        24
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 488,
@@ -1680,6 +2357,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Illaoi",
       "key": 420,
@@ -1692,8 +2370,17 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 10, 18],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        10,
+        18
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 586,
@@ -1719,6 +2406,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Irelia",
       "key": 39,
@@ -1731,8 +2419,26 @@
         "magic": 5,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 15, 16, 17, 18, 26, 36, 37],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        16,
+        17,
+        18,
+        26,
+        36,
+        37
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -1758,6 +2464,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Ivern",
       "key": 427,
@@ -1770,8 +2477,17 @@
         "magic": 7,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 11, 20],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        11,
+        20
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -1797,6 +2513,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Janna",
       "key": 40,
@@ -1809,8 +2526,27 @@
         "magic": 7,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 13, 20, 27, 36, 45, 46],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        13,
+        20,
+        27,
+        36,
+        45,
+        46
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 500,
@@ -1836,6 +2572,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "JarvanIV",
       "key": 59,
@@ -1848,8 +2585,26 @@
         "magic": 3,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 21, 30, 35],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        21,
+        30,
+        35
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -1875,6 +2630,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Jax",
       "key": 24,
@@ -1887,8 +2643,27 @@
         "magic": 7,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 12, 13, 14, 20, 21, 22],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14,
+        20,
+        21,
+        22
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 615,
@@ -1914,6 +2689,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Jayce",
       "key": 126,
@@ -1926,8 +2702,21 @@
         "magic": 3,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 15, 24, 25],
-      "tags": ["Fighter", "Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        15,
+        24,
+        25
+      ],
+      "tags": [
+        "Fighter",
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -1953,6 +2742,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Jhin",
       "key": 202,
@@ -1965,8 +2755,23 @@
         "magic": 6,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 14, 23, 25, 36, 37],
-      "tags": ["Marksman", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        14,
+        23,
+        25,
+        36,
+        37
+      ],
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -1992,6 +2797,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Jinx",
       "key": 222,
@@ -2004,8 +2810,23 @@
         "magic": 4,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 12, 13, 20, 29, 37, 38, 40],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        12,
+        13,
+        20,
+        29,
+        37,
+        38,
+        40
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 610,
@@ -2031,6 +2852,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "KSante",
       "key": 152,
@@ -2043,8 +2865,15 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 2],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -2070,6 +2899,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Kaisa",
       "key": 145,
@@ -2082,8 +2912,23 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 14, 15, 16, 17, 26, 27, 29, 39, 40, 48],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        14,
+        15,
+        16,
+        17,
+        26,
+        27,
+        29,
+        39,
+        40,
+        48
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -2109,6 +2954,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Kalista",
       "key": 429,
@@ -2121,8 +2967,17 @@
         "magic": 4,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 5, 14],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        14
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 534,
@@ -2148,6 +3003,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Karma",
       "key": 43,
@@ -2160,8 +3016,25 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 5, 6, 7, 8, 19, 26, 27, 44, 54],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        19,
+        26,
+        27,
+        44,
+        54
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 534,
@@ -2187,6 +3060,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Karthus",
       "key": 30,
@@ -2199,8 +3073,21 @@
         "magic": 10,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 9, 10, 17, 26],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        17,
+        26
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 550,
@@ -2226,6 +3113,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Kassadin",
       "key": 38,
@@ -2238,8 +3126,21 @@
         "magic": 8,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 14, 15],
-      "tags": ["Assassin", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        14,
+        15
+      ],
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 576,
@@ -2265,6 +3166,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Katarina",
       "key": 55,
@@ -2277,8 +3179,29 @@
         "magic": 9,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 21, 29, 37, 47, 48],
-      "tags": ["Assassin", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        21,
+        29,
+        37,
+        47,
+        48
+      ],
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
       "partype": "None",
       "stats": {
         "hp": 602,
@@ -2304,6 +3227,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Kayle",
       "key": 10,
@@ -2316,8 +3240,27 @@
         "magic": 7,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 15, 24, 33, 42, 57],
-      "tags": ["Fighter", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        24,
+        33,
+        42,
+        57
+      ],
+      "tags": [
+        "Fighter",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -2343,6 +3286,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Kayn",
       "key": 141,
@@ -2355,8 +3299,18 @@
         "magic": 1,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 8, 9, 15],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        8,
+        9,
+        15
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -2382,6 +3336,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Kennen",
       "key": 85,
@@ -2394,8 +3349,23 @@
         "magic": 7,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 23, 25],
-      "tags": ["Mage", "Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        23,
+        25
+      ],
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
       "partype": "Energy",
       "stats": {
         "hp": 541,
@@ -2421,6 +3391,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Khazix",
       "key": 121,
@@ -2433,8 +3404,19 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 11, 60, 69],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        11,
+        60,
+        69
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 573,
@@ -2460,6 +3442,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Kindred",
       "key": 203,
@@ -2472,8 +3455,18 @@
         "magic": 2,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 12, 22, 23],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        12,
+        22,
+        23
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -2499,6 +3492,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Kled",
       "key": 240,
@@ -2511,8 +3505,17 @@
         "magic": 2,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 9, 18],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        9,
+        18
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Courage",
       "stats": {
         "hp": 340,
@@ -2538,6 +3541,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "KogMaw",
       "key": 96,
@@ -2550,8 +3554,27 @@
         "magic": 5,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 28, 37, 46],
-      "tags": ["Marksman", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        19,
+        28,
+        37,
+        46
+      ],
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 565,
@@ -2577,6 +3600,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Leblanc",
       "key": 7,
@@ -2589,8 +3613,25 @@
         "magic": 10,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 12, 19, 20, 29, 33, 35, 45],
-      "tags": ["Assassin", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        19,
+        20,
+        29,
+        33,
+        35,
+        45
+      ],
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 528,
@@ -2616,6 +3657,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "LeeSin",
       "key": 64,
@@ -2628,8 +3670,28 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 12, 27, 28, 29, 31, 39, 41],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        27,
+        28,
+        29,
+        31,
+        39,
+        41
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Energy",
       "stats": {
         "hp": 575,
@@ -2655,6 +3717,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Leona",
       "key": 89,
@@ -2667,8 +3730,28 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 8, 9, 10, 11, 12, 21, 22, 23, 33, 34, 50],
-      "tags": ["Tank", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        21,
+        22,
+        23,
+        33,
+        34,
+        50
+      ],
+      "tags": [
+        "Tank",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 576,
@@ -2694,6 +3777,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Lillia",
       "key": 876,
@@ -2706,8 +3790,16 @@
         "magic": 10,
         "difficulty": 8
       },
-      "skins": [0, 1, 10, 19],
-      "tags": ["Fighter", "Mage"],
+      "skins": [
+        0,
+        1,
+        10,
+        19
+      ],
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -2733,6 +3825,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Lissandra",
       "key": 127,
@@ -2745,8 +3838,20 @@
         "magic": 8,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 12, 23, 33, 34],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        12,
+        23,
+        33,
+        34
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 550,
@@ -2772,6 +3877,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Lucian",
       "key": 236,
@@ -2784,8 +3890,23 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 6, 7, 8, 9, 18, 19, 25, 31, 40],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        6,
+        7,
+        8,
+        9,
+        18,
+        19,
+        25,
+        31,
+        40
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 571,
@@ -2811,6 +3932,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Lulu",
       "key": 117,
@@ -2823,8 +3945,24 @@
         "magic": 7,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 14, 15, 26, 27, 37],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        14,
+        15,
+        26,
+        27,
+        37
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 525,
@@ -2850,6 +3988,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Lux",
       "key": 99,
@@ -2863,9 +4002,30 @@
         "difficulty": 5
       },
       "skins": [
-        0, 1, 2, 3, 4, 5, 6, 7, 8, 14, 15, 16, 17, 18, 19, 29, 39, 40, 42
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        29,
+        39,
+        40,
+        42
       ],
-      "tags": ["Mage", "Support"],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 490,
@@ -2891,6 +4051,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Malphite",
       "key": 54,
@@ -2903,8 +4064,26 @@
         "magic": 7,
         "difficulty": 2
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 23, 24, 25, 27, 37],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        23,
+        24,
+        25,
+        27,
+        37
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 574,
@@ -2930,6 +4109,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Malzahar",
       "key": 90,
@@ -2942,8 +4122,24 @@
         "magic": 9,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 9, 18, 28, 38],
-      "tags": ["Mage", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        18,
+        28,
+        38
+      ],
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 510,
@@ -2969,6 +4165,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Maokai",
       "key": 57,
@@ -2981,8 +4178,23 @@
         "magic": 6,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 24, 33],
-      "tags": ["Tank", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        24,
+        33
+      ],
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 565,
@@ -3008,6 +4220,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "MasterYi",
       "key": 11,
@@ -3020,8 +4233,27 @@
         "magic": 2,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 9, 10, 11, 17, 24, 33, 42, 52, 53],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        17,
+        24,
+        33,
+        42,
+        52,
+        53
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 599,
@@ -3047,6 +4279,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Milio",
       "key": 165,
@@ -3059,8 +4292,13 @@
         "magic": 8,
         "difficulty": 4
       },
-      "skins": [0, 1],
-      "tags": ["Support"],
+      "skins": [
+        0,
+        1
+      ],
+      "tags": [
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -3086,6 +4324,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "MissFortune",
       "key": 21,
@@ -3099,9 +4338,30 @@
         "difficulty": 1
       },
       "skins": [
-        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 15, 16, 17, 18, 20, 21, 31, 33, 40, 41
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        31,
+        33,
+        40,
+        41
       ],
-      "tags": ["Marksman"],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -3127,6 +4387,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "MonkeyKing",
       "key": 62,
@@ -3139,8 +4400,21 @@
         "magic": 2,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -3166,6 +4440,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Mordekaiser",
       "key": 82,
@@ -3178,8 +4453,22 @@
         "magic": 7,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 13, 23, 32, 42],
-      "tags": ["Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        23,
+        32,
+        42
+      ],
+      "tags": [
+        "Fighter"
+      ],
       "partype": "Shield",
       "stats": {
         "hp": 575,
@@ -3205,6 +4494,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Morgana",
       "key": 25,
@@ -3217,8 +4507,27 @@
         "magic": 8,
         "difficulty": 1
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 17, 26, 39, 41, 50, 60],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        17,
+        26,
+        39,
+        41,
+        50,
+        60
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -3244,6 +4553,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Naafiri",
       "key": 300,
@@ -3256,8 +4566,13 @@
         "magic": 5,
         "difficulty": 7
       },
-      "skins": [0, 1],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 490,
@@ -3283,6 +4598,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Nami",
       "key": 267,
@@ -3295,8 +4611,24 @@
         "magic": 7,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 7, 8, 9, 15, 24, 32, 41, 42],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        15,
+        24,
+        32,
+        41,
+        42
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 490,
@@ -3322,6 +4654,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Nasus",
       "key": 75,
@@ -3334,8 +4667,25 @@
         "magic": 6,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 16, 25, 35, 45],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        16,
+        25,
+        35,
+        45
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 561,
@@ -3361,6 +4711,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Nautilus",
       "key": 111,
@@ -3373,8 +4724,22 @@
         "magic": 6,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 9, 18, 27],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        18,
+        27
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 576,
@@ -3400,6 +4765,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Neeko",
       "key": 518,
@@ -3412,8 +4778,20 @@
         "magic": 9,
         "difficulty": 5
       },
-      "skins": [0, 1, 10, 11, 12, 21, 22, 31],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        10,
+        11,
+        12,
+        21,
+        22,
+        31
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -3439,6 +4817,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Nidalee",
       "key": 76,
@@ -3451,8 +4830,28 @@
         "magic": 7,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 18, 27, 29, 39, 48],
-      "tags": ["Assassin", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        18,
+        27,
+        29,
+        39,
+        48
+      ],
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -3478,6 +4877,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Nilah",
       "key": 167,
@@ -3490,8 +4890,14 @@
         "magic": 4,
         "difficulty": 6
       },
-      "skins": [0, 1],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -3517,6 +4923,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Nocturne",
       "key": 56,
@@ -3529,8 +4936,22 @@
         "magic": 2,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 17],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        17
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -3556,6 +4977,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Nunu",
       "key": 20,
@@ -3568,8 +4990,24 @@
         "magic": 7,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 26, 35],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        16,
+        26,
+        35
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -3595,6 +5033,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Olaf",
       "key": 2,
@@ -3607,8 +5046,23 @@
         "magic": 3,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 15, 16, 25, 35],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        16,
+        25,
+        35
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 575,
@@ -3634,6 +5088,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Orianna",
       "key": 61,
@@ -3646,8 +5101,24 @@
         "magic": 9,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 11, 20, 29],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        20,
+        29
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -3673,6 +5144,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Ornn",
       "key": 516,
@@ -3685,8 +5157,16 @@
         "magic": 3,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 11],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        11
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 590,
@@ -3712,6 +5192,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Pantheon",
       "key": 80,
@@ -3724,8 +5205,25 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 25, 26, 36],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        16,
+        25,
+        26,
+        36
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -3751,6 +5249,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Poppy",
       "key": 78,
@@ -3763,8 +5262,24 @@
         "magic": 2,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 14, 15, 16, 24],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        15,
+        16,
+        24
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -3790,6 +5305,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Pyke",
       "key": 555,
@@ -3802,8 +5318,22 @@
         "magic": 1,
         "difficulty": 7
       },
-      "skins": [0, 1, 9, 16, 25, 34, 44, 45, 53, 54],
-      "tags": ["Support", "Assassin"],
+      "skins": [
+        0,
+        1,
+        9,
+        16,
+        25,
+        34,
+        44,
+        45,
+        53,
+        54
+      ],
+      "tags": [
+        "Support",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -3829,6 +5359,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Qiyana",
       "key": 246,
@@ -3841,8 +5372,20 @@
         "magic": 4,
         "difficulty": 8
       },
-      "skins": [0, 1, 10, 11, 20, 21, 30, 40],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        10,
+        11,
+        20,
+        21,
+        30,
+        40
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -3868,6 +5411,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Quinn",
       "key": 133,
@@ -3880,8 +5424,19 @@
         "magic": 2,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 14],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        14
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 533,
@@ -3907,6 +5462,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Rakan",
       "key": 497,
@@ -3919,8 +5475,20 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 9, 18, 27],
-      "tags": ["Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        18,
+        27
+      ],
+      "tags": [
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -3946,6 +5514,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Rammus",
       "key": 33,
@@ -3958,8 +5527,23 @@
         "magic": 5,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 17],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        16,
+        17
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 564,
@@ -3985,6 +5569,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "RekSai",
       "key": 421,
@@ -3997,8 +5582,16 @@
         "magic": 2,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 9, 17],
-      "tags": ["Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        9,
+        17
+      ],
+      "tags": [
+        "Fighter"
+      ],
       "partype": "Rage",
       "stats": {
         "hp": 570,
@@ -4024,6 +5617,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Rell",
       "key": 526,
@@ -4036,8 +5630,14 @@
         "magic": 0,
         "difficulty": 0
       },
-      "skins": [0, 1, 10],
-      "tags": ["Tank"],
+      "skins": [
+        0,
+        1,
+        10
+      ],
+      "tags": [
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 540,
@@ -4063,6 +5663,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Renata",
       "key": 888,
@@ -4075,8 +5676,17 @@
         "magic": 9,
         "difficulty": 8
       },
-      "skins": [0, 1, 10, 20, 21],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        10,
+        20,
+        21
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 525,
@@ -4102,6 +5712,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Renekton",
       "key": 58,
@@ -4114,8 +5725,26 @@
         "magic": 2,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 17, 18, 26, 33],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        18,
+        26,
+        33
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Fury",
       "stats": {
         "hp": 590,
@@ -4141,6 +5770,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Rengar",
       "key": 107,
@@ -4153,8 +5783,21 @@
         "magic": 2,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 8, 15, 23, 30, 40],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        8,
+        15,
+        23,
+        30,
+        40
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Ferocity",
       "stats": {
         "hp": 585,
@@ -4180,6 +5823,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Riven",
       "key": 92,
@@ -4192,8 +5836,29 @@
         "magic": 1,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 18, 20, 22, 23, 34, 44, 45, 55],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        18,
+        20,
+        22,
+        23,
+        34,
+        44,
+        45,
+        55
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "None",
       "stats": {
         "hp": 560,
@@ -4219,6 +5884,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Rumble",
       "key": 68,
@@ -4231,8 +5897,18 @@
         "magic": 8,
         "difficulty": 10
       },
-      "skins": [0, 1, 2, 3, 4, 13],
-      "tags": ["Fighter", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        13
+      ],
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
       "partype": "Heat",
       "stats": {
         "hp": 589,
@@ -4258,6 +5934,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Ryze",
       "key": 13,
@@ -4270,8 +5947,26 @@
         "magic": 10,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 20],
-      "tags": ["Mage", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        20
+      ],
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 575,
@@ -4297,6 +5992,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Samira",
       "key": 360,
@@ -4309,8 +6005,16 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 10, 20, 30],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        10,
+        20,
+        30
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -4336,6 +6040,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Sejuani",
       "key": 113,
@@ -4348,8 +6053,25 @@
         "magic": 6,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 15, 16, 26, 36],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        26,
+        36
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -4375,6 +6097,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Senna",
       "key": 235,
@@ -4387,8 +6110,21 @@
         "magic": 6,
         "difficulty": 7
       },
-      "skins": [0, 1, 9, 10, 16, 26, 27, 36, 46],
-      "tags": ["Marksman", "Support"],
+      "skins": [
+        0,
+        1,
+        9,
+        10,
+        16,
+        26,
+        27,
+        36,
+        46
+      ],
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -4414,6 +6150,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Seraphine",
       "key": 147,
@@ -4426,8 +6163,21 @@
         "magic": 0,
         "difficulty": 0
       },
-      "skins": [0, 1, 2, 3, 4, 14, 15, 24, 34],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        14,
+        15,
+        24,
+        34
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 500,
@@ -4453,6 +6203,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Sett",
       "key": 875,
@@ -4465,8 +6216,20 @@
         "magic": 1,
         "difficulty": 2
       },
-      "skins": [0, 1, 8, 9, 10, 19, 38, 45],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        8,
+        9,
+        10,
+        19,
+        38,
+        45
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Grit",
       "stats": {
         "hp": 600,
@@ -4492,6 +6255,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Shaco",
       "key": 35,
@@ -4504,8 +6268,26 @@
         "magic": 6,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 15, 23, 33, 43, 44, 49],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        23,
+        33,
+        43,
+        44,
+        49
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -4531,6 +6313,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Shen",
       "key": 98,
@@ -4543,8 +6326,22 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 15, 16, 22, 40],
-      "tags": ["Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        16,
+        22,
+        40
+      ],
+      "tags": [
+        "Tank"
+      ],
       "partype": "Energy",
       "stats": {
         "hp": 540,
@@ -4570,6 +6367,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Shyvana",
       "key": 102,
@@ -4582,8 +6380,21 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 8, 17],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        17
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Fury",
       "stats": {
         "hp": 595,
@@ -4609,6 +6420,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Singed",
       "key": 27,
@@ -4621,8 +6433,24 @@
         "magic": 7,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        19
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -4648,6 +6476,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Sion",
       "key": 14,
@@ -4660,8 +6489,22 @@
         "magic": 3,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 14, 22, 30, 40],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        14,
+        22,
+        30,
+        40
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 545,
@@ -4687,6 +6530,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Sivir",
       "key": 15,
@@ -4699,8 +6543,28 @@
         "magic": 1,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 25, 34, 43, 50, 51],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        16,
+        25,
+        34,
+        43,
+        50,
+        51
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 562,
@@ -4726,6 +6590,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Skarner",
       "key": 72,
@@ -4738,8 +6603,18 @@
         "magic": 5,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -4765,6 +6640,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Sona",
       "key": 37,
@@ -4777,8 +6653,26 @@
         "magic": 8,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 9, 17, 26, 35, 45, 46],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        17,
+        26,
+        35,
+        45,
+        46
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 480,
@@ -4804,6 +6698,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Soraka",
       "key": 16,
@@ -4816,8 +6711,28 @@
         "magic": 7,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 15, 16, 17, 18, 27, 37],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        16,
+        17,
+        18,
+        27,
+        37
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 535,
@@ -4843,6 +6758,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Swain",
       "key": 50,
@@ -4855,8 +6771,20 @@
         "magic": 9,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 11, 12, 21],
-      "tags": ["Mage", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        11,
+        12,
+        21
+      ],
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 525,
@@ -4882,6 +6810,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Sylas",
       "key": 517,
@@ -4894,8 +6823,19 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 8, 13, 14, 24, 34],
-      "tags": ["Mage", "Assassin"],
+      "skins": [
+        0,
+        1,
+        8,
+        13,
+        14,
+        24,
+        34
+      ],
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 525,
@@ -4921,6 +6861,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Syndra",
       "key": 134,
@@ -4933,8 +6874,24 @@
         "magic": 9,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 25, 34, 44],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        25,
+        34,
+        44
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 523,
@@ -4960,6 +6917,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "TahmKench",
       "key": 223,
@@ -4972,8 +6930,19 @@
         "magic": 6,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 11, 20, 30],
-      "tags": ["Support", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        11,
+        20,
+        30
+      ],
+      "tags": [
+        "Support",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -4999,6 +6968,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Taliyah",
       "key": 163,
@@ -5011,8 +6981,18 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 11, 21],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        11,
+        21
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 532,
@@ -5038,6 +7018,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Talon",
       "key": 91,
@@ -5050,8 +7031,22 @@
         "magic": 1,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 12, 20, 29, 38, 39],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        20,
+        29,
+        38,
+        39
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 588,
@@ -5077,6 +7072,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Taric",
       "key": 44,
@@ -5089,8 +7085,19 @@
         "magic": 5,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 9, 18],
-      "tags": ["Support", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        9,
+        18
+      ],
+      "tags": [
+        "Support",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 575,
@@ -5116,6 +7123,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Teemo",
       "key": 17,
@@ -5128,8 +7136,27 @@
         "magic": 7,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 14, 18, 25, 27, 37, 47],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        18,
+        25,
+        27,
+        37,
+        47
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 528,
@@ -5155,6 +7182,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Thresh",
       "key": 412,
@@ -5167,8 +7195,27 @@
         "magic": 6,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 13, 14, 15, 17, 27, 28, 38, 39],
-      "tags": ["Support", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        14,
+        15,
+        17,
+        27,
+        28,
+        38,
+        39
+      ],
+      "tags": [
+        "Support",
+        "Fighter"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -5194,6 +7241,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Tristana",
       "key": 18,
@@ -5206,8 +7254,27 @@
         "magic": 5,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 12, 24, 33, 40, 41, 51],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        24,
+        33,
+        40,
+        41,
+        51
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 600,
@@ -5233,6 +7300,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Trundle",
       "key": 48,
@@ -5245,8 +7313,20 @@
         "magic": 2,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 12],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        12
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 616,
@@ -5272,6 +7352,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Tryndamere",
       "key": 23,
@@ -5284,8 +7365,24 @@
         "magic": 2,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 18],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        18
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Fury",
       "stats": {
         "hp": 626,
@@ -5311,6 +7408,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "TwistedFate",
       "key": 4,
@@ -5323,8 +7421,27 @@
         "magic": 6,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 23, 25, 36],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        23,
+        25,
+        36
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 534,
@@ -5350,6 +7467,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Twitch",
       "key": 29,
@@ -5362,8 +7480,25 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 12, 27, 36, 45],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        27,
+        36,
+        45
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 612,
@@ -5389,6 +7524,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Udyr",
       "key": 77,
@@ -5401,8 +7537,19 @@
         "magic": 4,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 594,
@@ -5428,6 +7575,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Urgot",
       "key": 6,
@@ -5440,8 +7588,19 @@
         "magic": 3,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 9, 15, 23],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        9,
+        15,
+        23
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -5467,6 +7626,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Varus",
       "key": 110,
@@ -5479,8 +7639,25 @@
         "magic": 4,
         "difficulty": 2
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 9, 16, 17, 34, 44],
-      "tags": ["Marksman", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        16,
+        17,
+        34,
+        44
+      ],
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -5506,6 +7683,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Vayne",
       "key": 67,
@@ -5518,8 +7696,29 @@
         "magic": 1,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 10, 11, 12, 13, 14, 15, 25, 32, 33, 44],
-      "tags": ["Marksman", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        25,
+        32,
+        33,
+        44
+      ],
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 515,
@@ -5545,6 +7744,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Veigar",
       "key": 45,
@@ -5557,8 +7757,25 @@
         "magic": 10,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 23, 32, 41],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        23,
+        32,
+        41
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 505,
@@ -5584,6 +7801,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Velkoz",
       "key": 161,
@@ -5596,8 +7814,17 @@
         "magic": 10,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 11],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        11
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -5623,6 +7850,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Vex",
       "key": 711,
@@ -5635,8 +7863,14 @@
         "magic": 0,
         "difficulty": 0
       },
-      "skins": [0, 1, 10],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        10
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 520,
@@ -5662,6 +7896,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Vi",
       "key": 254,
@@ -5674,8 +7909,23 @@
         "magic": 3,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 11, 12, 20, 29, 30],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12,
+        20,
+        29,
+        30
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 585,
@@ -5701,6 +7951,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Viego",
       "key": 234,
@@ -5713,8 +7964,18 @@
         "magic": 2,
         "difficulty": 5
       },
-      "skins": [0, 1, 10, 19, 21, 30],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        10,
+        19,
+        21,
+        30
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "None",
       "stats": {
         "hp": 560,
@@ -5740,6 +8001,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Viktor",
       "key": 112,
@@ -5752,8 +8014,18 @@
         "magic": 10,
         "difficulty": 9
       },
-      "skins": [0, 1, 2, 3, 4, 5, 14],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        14
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 530,
@@ -5779,6 +8051,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Vladimir",
       "key": 8,
@@ -5791,8 +8064,24 @@
         "magic": 8,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 14, 21, 30, 39],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        21,
+        30,
+        39
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Crimson Rush",
       "stats": {
         "hp": 537,
@@ -5818,6 +8107,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Volibear",
       "key": 106,
@@ -5830,8 +8120,22 @@
         "magic": 4,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 9, 19],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        19
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -5857,6 +8161,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Warwick",
       "key": 19,
@@ -5869,8 +8174,27 @@
         "magic": 3,
         "difficulty": 3
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 35, 45, 46],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        16,
+        35,
+        45,
+        46
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 550,
@@ -5896,6 +8220,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Xayah",
       "key": 498,
@@ -5908,8 +8233,21 @@
         "magic": 1,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 3, 4, 8, 17, 26, 28, 37],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        8,
+        17,
+        26,
+        28,
+        37
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 590,
@@ -5935,6 +8273,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Xerath",
       "key": 101,
@@ -5947,8 +8286,19 @@
         "magic": 10,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 3, 4, 5, 12, 21],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        21
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 526,
@@ -5974,6 +8324,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "XinZhao",
       "key": 5,
@@ -5986,8 +8337,23 @@
         "magic": 3,
         "difficulty": 2
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 13, 20, 27, 36],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        20,
+        27,
+        36
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 570,
@@ -6013,6 +8379,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Yasuo",
       "key": 157,
@@ -6025,8 +8392,26 @@
         "magic": 4,
         "difficulty": 10
       },
-      "skins": [0, 1, 2, 3, 9, 10, 17, 18, 35, 36, 54, 55, 56, 57],
-      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        17,
+        18,
+        35,
+        36,
+        54,
+        55,
+        56,
+        57
+      ],
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
       "partype": "Flow",
       "stats": {
         "hp": 490,
@@ -6052,6 +8437,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Yone",
       "key": 777,
@@ -6064,8 +8450,18 @@
         "magic": 4,
         "difficulty": 8
       },
-      "skins": [0, 1, 10, 19, 26, 35],
-      "tags": ["Assassin", "Fighter"],
+      "skins": [
+        0,
+        1,
+        10,
+        19,
+        26,
+        35
+      ],
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
       "partype": "Flow",
       "stats": {
         "hp": 550,
@@ -6091,6 +8487,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Yorick",
       "key": 83,
@@ -6103,8 +8500,20 @@
         "magic": 4,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 12, 21, 30],
-      "tags": ["Fighter", "Tank"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        12,
+        21,
+        30
+      ],
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 580,
@@ -6130,6 +8539,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Yuumi",
       "key": 350,
@@ -6142,8 +8552,19 @@
         "magic": 8,
         "difficulty": 2
       },
-      "skins": [0, 1, 11, 19, 28, 37, 39],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        11,
+        19,
+        28,
+        37,
+        39
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 480,
@@ -6169,6 +8590,7 @@
       }
     },
     {
+      "house":"Hufflepuff",
       "version": "12.6.1",
       "id": "Zac",
       "key": 154,
@@ -6181,8 +8603,18 @@
         "magic": 7,
         "difficulty": 8
       },
-      "skins": [0, 1, 2, 6, 7, 14],
-      "tags": ["Tank", "Fighter"],
+      "skins": [
+        0,
+        1,
+        2,
+        6,
+        7,
+        14
+      ],
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
       "partype": "None",
       "stats": {
         "hp": 615,
@@ -6208,6 +8640,7 @@
       }
     },
     {
+      "house":"Gryffindor",
       "version": "12.6.1",
       "id": "Zed",
       "key": 238,
@@ -6220,8 +8653,23 @@
         "magic": 1,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 10, 11, 13, 15, 30, 31, 38, 49],
-      "tags": ["Assassin"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        10,
+        11,
+        13,
+        15,
+        30,
+        31,
+        38,
+        49
+      ],
+      "tags": [
+        "Assassin"
+      ],
       "partype": "Energy",
       "stats": {
         "hp": 584,
@@ -6247,6 +8695,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Zeri",
       "key": 221,
@@ -6259,8 +8708,15 @@
         "magic": 3,
         "difficulty": 6
       },
-      "skins": [0, 1, 10, 19],
-      "tags": ["Marksman"],
+      "skins": [
+        0,
+        1,
+        10,
+        19
+      ],
+      "tags": [
+        "Marksman"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 500,
@@ -6286,6 +8742,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Ziggs",
       "key": 115,
@@ -6298,8 +8755,23 @@
         "magic": 9,
         "difficulty": 4
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 14, 23, 24, 33],
-      "tags": ["Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        14,
+        23,
+        24,
+        33
+      ],
+      "tags": [
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 536,
@@ -6325,6 +8797,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Zilean",
       "key": 26,
@@ -6337,8 +8810,20 @@
         "magic": 8,
         "difficulty": 6
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 14],
-      "tags": ["Support", "Mage"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        14
+      ],
+      "tags": [
+        "Support",
+        "Mage"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 504,
@@ -6364,6 +8849,7 @@
       }
     },
     {
+      "house":"Ravenclaw",
       "version": "12.6.1",
       "id": "Zoe",
       "key": 142,
@@ -6376,8 +8862,20 @@
         "magic": 8,
         "difficulty": 5
       },
-      "skins": [0, 1, 2, 9, 18, 19, 20, 22],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        9,
+        18,
+        19,
+        20,
+        22
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 560,
@@ -6403,6 +8901,7 @@
       }
     },
     {
+      "house":"Slytherin",
       "version": "12.6.1",
       "id": "Zyra",
       "key": 143,
@@ -6415,8 +8914,23 @@
         "magic": 8,
         "difficulty": 7
       },
-      "skins": [0, 1, 2, 3, 4, 5, 6, 7, 16, 36, 46],
-      "tags": ["Mage", "Support"],
+      "skins": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        36,
+        46
+      ],
+      "tags": [
+        "Mage",
+        "Support"
+      ],
       "partype": "Mana",
       "stats": {
         "hp": 504,
@@ -6442,14 +8956,16 @@
       }
     }
   ],
-
   "items": [
     {
       "name": "Evenshroud",
       "description": "<mainText><stats><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist</stats><br><li><passive>Coruscation:</passive> After <status>Immobilizing</status> champions or being <status>Immobilized</status>, cause that target and all nearby enemy Champions to take 9% increased damage for 4 seconds. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5 Armor and Magic Resist</attention></mainText><br>",
       "colloq": ";",
       "plaintext": "Nearby enemies take more magic damage",
-      "from": ["3067", "3105"],
+      "from": [
+        "3067",
+        "3105"
+      ],
       "id": 3001,
       "gold": {
         "base": 300,
@@ -6457,7 +8973,12 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Health", "Spell Block", "Armor", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Spell Block",
+        "Armor",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6476,7 +8997,11 @@
       "description": "<mainText><stats><attention>60</attention> Ability Power<br><attention>500</attention> Mana<br><attention>200</attention> Health</stats><br><li><passive>Awe:</passive> Gain Ability Haste equal to <scaleMana>0.5% bonus mana.</scaleMana><li><passive>Mana Charge:</passive> Strike a target with an Ability to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Seraph's Embrace</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
       "colloq": "",
       "plaintext": "Increases Ability Power based on maximum Mana",
-      "from": ["3070", "3067", "1026"],
+      "from": [
+        "3070",
+        "3067",
+        "1026"
+      ],
       "id": 3003,
       "gold": {
         "base": 550,
@@ -6484,7 +9009,13 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Health", "Spell Damage", "Mana", "Active", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Mana",
+        "Active",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6503,7 +9034,11 @@
       "description": "<mainText><stats><attention>35</attention> Attack Damage<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleAD>Attack Damage equal to 2.5% max Mana</scaleAD>. <li><passive>Mana Charge:</passive> Strike a target with an Ability or Attack to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Muramana</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
       "colloq": "",
       "plaintext": "Increases Attack Damage based on maximum Mana",
-      "from": ["3070", "3133", "1036"],
+      "from": [
+        "3070",
+        "3133",
+        "1036"
+      ],
       "id": 3004,
       "gold": {
         "base": 1050,
@@ -6511,7 +9046,13 @@
         "total": 2900,
         "sell": 2030
       },
-      "tags": ["Damage", "Mana", "Cooldown Reduction", "On Hit", "Ability Haste"],
+      "tags": [
+        "Damage",
+        "Mana",
+        "Cooldown Reduction",
+        "On Hit",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6529,7 +9070,10 @@
       "description": "<mainText><stats><attention>35%</attention> Attack Speed<br><attention>45</attention> Move Speed</stats></mainText><br>",
       "colloq": ";",
       "plaintext": "Enhances Move Speed and Attack Speed",
-      "from": ["1001", "1042"],
+      "from": [
+        "1001",
+        "1042"
+      ],
       "id": 3006,
       "gold": {
         "base": 500,
@@ -6537,7 +9081,10 @@
         "total": 1100,
         "sell": 770
       },
-      "tags": ["Attack Speed", "Boots"],
+      "tags": [
+        "Attack Speed",
+        "Boots"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6555,7 +9102,9 @@
       "description": "<mainText><stats><attention>60</attention> Move Speed</stats><br><li>The strength of movement slowing effects is reduced by 25%.</mainText><br>",
       "colloq": ";",
       "plaintext": "Enhances Move Speed and reduces the effect of slows",
-      "from": ["1001"],
+      "from": [
+        "1001"
+      ],
       "id": 3009,
       "gold": {
         "base": 600,
@@ -6563,7 +9112,9 @@
         "total": 900,
         "sell": 630
       },
-      "tags": ["Boots"],
+      "tags": [
+        "Boots"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6583,7 +9134,10 @@
       "description": "<mainText><stats><attention>55</attention> Ability Power<br><attention>20</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Puffcap Toxin:</passive> Dealing magic damage applies <status>40% Grievous Wounds</status> to champions for 3 seconds. Healing or shielding another ally will enhance both of you, causing the next damage to enemy champions to apply <status>60% Grievous Wounds</status>.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3916", "4642"],
+      "from": [
+        "3916",
+        "4642"
+      ],
       "id": 3011,
       "gold": {
         "base": 550,
@@ -6591,7 +9145,12 @@
         "total": 2300,
         "sell": 1610
       },
-      "tags": ["Spell Damage", "Mana Regen", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Spell Damage",
+        "Mana Regen",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6608,7 +9167,9 @@
       "description": "<mainText><stats><attention>18</attention> Magic Penetration<br><attention>45</attention> Move Speed</stats></mainText><br>",
       "colloq": ";",
       "plaintext": "Enhances Move Speed and magic damage",
-      "from": ["1001"],
+      "from": [
+        "1001"
+      ],
       "id": 3020,
       "gold": {
         "base": 800,
@@ -6616,7 +9177,10 @@
         "total": 1100,
         "sell": 770
       },
-      "tags": ["Boots", "Magic Penetration"],
+      "tags": [
+        "Boots",
+        "Magic Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6636,7 +9200,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>40</attention> Armor</stats><br><li><passive>Saving Grace:</passive> Upon taking lethal damage, restores <healing>50% base Health</healing> and <scaleMana>30% max Mana</scaleMana> after 4 seconds of stasis (300s cooldown).</mainText><br>",
       "colloq": ";ga",
       "plaintext": "Periodically revives champion upon death",
-      "from": ["1038", "1031", "2420"],
+      "from": [
+        "1038",
+        "1031",
+        "2420"
+      ],
       "id": 3026,
       "gold": {
         "base": 50,
@@ -6644,7 +9212,10 @@
         "total": 2800,
         "sell": 1120
       },
-      "tags": ["Armor", "Damage"],
+      "tags": [
+        "Armor",
+        "Damage"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -6668,7 +9239,11 @@
       "description": "<mainText><stats><attention>70</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Perfection:</passive> If you have at least 60% Critical Strike Chance, gain35% Critical Strike Damage.</mainText><br>",
       "colloq": ";ie",
       "plaintext": "Massively enhances critical strikes",
-      "from": ["1038", "1037", "1018"],
+      "from": [
+        "1038",
+        "1037",
+        "1018"
+      ],
       "id": 3031,
       "gold": {
         "base": 625,
@@ -6676,7 +9251,10 @@
         "total": 3400,
         "sell": 2380
       },
-      "tags": ["Critical Strike", "Damage"],
+      "tags": [
+        "Critical Strike",
+        "Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6694,7 +9272,10 @@
       "description": "<mainText><stats><attention>25</attention> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Sepsis:</passive> Dealing physical damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds. Dealing 3 consecutive Attacks to an enemy champion enhances this effect to <status>60% Grievous Wounds</status> against them until the effect is allowed to elapse.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
       "colloq": ";grievous",
       "plaintext": "Overcomes enemies with high Health recovery and Armor",
-      "from": ["3123", "3086"],
+      "from": [
+        "3123",
+        "3086"
+      ],
       "id": 3033,
       "gold": {
         "base": 650,
@@ -6702,7 +9283,12 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Damage", "Critical Strike", "Attack Speed", "Non Boots Movement"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Attack Speed",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6722,7 +9308,10 @@
       "description": "<mainText><stats><attention>30</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>35%</attention> Armor Penetration</stats><br><li><passive>Giant Slayer:</passive> Deal up to <physicalDamage>15% bonus physical damage</physicalDamage> against champions with greater max Health than you.<br><br><rules>Max damage increase reached when Health difference is greater than 2000.</rules></mainText><br>",
       "colloq": ";lw",
       "plaintext": "Overcomes enemies with high health and armor",
-      "from": ["3035", "1018"],
+      "from": [
+        "3035",
+        "1018"
+      ],
       "id": 3036,
       "gold": {
         "base": 950,
@@ -6730,7 +9319,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Damage", "Critical Strike", "Armor Penetration"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6751,7 +9344,9 @@
       "description": "<mainText><stats><attention>20</attention> Ability Power<br><attention>100</attention> Health</stats><br><li><passive>Glory:</passive> Gain 4 stacks for a champion kill or 2 stacks for an assist (up to 25 stacks total). Lose 10 stacks on death.<li><passive>Dread:</passive> Grants <scaleAP>5 Ability Power</scaleAP> per stack of <passive>Glory</passive>. Gain <speed>10% Move Speed</speed> if you have at least 10 stacks.<br><br><rules>Obtained <passive>Glory</passive> stacks are preserved between this item and <rarityGeneric>Dark Seal</rarityGeneric>.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Grants Ability Power for kills and assists",
-      "from": ["1082"],
+      "from": [
+        "1082"
+      ],
       "id": 3041,
       "gold": {
         "base": 1250,
@@ -6759,7 +9354,11 @@
         "total": 1600,
         "sell": 1120
       },
-      "tags": ["Health", "Spell Damage", "Non Boots Movement"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -6809,7 +9408,11 @@
       "description": "<mainText><stats><attention>20</attention> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Spectral Waltz:</passive> Attacks grant <status>Ghosting</status> and <speed>7% Move Speed</speed> for 3 seconds. In addition, Attacking 4 times causes Spectral Waltz to also grant <attackSpeed>30% Attack Speed</attackSpeed> for the same duration.<br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
       "colloq": ";pd",
       "plaintext": "Move faster while attacking enemies and gain a shield when on low health.",
-      "from": ["1036", "3086", "1036"],
+      "from": [
+        "1036",
+        "3086",
+        "1036"
+      ],
       "id": 3046,
       "gold": {
         "base": 850,
@@ -6817,7 +9420,12 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Damage", "Critical Strike", "Attack Speed", "Non Boots Movement"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Attack Speed",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6857,7 +9465,10 @@
       "description": "<mainText><stats><attention>20</attention> Armor<br><attention>45</attention> Move Speed</stats><br><li>Reduces incoming damage from Attacks by 12%.</mainText><br>",
       "colloq": ";",
       "plaintext": "Enhances Move Speed and reduces incoming basic attack damage",
-      "from": ["1001", "1029"],
+      "from": [
+        "1001",
+        "1029"
+      ],
       "id": 3047,
       "gold": {
         "base": 500,
@@ -6865,7 +9476,10 @@
         "total": 1100,
         "sell": 770
       },
-      "tags": ["Armor", "Boots"],
+      "tags": [
+        "Armor",
+        "Boots"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6886,7 +9500,10 @@
       "description": "<mainText><stats><attention>250</attention> Health<br><attention>25</attention> Armor<br><attention>250</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Conduit:</active> Designate an <attention>Accomplice</attention> (60s cooldown).<br><li><passive>Convergence:</passive> For 8 seconds after you <status>Immobilize</status> an enemy, your <attention>Accomplice's</attention> Attacks and Ability hits apply an additional <magicDamage>(30 - 70 (based on level)(+1.5% max Health)(+7.5% Ability Power) magic damage</magicDamage> to that enemy.<br><br><rules>Champions can only be linked by one Zeke's Convergence at a time.</rules></mainText><br>",
       "colloq": ";haroldandkumar",
       "plaintext": "Grants you and your ally bonuses when you cast your ultimate.",
-      "from": ["3067", "3024"],
+      "from": [
+        "3067",
+        "3024"
+      ],
       "id": 3050,
       "gold": {
         "base": 700,
@@ -6921,7 +9538,11 @@
       "description": "<mainText><stats><attention>400</attention> Health</stats><br><li><passive>The Claws that Catch:</passive> Gain 40% of base AD as bonus Attack Damage.<li><passive>Lifeline:</passive> Upon taking damage that would reduce your Health below 30%, gain a <shield>75% Bonus HP Shield</shield> for 3.75 seconds (60s ).</mainText><br>",
       "colloq": ";juggernaut;primal",
       "plaintext": "Shields against large bursts of damage",
-      "from": ["1037", "3044", "1028"],
+      "from": [
+        "1037",
+        "3044",
+        "1028"
+      ],
       "id": 3053,
       "gold": {
         "base": 725,
@@ -6929,7 +9550,10 @@
         "total": 3100,
         "sell": 2170
       },
-      "tags": ["Health", "Damage"],
+      "tags": [
+        "Health",
+        "Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -6946,7 +9570,10 @@
       "description": "<mainText><stats><attention>450</attention> Health<br><attention>40</attention> Magic Resist<br><attention>10</attention> Ability Haste<br><attention>100%</attention> Base Health Regen</stats><br><li><passive>Boundless Vitality:</passive> Increases all Healing and Shielding effectiveness on you by 25%.</mainText><br>",
       "colloq": ";sv",
       "plaintext": "Increases Health and healing effects",
-      "from": ["3211", "3067"],
+      "from": [
+        "3211",
+        "3067"
+      ],
       "id": 3065,
       "gold": {
         "base": 850,
@@ -6978,7 +9605,10 @@
       "description": "<mainText><stats><attention>350</attention> Health<br><attention>35</attention> Armor<br><attention>35</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><li><passive>Immolate:</passive> Taking or dealing damage causes you to begin dealing <magicDamage>(12 - 30 (based on level) + 1% bonus Health) magic damage</magicDamage> per second to nearby enemies (increased by 25% against minions and 150% against monsters) for 3 seconds. Damaging Champions or Epic Monsters with this effect adds a stack, increasing subsequent <passive>Immolate</passive> damage by 12% for 5 seconds (max stacks 6).<li><passive>Flametouch:</passive> At maximum <passive>Immolate</passive> stacks, your Attacks burn nearby enemies for your <passive>Immolate</passive> damage per second for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Tenacity and Slow Resist and <attention>50</attention> Health.</mainText><br>",
       "colloq": ";",
       "plaintext": "High armor. Constantly deals damage to nearby enemies. Immobilize enemies to release a wave of damaging flame",
-      "from": ["6660", "3105"],
+      "from": [
+        "6660",
+        "3105"
+      ],
       "id": 3068,
       "gold": {
         "base": 700,
@@ -7012,7 +9642,11 @@
       "description": "<mainText><stats><attention>45</attention> Attack Damage<br><attention>350</attention> Health<br><attention>30</attention> Ability Haste</stats><br><li><passive>Carve:</passive> Dealing physical damage to a champion applies a stack of <scaleArmor>5% Armor reduction</scaleArmor> for 6 seconds (max <scaleArmor>30% Armor reduction</scaleArmor>).<li><passive>Rage:</passive> Dealing physical damage to a champion grants 3 Move Speed per stack of <unique>Carve</unique> on them for 2 seconds.</mainText><br>",
       "colloq": ";bc",
       "plaintext": "Dealing physical damage to enemy champions reduces their Armor",
-      "from": ["3133", "3067", "1036"],
+      "from": [
+        "3133",
+        "3067",
+        "1036"
+      ],
       "id": 3071,
       "gold": {
         "base": 850,
@@ -7058,7 +9692,11 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>20%</attention> Life Steal</stats><br><li><passive>Ichorshield:</passive> Life Steal from Attacks can now overheal you. Excess Health is stored as a <shield>50 - 350 (based on level) Shield</shield> that decays slowly if you haven't dealt or taken damage in the last 25 seconds.</mainText><br>",
       "colloq": ";bt",
       "plaintext": "Grants Attack Damage, Life Steal and Life Steal now overheals",
-      "from": ["1038", "1018", "1053"],
+      "from": [
+        "1038",
+        "1018",
+        "1053"
+      ],
       "id": 3072,
       "gold": {
         "base": 600,
@@ -7066,7 +9704,11 @@
         "total": 3400,
         "sell": 2380
       },
-      "tags": ["Damage", "Critical Strike", "Life Steal"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Life Steal"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7085,7 +9727,11 @@
       "description": "<mainText><stats><attention>70</attention> Attack Damage<br><attention>20</attention> Ability Haste<br><attention>10%</attention> Omnivamp</stats><br><li><passive>Cleave:</passive> Attacks and Abilities deal up to <physicalDamage>(60% Attack Damage) physical damage</physicalDamage> to other enemies near target hit.<br><br><rules>Deals a minimum of (12% Attack Damage) damage to units at the end of its range, can only hit each target once per Attack or Ability, and doesn't trigger off of periodic damage.<br>Cleave does not trigger on structures. </rules><br></mainText><br>",
       "colloq": ";",
       "plaintext": "Melee attacks hit nearby enemies, dealing damage and restoring Health",
-      "from": ["3077", "1053", "3133"],
+      "from": [
+        "3077",
+        "1053",
+        "3133"
+      ],
       "id": 3074,
       "gold": {
         "base": 100,
@@ -7116,7 +9762,10 @@
       "description": "<mainText><stats><attention>350</attention> Health<br><attention>60</attention> Armor</stats><br><li><passive>Thorns:</passive> When struck by an Attack, deal <magicDamage>(10 + 10% bonus Armor) magic damage</magicDamage> to the attacker and apply 40% <status>Grievous Wounds</status> for 3 seconds if they are a champion. Immobilizing enemy champions also applies 60% <status>Grievous Wounds</status> for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3076", "1011"],
+      "from": [
+        "3076",
+        "1011"
+      ],
       "id": 3075,
       "gold": {
         "base": 1000,
@@ -7124,7 +9773,10 @@
         "total": 2700,
         "sell": 1890
       },
-      "tags": ["Health", "Armor"],
+      "tags": [
+        "Health",
+        "Armor"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7142,7 +9794,11 @@
       "description": "<mainText><stats><attention>35</attention> Attack Damage<br><attention>30%</attention> Attack Speed<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste</stats><br><li><passive>Threefold Strike:</passive> Attacks grant <speed>20 Move Speed</speed> for 3 seconds. If the target is a champion, increase your <scaleAD>base Attack Damage by 4%</scaleAD> for 3 seconds, stacking up to 5 times (Max increase <scaleAD>20% AD</scaleAD>).<li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with an additional <physicalDamage>(200% base Attack Damage) physical damage</physicalDamage> <OnHit>On-Hit</OnHit> (1.5s cooldown). <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>3</attention> Attack Damage,  <attention>3</attention> Ability Haste, and <attention> 3</attention> Move Speed</mainText><br>",
       "colloq": ";triforce;tons of damage",
       "plaintext": "Tons of Damage",
-      "from": ["3057", "3051", "3067"],
+      "from": [
+        "3057",
+        "3051",
+        "3067"
+      ],
       "id": 3078,
       "gold": {
         "base": 833,
@@ -7184,7 +9840,11 @@
       "description": "<mainText><stats><attention>800</attention> Health<br><attention>10</attention> Ability Haste<br><attention>200%</attention> Base Health Regen</stats><br><li><passive>Warmog's Heart:</passive> If you have at least 1100 bonus Health, restore <healing>5% max Health</healing> per second if damage hasn't been taken within 6 seconds (3 seconds for non-Champions).</mainText><br>",
       "colloq": ";",
       "plaintext": "Grants massive Health and Health Regen",
-      "from": ["1011", "3067", "3801"],
+      "from": [
+        "1011",
+        "3067",
+        "3801"
+      ],
       "id": 3083,
       "gold": {
         "base": 500,
@@ -7192,7 +9852,12 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Health", "Health Regen", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Health Regen",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7209,7 +9874,11 @@
       "description": "<mainText><stats><attention>45%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Wind's Fury:</passive> When Attacking, bolts are fired at up to 2 enemies near the target, each dealing <physicalDamage>(40% Attack Damage) physical damage</physicalDamage>. Bolts apply On-Hit effects and can Critically Strike.<br><br><rules>Item is for Ranged champions only.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Ranged attacks fire two bolts at nearby enemies",
-      "from": ["1042", "3086", "1042"],
+      "from": [
+        "1042",
+        "3086",
+        "1042"
+      ],
       "id": 3085,
       "gold": {
         "base": 950,
@@ -7217,7 +9886,12 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Critical Strike", "Attack Speed", "On Hit", "Non Boots Movement"],
+      "tags": [
+        "Critical Strike",
+        "Attack Speed",
+        "On Hit",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7244,7 +9918,10 @@
       "description": "<mainText><stats><attention>120</attention> Ability Power</stats><br><li><passive>Magical Opus:</passive> Increases your total <scaleAP>Ability Power by 35%</scaleAP>.</mainText><br>",
       "colloq": ";dc;banksys;hat",
       "plaintext": "Massively increases Ability Power",
-      "from": ["1058", "1058"],
+      "from": [
+        "1058",
+        "1058"
+      ],
       "id": 3089,
       "gold": {
         "base": 1100,
@@ -7252,7 +9929,9 @@
         "total": 3600,
         "sell": 2520
       },
-      "tags": ["Spell Damage"],
+      "tags": [
+        "Spell Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7269,7 +9948,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>40%</attention> Attack Speed<br><attention>40</attention> Magic Resist</stats><br><li><passive>Fray:</passive> Attacks apply <magicDamage>15 - 80 (based on level) magic damage</magicDamage> <OnHit>On-Hit</OnHit> and grant <speed>20 Move Speed</speed> for 2 seconds.</mainText><br>",
       "colloq": ";",
       "plaintext": "Resist magic damage and claw your way back to life.",
-      "from": ["3051", "1033", "1037"],
+      "from": [
+        "3051",
+        "1033",
+        "1037"
+      ],
       "id": 3091,
       "gold": {
         "base": 775,
@@ -7302,7 +9985,10 @@
       "description": "<mainText><stats><attention>35%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Sharpshooter:</passive> Your Energized Attack applies <magicDamage>120 bonus magic damage</magicDamage>. In addition, Energized attacks gain up to 35% bonus Attack Range.<br><br><rules>Attack Range cannot increase more than 150 units.</rules></mainText><br>",
       "colloq": ";canon;rapidfire;rfc",
       "plaintext": "Movement builds charges that release a sieging fire attack on release",
-      "from": ["3086", "2015"],
+      "from": [
+        "3086",
+        "2015"
+      ],
       "id": 3094,
       "gold": {
         "base": 750,
@@ -7310,7 +9996,11 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Critical Strike", "Attack Speed", "Non Boots Movement"],
+      "tags": [
+        "Critical Strike",
+        "Attack Speed",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7329,7 +10019,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Paralyze:</passive> Your Energized Attack gains <magicDamage>120 bonus magic damage</magicDamage>. In addition, Energized Attacks slow enemies by 75% for 0.5 seconds.<br></mainText><br>",
       "colloq": ";Windblade",
       "plaintext": "Tremendously empower other Energized effects.",
-      "from": ["1038", "1018", "2015"],
+      "from": [
+        "1038",
+        "1018",
+        "2015"
+      ],
       "id": 3095,
       "gold": {
         "base": 100,
@@ -7337,7 +10031,12 @@
         "total": 2700,
         "sell": 1890
       },
-      "tags": ["Damage", "Critical Strike", "Attack Speed", "Slow"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Attack Speed",
+        "Slow"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7364,7 +10063,11 @@
       "description": "<mainText><stats><attention>75</attention> Ability Power<br><attention>15</attention> Ability Haste<br><attention>8%</attention> Move Speed</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with an additional <magicDamage>(75% base Attack Damage + 50% Ability Power) magic damage</magicDamage> <OnHit>On-Hit</OnHit> (1.5s cooldown).</mainText><br>",
       "colloq": ";",
       "plaintext": "Grants a bonus to next attack after spell cast",
-      "from": ["3057", "3113", "3108"],
+      "from": [
+        "3057",
+        "3113",
+        "3108"
+      ],
       "id": 3100,
       "gold": {
         "base": 550,
@@ -7372,7 +10075,12 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Spell Damage", "On Hit", "Non Boots Movement", "Ability Haste"],
+      "tags": [
+        "Spell Damage",
+        "On Hit",
+        "Non Boots Movement",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7390,7 +10098,10 @@
       "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>45</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Annul:</passive> Grants a Spell Shield that blocks the next enemy Ability (40s cooldown).<br><br><rules>Item cooldown is restarted if you take damage from champions before it is completed.</rules></mainText><br>",
       "colloq": ";bv",
       "plaintext": "Periodically blocks enemy abilities",
-      "from": ["3108", "4632"],
+      "from": [
+        "3108",
+        "4632"
+      ],
       "id": 3102,
       "gold": {
         "base": 700,
@@ -7429,7 +10140,10 @@
       "description": "<mainText><stats><attention>20%</attention> Heal and Shield Power<br><attention>200</attention> Health<br><attention>15</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><br><active>Active -</active> <active>Intervention:</active> Target an area within 5500 range. After 2.5 seconds, call down a beam of light to Restore <healing>200 - 400 (scales with ally level) Health</healing> to allies and burn enemy champions for <trueDamage>10% max Health true damage</trueDamage> (90s cooldown).<br><br><rules>Item can be activated whilst dead. Damage and healing reduced by 50% if the target has recently been affected by another <active>Intervention</active>. Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Activate to heal allies and damage enemies in an area",
-      "from": ["3067", "3114"],
+      "from": [
+        "3067",
+        "3114"
+      ],
       "id": 3107,
       "gold": {
         "base": 700,
@@ -7437,7 +10151,12 @@
         "total": 2300,
         "sell": 1610
       },
-      "tags": ["Health", "Mana Regen", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Mana Regen",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7454,7 +10173,11 @@
       "description": "<mainText><stats><attention>400</attention> Health<br><attention>10</attention> Ability Haste<br><attention>200%</attention> Base Health Regen</stats><br><br><active>Active -</active> <active>Pledge:</active> Designate an ally who is <attention>Worthy</attention> (60s cooldown).<br><li><passive>Sacrifice:</passive> While your <attention>Worthy</attention> ally is nearby, redirect 10% of damage they take to you and heal for 8% of the damage dealt by your <attention>Worthy</attention> ally to Champions. If they have less than 30% Health the damage reduction is increased to <attention>20%</attention>.<br><br><rules>Champions can only be linked by one Knight's Vow at a time. Damage redirection stops if you have less than 30% Health</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Partner with an ally to protect each other",
-      "from": ["3801", "3067", "1006"],
+      "from": [
+        "3801",
+        "3067",
+        "1006"
+      ],
       "id": 3109,
       "gold": {
         "base": 400,
@@ -7487,7 +10210,10 @@
       "description": "<mainText><stats><attention>80</attention> Armor<br><attention>400</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Winter's Caress:</passive> Reduces the <attackSpeed>Attack Speed</attackSpeed> of nearby enemies by 20%.<li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks by up to 7 + (3.5 per 1000 max Health), capped at 40% of the Attack's damage.</mainText><br>",
       "colloq": ";fh",
       "plaintext": "Massively increases Armor and slows enemy basic attacks",
-      "from": ["3082", "3024"],
+      "from": [
+        "3082",
+        "3024"
+      ],
       "id": 3110,
       "gold": {
         "base": 600,
@@ -7495,7 +10221,13 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Armor", "Mana", "Aura", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Armor",
+        "Mana",
+        "Aura",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7513,7 +10245,10 @@
       "description": "<mainText><stats><attention>25</attention> Magic Resist<br><attention>45</attention> Move Speed<br><attention>30%</attention> Tenacity</stats><br><br><rules>Tenacity reduces the duration of <status>Stun</status>, <status>Slow</status>, <status>Taunt</status>, <status>Fear</status>, <status>Silence</status>, <status>Blind</status>, <status>Polymorph</status> and <status>Immobilizing</status> effects. It has no effect on <status>Airborne</status> or <status>Suppression</status>.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Increases Move Speed and reduces duration of disabling effects",
-      "from": ["1001", "1033"],
+      "from": [
+        "1001",
+        "1033"
+      ],
       "id": 3111,
       "gold": {
         "base": 350,
@@ -7521,7 +10256,11 @@
         "total": 1100,
         "sell": 770
       },
-      "tags": ["Boots", "Spell Block", "Tenacity"],
+      "tags": [
+        "Boots",
+        "Spell Block",
+        "Tenacity"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7539,7 +10278,11 @@
       "description": "<mainText><stats><attention>100</attention> Ability Power<br><attention>50%</attention> Attack Speed</stats><br><li><passive>Icathian Bite:</passive> Attacks apply <magicDamage>(15 + 20% Ability Power) magic damage</magicDamage> <OnHit>On-Hit</OnHit>.</mainText><br>",
       "colloq": ";",
       "plaintext": "Increases Attack Speed, Ability Power, and Cooldown Reduction",
-      "from": ["1043", "1026", "1052"],
+      "from": [
+        "1043",
+        "1026",
+        "1052"
+      ],
       "id": 3115,
       "gold": {
         "base": 715,
@@ -7547,7 +10290,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Attack Speed", "Spell Damage", "On Hit"],
+      "tags": [
+        "Attack Speed",
+        "Spell Damage",
+        "On Hit"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7565,7 +10312,11 @@
       "description": "<mainText><stats><attention>75</attention> Ability Power<br><attention>400</attention> Health</stats><br><li><passive>Rimefrost:</passive> Damaging Abilities <status>Slow</status> enemies by 30% for 1 second.</mainText><br>",
       "colloq": ";",
       "plaintext": "Abilities slow enemies",
-      "from": ["1026", "1011", "1052"],
+      "from": [
+        "1026",
+        "1011",
+        "1052"
+      ],
       "id": 3116,
       "gold": {
         "base": 415,
@@ -7573,7 +10324,11 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Health", "Spell Damage", "Slow"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Slow"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7599,7 +10354,9 @@
       "description": "<mainText><stats></stats><attention>25</attention> Move Speed <li>When out of combat for at least 5 seconds, increase this item's effect to <attention>115</attention>.</mainText><br>",
       "colloq": ";",
       "plaintext": "Greatly enhances Move Speed when out of combat",
-      "from": ["1001"],
+      "from": [
+        "1001"
+      ],
       "id": 3117,
       "gold": {
         "base": 700,
@@ -7607,7 +10364,9 @@
         "total": 1000,
         "sell": 700
       },
-      "tags": ["Boots"],
+      "tags": [
+        "Boots"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7634,7 +10393,11 @@
       "description": "<mainText><stats><attention>400</attention> Health<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleHealth>Health equal to 8% Total Mana</scaleHealth>.<li><passive>Mana Charge:</passive> Strike a target with an Ability or Attack to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Fimbulwinter</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3070", "3067", "1028"],
+      "from": [
+        "3070",
+        "3067",
+        "1028"
+      ],
       "id": 3119,
       "gold": {
         "base": 1000,
@@ -7642,7 +10405,11 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Health", "Mana", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Mana",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7660,7 +10427,11 @@
       "description": "<mainText><stats><attention>45%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Wrath:</passive> Your Critical Strike Chance is converted into <OnHit>On-Hit</OnHit> damage. Gain <physicalDamage>40</physicalDamage> <OnHit>On-Hit</OnHit> for each 20% Critical Strike Chance converted.<li><passive>Seething Strike:</passive> Every third Attack applies your On-Hit effects twice.<br><br><rules><passive>Wrath</passive> cannot benefit from more than 100% Critical Strike Chance. <passive>Wrath's</passive> On-Hit damage conversion is affected by Critical Strike damage modifiers. </rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6677", "1018", "1042"],
+      "from": [
+        "6677",
+        "1018",
+        "1042"
+      ],
       "id": 3124,
       "gold": {
         "base": 900,
@@ -7668,7 +10439,11 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Critical Strike", "Attack Speed", "On Hit"],
+      "tags": [
+        "Critical Strike",
+        "Attack Speed",
+        "On Hit"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7701,7 +10476,10 @@
       "description": "<mainText><stats><attention>65</attention> Ability Power<br><attention>45%</attention> Magic Penetration</stats></mainText><br>",
       "colloq": ";",
       "plaintext": "Increases magic damage",
-      "from": ["4630", "1026"],
+      "from": [
+        "4630",
+        "1026"
+      ],
       "id": 3135,
       "gold": {
         "base": 700,
@@ -7709,7 +10487,10 @@
         "total": 2800,
         "sell": 1960
       },
-      "tags": ["Magic Penetration", "Spell Damage"],
+      "tags": [
+        "Magic Penetration",
+        "Spell Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7726,7 +10507,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>30</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs (excluding <status>Airborne</status>) and also gain <speed>50% Move Speed</speed> for 1 second (90s cooldown).</mainText><br>",
       "colloq": ";",
       "plaintext": "Activate to remove all crowd control debuffs and grant massive Move Speed",
-      "from": ["3140", "1018", "1037"],
+      "from": [
+        "3140",
+        "1018",
+        "1037"
+      ],
       "id": 3139,
       "gold": {
         "base": 225,
@@ -7765,7 +10550,10 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Wraith Step:</active> Gain <speed>20% Move Speed</speed> and <status>Ghosting</status> for 6 seconds (45s cooldown).<br><li><passive>Haunt:</passive> Gain <speed>40 Move Speed</speed> out of combat.<br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
       "colloq": ";lethality",
       "plaintext": "Activate to greatly increase Move Speed",
-      "from": ["3134", "3133"],
+      "from": [
+        "3134",
+        "3133"
+      ],
       "id": 3142,
       "gold": {
         "base": 800,
@@ -7773,7 +10561,12 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Damage", "Active", "Non Boots Movement", "Armor Penetration"],
+      "tags": [
+        "Damage",
+        "Active",
+        "Non Boots Movement",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7798,7 +10591,11 @@
       "description": "<mainText><stats><attention>250</attention> Health<br><attention>80</attention> Armor<br><attention>10</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Humility:</active> Briefly <status>Slow</status> nearby enemies and reduce their <scaleAD>Attack Damage</scaleAD> by 10% and Critical Strike Damage by 20% for 4 seconds (60s cooldown).<br><li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks by up to 5 + (0.35% max Health), capped at 40% of the attack's damage.</mainText><br>",
       "colloq": ";",
       "plaintext": "Greatly increases defenses, activate to slow nearby enemies",
-      "from": ["3082", "1029", "3067"],
+      "from": [
+        "3082",
+        "1029",
+        "3067"
+      ],
       "id": 3143,
       "gold": {
         "base": 600,
@@ -7831,7 +10628,11 @@
       "description": "<mainText><stats><attention>90</attention> Ability Power<br><attention>6</attention> Magic Penetration<br><attention>250</attention> Health<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supersonic:</active> Dash in target direction, unleashing an arc of magic missiles that deal <magicDamage>(125 +15% Ability Power) magic damage</magicDamage>. Then, gain <speed>30% Move Speed</speed> towards enemy champions for 1.5 seconds (40s cooldown).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Magic Penetration.<br><br><rules>Supersonic's dash cannot pass through terrain.</rules></mainText><br>",
       "colloq": "rocket belt;",
       "plaintext": "Activate to dash forward and unleash a fiery explosion",
-      "from": ["1026", "3145", "1052"],
+      "from": [
+        "1026",
+        "3145",
+        "1052"
+      ],
       "id": 3152,
       "gold": {
         "base": 865,
@@ -7865,7 +10666,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>8%</attention> Life Steal</stats><br><li><passive>Mist's Edge:</passive> Attacks apply <physicalDamage>physical damage</physicalDamage> <OnHit>On-Hit</OnHit> equal to (12% for Melee users | 8% for Ranged users) of the target's current Health. <li><passive>Siphon:</passive> Attacking a champion 3 times deals <magicDamage>40 - 150 (based on level) magic damage</magicDamage> and steals 25% Move Speed for 2 seconds (20s cooldown).<br><br><rules>Maximum <passive>Mist's Edge</passive> damage dealt to monsters and minions is 60.<br>Item performance differs for melee and ranged users.</rules></mainText><br>",
       "colloq": ";brk;bork;bork;bork;botrk",
       "plaintext": "Deals damage based on target's Health, can steal Move Speed",
-      "from": ["1053", "1043", "1037"],
+      "from": [
+        "1053",
+        "1043",
+        "1037"
+      ],
       "id": 3153,
       "gold": {
         "base": 525,
@@ -7900,7 +10705,10 @@
       "colloq": ";",
       "plaintext": "Grants bonus Attack Damage when Health is low",
       "stacks": 0,
-      "from": ["3155", "3133"],
+      "from": [
+        "3155",
+        "3133"
+      ],
       "id": 3156,
       "gold": {
         "base": 500,
@@ -7908,7 +10716,12 @@
         "total": 2900,
         "sell": 2030
       },
-      "tags": ["Spell Block", "Damage", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Spell Block",
+        "Damage",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -7938,7 +10751,11 @@
       "description": "<mainText><stats><attention>65</attention> Ability Power<br><attention>45</attention> Armor<br><attention>10</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Stasis:</active> You become <status>Invulnerable</status> and <status>Untargetable</status> for 2.5 seconds, but are prevented from taking any other actions during this time (120s cooldown).</mainText><br>",
       "colloq": ";zhg;zonyas",
       "plaintext": "Activate to become invincible but unable to take actions",
-      "from": ["3191", "2420", "3108"],
+      "from": [
+        "3191",
+        "2420",
+        "3108"
+      ],
       "id": 3157,
       "gold": {
         "base": 50,
@@ -7975,7 +10792,9 @@
       "description": "<mainText><stats><attention>20</attention> Ability Haste<br><attention>45</attention> Move Speed</stats><br><li>Gain 12 Summoner Spell Haste.<br><br><flavorText>''This item is dedicated in honor of Ionia's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE.'</flavorText></mainText><br>",
       "colloq": "",
       "plaintext": "Increases Move Speed and Cooldown Reduction",
-      "from": ["1001"],
+      "from": [
+        "1001"
+      ],
       "id": 3158,
       "gold": {
         "base": 650,
@@ -7983,7 +10802,10 @@
         "total": 950,
         "sell": 665
       },
-      "tags": ["Boots", "Cooldown Reduction"],
+      "tags": [
+        "Boots",
+        "Cooldown Reduction"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8000,7 +10822,11 @@
       "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>250</attention> Health</stats><br><li><passive>Affliction:</passive> Dealing magic damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds. If the target is below 50% Health, this effect is increased to <status>60% Grievous Wounds</status>.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
       "colloq": ";nmst;grievous",
       "plaintext": "Increases magic damage",
-      "from": ["1026", "3916", "1028"],
+      "from": [
+        "1026",
+        "3916",
+        "1028"
+      ],
       "id": 3165,
       "gold": {
         "base": 450,
@@ -8008,7 +10834,10 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Health", "Spell Damage"],
+      "tags": [
+        "Health",
+        "Spell Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8026,7 +10855,11 @@
       "description": "<mainText><stats><attention>50</attention> Attack Damage<br><attention>10</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><li><passive>Blackout:</passive> When spotted by an enemy Ward, reveal traps and disable Wards around you for 8 seconds (45s cooldown). Your Attacks instantly kill revealed traps and do triple damage to Wards.</mainText><br>",
       "colloq": ";lethality",
       "plaintext": "Provides trap and ward detection periodically",
-      "from": ["1036", "3134", "1036"],
+      "from": [
+        "1036",
+        "3134",
+        "1036"
+      ],
       "id": 3179,
       "gold": {
         "base": 600,
@@ -8062,7 +10895,10 @@
       "description": "<mainText><stats><attention>50</attention> Attack Damage<br><attention>400</attention> Health<br><attention>150%</attention> Base Health Regen</stats><br><li><passive>Boarding Party:</passive> While no allied champions are nearby you gain 20-45 <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR> and 20% increased damage to towers. Nearby large minions gain 60-135 <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR> and 200% increased damage to towers. <br><br><rules>Boarding Party's resistances decay over 3 seconds when an ally gets too close.</rules><br></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["1037", "3044"],
+      "from": [
+        "1037",
+        "3044"
+      ],
       "id": 3181,
       "gold": {
         "base": 825,
@@ -8070,7 +10906,12 @@
         "total": 2800,
         "sell": 1960
       },
-      "tags": ["Health", "Spell Block", "Armor", "Damage"],
+      "tags": [
+        "Health",
+        "Spell Block",
+        "Armor",
+        "Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8088,7 +10929,10 @@
       "description": "<mainText><stats><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Devotion:</active> Grant nearby allies a <shield>230 - 385 (based on ally level) Shield</shield>, decaying over 2.5 seconds (90s cooldown). <br><li><passive>Consecrate:</passive> Grant nearby allied champions <scaleArmor>3 Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>2</attention> Armor/Magic Resist increase to <passive>Consecrate</passive>.<br><br><rules>Strength of level-scaling effects are based on the ally's level.<br>Subsequent <active>Devotion</active> shields within 20 seconds only have 25% effect.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Activate to shield nearby allies from damage",
-      "from": ["3067", "3105"],
+      "from": [
+        "3067",
+        "3105"
+      ],
       "id": 3190,
       "gold": {
         "base": 300,
@@ -8123,7 +10967,11 @@
       "description": "<mainText><stats><attention>60</attention> Armor<br><attention>60</attention> Magic Resist<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Unbreakable:</active> Gain a <shield>(100 + 100% bonus Health) Shield</shield>  that decays and grow 25% in size for 2.5 seconds. (90s cooldown).<br><li><passive>Fortify:</passive> Taking damage from a champion grants a stack of <scaleArmor>5% bonus Armor</scaleArmor> and <scaleMR>5% bonus Magic Resist</scaleMR> for 6 seconds.<br><br><rules>Max 5 stacks; 1 per champion.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Greatly increases defense near multiple enemies.",
-      "from": ["1029", "3105", "1033"],
+      "from": [
+        "1029",
+        "3105",
+        "1033"
+      ],
       "id": 3193,
       "gold": {
         "base": 1050,
@@ -8155,7 +11003,10 @@
       "description": "<mainText><stats><attention>20%</attention> Heal and Shield Power<br><attention>50</attention> Magic Resist<br><attention>15</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><br><active>Active -</active> <active>Purify:</active> Remove all crowd control debuffs (except <status>Knockups</status> and <status>Suppression</status>) from an ally champion and restore <healing>100 - 200 (based on ally level) Health</healing> (120s cooldown).</mainText><br>",
       "colloq": ";",
       "plaintext": "Activate to remove all disabling effects from an allied champion",
-      "from": ["3114", "1057"],
+      "from": [
+        "3114",
+        "1057"
+      ],
       "id": 3222,
       "gold": {
         "base": 600,
@@ -8187,7 +11038,11 @@
       "description": "<mainText><stats><attention>60</attention> Ability Power<br><attention>10%</attention> Heal and Shield Power<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Sanctify:</passive> Healing or Shielding another ally enhances you both for 6 seconds, granting your Attacks <attackSpeed>10% - 30% (based on ally level)</attackSpeed> Attack Speed and <magicDamage>5 - 20 (based on ally level) magic damage</magicDamage> <OnHit>On-Hit</OnHit>. <br><br><rules>Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.",
-      "from": ["1052", "3114", "1052"],
+      "from": [
+        "1052",
+        "3114",
+        "1052"
+      ],
       "id": 3504,
       "gold": {
         "base": 630,
@@ -8195,7 +11050,12 @@
         "total": 2300,
         "sell": 1610
       },
-      "tags": ["Attack Speed", "Spell Damage", "Mana Regen", "On Hit"],
+      "tags": [
+        "Attack Speed",
+        "Spell Damage",
+        "Mana Regen",
+        "On Hit"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8212,7 +11072,11 @@
       "description": "<mainText><stats><attention>45</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>20</attention> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack deals an additional <physicalDamage>100% Base Attack Damage + 40% Bonus Attack Damage physical damage</physicalDamage> <OnHit>On-Hit</OnHit> and restores 40% of that damage as mana (1.5s cooldown).</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3057", "3133", "1018"],
+      "from": [
+        "3057",
+        "3133",
+        "1018"
+      ],
       "id": 3508,
       "gold": {
         "base": 400,
@@ -8245,7 +11109,11 @@
       "description": "<mainText><stats><attention>300</attention> Health<br><attention>45</attention> Armor<br><attention>5%</attention> Move Speed</stats><li><passive>Shipwrecker:</passive> While moving, build up to <speed>40 bonus Move Speed</speed>. Your next Attack discharges built up Move Speed to deal up to <physicalDamage>40 (+100% base Attack Damage) physical damage</physicalDamage>. If dealt by a Melee champion at top speed, the Attack also <status>Slows</status> the target by 50% for 1 second.<br><br><flavorText>''There's only one way you'll get this armor from me...'' - forgotten namesake</flavorText></mainText><br>",
       "colloq": ";juggernaut;dreadnought",
       "plaintext": "Build momentum as you move around then smash into enemies.",
-      "from": ["3066", "1028", "1031"],
+      "from": [
+        "3066",
+        "1028",
+        "1031"
+      ],
       "id": 3742,
       "gold": {
         "base": 900,
@@ -8253,7 +11121,12 @@
         "total": 2900,
         "sell": 2030
       },
-      "tags": ["Health", "Armor", "Slow", "Non Boots Movement"],
+      "tags": [
+        "Health",
+        "Armor",
+        "Slow",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8272,7 +11145,11 @@
       "description": "<mainText><stats><attention>30</attention> Attack Damage<br><attention>500</attention> Health</stats><br><li><passive>Colossus:</passive> Gain bonus <scaleAD>Attack Damage equal to 2% bonus Health</scaleAD>.<li><passive>Cleave:</passive> Attacks apply an additional <physicalDamage>(5 + 1.5% max Health) physical damage</physicalDamage> <OnHit>On-Hit</OnHit>, creating a shockwave that deals <physicalDamage>(40 + 3% max Health)  physical damage</physicalDamage> to enemies behind the target.<br><br><rules>Deals 75% for Ranged users. <OnHit>On-Hit</OnHit> damage is also applied to Structures.<br>Cleave's shockwave does not trigger on structures.</rules></mainText><br>",
       "colloq": ";juggernaut",
       "plaintext": "Deals area of effect damage based on owner's health",
-      "from": ["3077", "1028", "1011"],
+      "from": [
+        "3077",
+        "1028",
+        "1011"
+      ],
       "id": 3748,
       "gold": {
         "base": 800,
@@ -8280,7 +11157,12 @@
         "total": 3300,
         "sell": 2310
       },
-      "tags": ["Health", "Health Regen", "Damage", "On Hit"],
+      "tags": [
+        "Health",
+        "Health Regen",
+        "Damage",
+        "On Hit"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8311,7 +11193,11 @@
       "colloq": ";lethality",
       "plaintext": "Periodically blocks enemy abilities",
       "stacks": 0,
-      "from": ["1036", "3134", "1028"],
+      "from": [
+        "1036",
+        "3134",
+        "1028"
+      ],
       "id": 3814,
       "gold": {
         "base": 1050,
@@ -8319,7 +11205,11 @@
         "total": 2900,
         "sell": 2030
       },
-      "tags": ["Health", "Damage", "Armor Penetration"],
+      "tags": [
+        "Health",
+        "Damage",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8352,7 +11242,12 @@
         "total": 400,
         "sell": 160
       },
-      "tags": ["GoldPer", "Lane", "Mana Regen", "Spell Damage"],
+      "tags": [
+        "GoldPer",
+        "Lane",
+        "Mana Regen",
+        "Spell Damage"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -8381,7 +11276,12 @@
         "total": 400,
         "sell": 160
       },
-      "tags": ["Health", "Health Regen", "GoldPer", "Lane"],
+      "tags": [
+        "Health",
+        "Health Regen",
+        "GoldPer",
+        "Lane"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -8410,7 +11310,12 @@
         "total": 400,
         "sell": 160
       },
-      "tags": ["Health", "Health Regen", "GoldPer", "Lane"],
+      "tags": [
+        "Health",
+        "Health Regen",
+        "GoldPer",
+        "Lane"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -8439,7 +11344,12 @@
         "total": 400,
         "sell": 160
       },
-      "tags": ["Health", "Mana Regen", "GoldPer", "Lane"],
+      "tags": [
+        "Health",
+        "Mana Regen",
+        "GoldPer",
+        "Lane"
+      ],
       "maps": {
         "11": true,
         "12": false,
@@ -8459,7 +11369,10 @@
       "description": "<mainText><stats><attention>40</attention> Ability Power<br><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Coordinated Fire:</passive> Abilities that <status>Slow</status> or <status>Immobilize</status> a champion deal <magicDamage>45 - 75 (based on level) bonus magic damage</magicDamage> and marks them for 4 seconds (6s cooldown per champion). Ally champion damage detonates the mark, dealing an additional <magicDamage>90 - 150 (based on ally level) magic damage</magicDamage> and granting you both <speed>20% Move Speed</speed> for 2 seconds. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>15</attention> Ability Power. <br><br><rules>Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
       "colloq": ";",
       "plaintext": "Defer damage until later.",
-      "from": ["3067", "4642"],
+      "from": [
+        "3067",
+        "4642"
+      ],
       "id": 4005,
       "gold": {
         "base": 750,
@@ -8491,7 +11404,11 @@
       "description": "<mainText><stats><attention>350</attention> Health<br><attention>70</attention> Magic Resist<br><attention>5%</attention> Move Speed</stats><br><li><passive>Absorb:</passive> Taking <magicDamage>magic damage</magicDamage> from enemy Champions grants a stack of <attention>Steadfast</attention> (max 6) for 7 seconds. Enemy <status>Immobilizing</status> effects grant an additional 2 stacks.<li><passive>Dissipate:</passive> While at 6 stacks of <attention>Steadfast</attention>, take <magicDamage>25% reduced magic damage</magicDamage> and gain 10% increased Move Speed.<br><br><rules>One spell can add a new stack of <attention>Steadfast</attention> every 1 second.</rules></mainText><br>",
       "colloq": ";fon",
       "plaintext": "Move Speed, Magic Resist, and max Health Regeneration",
-      "from": ["1057", "1028", "3066"],
+      "from": [
+        "1057",
+        "1028",
+        "3066"
+      ],
       "id": 4401,
       "gold": {
         "base": 800,
@@ -8499,7 +11416,11 @@
         "total": 2900,
         "sell": 2030
       },
-      "tags": ["Health", "Spell Block", "Non Boots Movement"],
+      "tags": [
+        "Health",
+        "Spell Block",
+        "Non Boots Movement"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8518,7 +11439,10 @@
       "description": "<mainText><stats><attention>85</attention> Ability Power<br><attention>150</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Hypershot:</passive> Damaging a champion with a non-targeted Ability at over 700 range or <status>Slowing or Immobilizing</status> them <keywordStealth>Reveals</keywordStealth> them and increases their damage taken from you by 10% for 6 seconds. <br><br><rules>The Ability that triggers <passive>Hypershot</passive> also benefits from the damage increase. Pets and non-immobilizing traps do not trigger this effect. Only the initial placement of zone Abilities will trigger this effect. Distance is measured from the Ability cast position. </rules></mainText><br>",
       "colloq": "",
       "plaintext": "Immobilizing a champion causes lightning to strike them",
-      "from": ["3145", "3108"],
+      "from": [
+        "3145",
+        "3108"
+      ],
       "id": 4628,
       "gold": {
         "base": 1050,
@@ -8526,7 +11450,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Health", "Spell Damage", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8544,7 +11472,11 @@
       "description": "<mainText><stats><attention>65</attention> Ability Power<br><attention>200</attention> Health<br><attention>30</attention> Ability Haste<br><attention>5%</attention> Move Speed</stats><br><li><passive>Spelldance:</passive> Damaging a champion with 3 separate Attacks or Spells grants <speed>15% Move Speed</speed> (decaying to <speed>5%</speed>) and <scaleAP>40 Ability Power</scaleAP> until exiting champion combat.<br></mainText><br>",
       "colloq": "",
       "plaintext": "Massive amounts of Cooldown Reduction",
-      "from": ["3108", "3113", "1028"],
+      "from": [
+        "3108",
+        "3113",
+        "1028"
+      ],
       "id": 4629,
       "gold": {
         "base": 850,
@@ -8577,7 +11509,10 @@
       "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>300</attention> Health<br><attention>15</attention> Ability Haste<br><attention>8%</attention> Omnivamp</stats><br><li><passive>Void Corruption:</passive> For each second damaging enemy champions, deal 3% bonus damage (max 9%). At maximum strength, the bonus damage is dealt as <trueDamage>true damage</trueDamage> instead. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>2%</attention> Omnivamp and 8 Ability Power.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["4635", "1026"],
+      "from": [
+        "4635",
+        "1026"
+      ],
       "id": 4633,
       "gold": {
         "base": 1050,
@@ -8610,7 +11545,11 @@
       "description": "<mainText><stats><attention>90</attention> Ability Power<br><attention>300</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Soulrend:</passive> Damaging a champion deals an additional <magicDamage>(125 +15% Ability Power) magic damage</magicDamage> and grants you <speed>25% Move Speed</speed> for 1.5 seconds (40s cooldown per champion).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Ability Haste.<br><br><rules>Damaging a new champion will extend the duration of the Move Speed bonus.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["1026", "3145", "1052"],
+      "from": [
+        "1026",
+        "3145",
+        "1052"
+      ],
       "id": 4636,
       "gold": {
         "base": 865,
@@ -8642,7 +11581,11 @@
       "description": "<mainText><stats><attention>60</attention> Ability Power<br><attention>450</attention> Health</stats><br><li><passive>Azakana Gaze:</passive> Dealing Ability damage burns enemies for 2/1.2% (Melee/Ranged) <magicDamage>max Health magic damage</magicDamage> every second for 4 seconds. <li><passive>Dark Pact:</passive> Gain 2% of your <scaleHealth>bonus Health</scaleHealth> as <scaleAP>Ability Power</scaleAP>. </mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["1026", "1011", "1052"],
+      "from": [
+        "1026",
+        "1011",
+        "1052"
+      ],
       "id": 4637,
       "gold": {
         "base": 815,
@@ -8650,7 +11593,10 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Health", "Spell Damage"],
+      "tags": [
+        "Health",
+        "Spell Damage"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8668,7 +11614,9 @@
       "description": "<mainText><stats><attention>150</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Arcane Cache:</passive> This item can store up to 3 purchased Control Wards.<li><passive>Behold:</passive> Increase your Stealth Ward and Control Ward placement caps by 1.<li><passive>Blessing of Ixtal:</passive> Grants a 12% increase to bonus Health, bonus Attack Damage, Ability Haste, and Ability Power.<br><br><rules>Upgrades from <rarityLegendary>Watchful Sightstone</rarityLegendary>.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["4638"],
+      "from": [
+        "4638"
+      ],
       "inStore": false,
       "id": 4643,
       "gold": {
@@ -8700,7 +11648,11 @@
       "description": "<mainText><stats><attention>60</attention> Ability Power<br><attention>250</attention> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Divine Safeguard:</passive> You are <keywordMajor>Safeguarded</keywordMajor>, reducing incoming champion damage by 75%. <keywordMajor>Safeguard</keywordMajor> persists for 1.5 seconds after taking champion damage. (40 second cooldown). <li><passive>Holy Gift:</passive> While <keywordMajor>Safeguarded</keywordMajor> and for 3 seconds after it is broken, gain <scaleAP>10-40 Ability Power</scaleAP>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>1%</attention> Move Speed and 8 Ability Power.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3067", "3802", "1052"],
+      "from": [
+        "3067",
+        "3802",
+        "1052"
+      ],
       "id": 4644,
       "gold": {
         "base": 265,
@@ -8733,7 +11685,10 @@
       "description": "<mainText><stats><attention>100</attention> Ability Power<br><attention>200</attention> Health</stats><br><li><passive>Cinderbloom:</passive> Damage to champions benefits from 10 to 20 additional <keywordStealth>Magic Penetration</keywordStealth> based on their current <scaleHealth>Health</scaleHealth> (max benefit when the target has 1000 or less Health). If the target was recently affected by Shields, gain the maximum benefit against that target (20 bonus <keywordStealth>Magic Penetration</keywordStealth>). </mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3145", "1058"],
+      "from": [
+        "3145",
+        "1058"
+      ],
       "id": 4645,
       "gold": {
         "base": 700,
@@ -8741,7 +11696,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Health", "Spell Damage", "Magic Penetration"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Magic Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8759,7 +11718,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>300</attention> Health<br><attention>35</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs (excluding <status>Airborne</status>) and gain 40% Tenacity and 40% Slow Resistance for 3 seconds (90s cooldown).</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3140", "1037", "1028"],
+      "from": [
+        "3140",
+        "1037",
+        "1028"
+      ],
       "id": 6035,
       "gold": {
         "base": 425,
@@ -8767,7 +11730,13 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Health", "Spell Block", "Damage", "Active", "Tenacity"],
+      "tags": [
+        "Health",
+        "Spell Block",
+        "Damage",
+        "Active",
+        "Tenacity"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8792,7 +11761,11 @@
       "colloq": "",
       "plaintext": "",
       "stacks": 0,
-      "from": ["1037", "1031", "3133"],
+      "from": [
+        "1037",
+        "1031",
+        "3133"
+      ],
       "id": 6333,
       "gold": {
         "base": 525,
@@ -8800,7 +11773,12 @@
         "total": 3300,
         "sell": 2310
       },
-      "tags": ["Armor", "Damage", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Armor",
+        "Damage",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8818,7 +11796,11 @@
       "description": "<mainText><stats><attention>45</attention> Attack Damage<br><attention>250</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Hackshorn:</passive> Dealing physical damage applies 40% <status>Grievous Wounds</status> to enemy champions for 3 seconds. If the target is below 50% Health, this effect is increased to 60% <status>Grievous Wounds</status>.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3123", "1028", "3133"],
+      "from": [
+        "3123",
+        "1028",
+        "3133"
+      ],
       "id": 6609,
       "gold": {
         "base": 300,
@@ -8826,7 +11808,12 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Health", "Damage", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Damage",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8844,7 +11831,11 @@
       "description": "<mainText><stats><attention>50</attention> Ability Power<br><attention>10%</attention> Heal and Shield Power<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Rapids:</passive> Healing or Shielding another ally grants you both <magicDamage>25 - 45 Ability Power</magicDamage>  and <magicDamage>20 Ability Haste</magicDamage> for 4 seconds.<br><br><rules>Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "Your heals and shields reduce crowd control and grant Move Speed",
-      "from": ["1052", "3114", "1052"],
+      "from": [
+        "1052",
+        "3114",
+        "1052"
+      ],
       "id": 6616,
       "gold": {
         "base": 630,
@@ -8852,7 +11843,11 @@
         "total": 2300,
         "sell": 1610
       },
-      "tags": ["Spell Damage", "Mana Regen", "Ability Haste"],
+      "tags": [
+        "Spell Damage",
+        "Mana Regen",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8869,7 +11864,10 @@
       "description": "<mainText><stats><attention>40</attention> Ability Power<br><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Starlit Grace:</passive> When affecting champions with Attacks or Abilities in combat, restore <healing>70 Health</healing> to the most wounded nearby ally (2s cooldown). Each second spent in combat with champions increases your Heal and Shield Power by 7% (stacking up to 5 times).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>10</attention> increased health on <passive>Starlit Grace's</passive> heal.<br><br></mainText><br>",
       "colloq": "",
       "plaintext": "Your heals and shields cool down faster and have greater effect on low health allies",
-      "from": ["3067", "4642"],
+      "from": [
+        "3067",
+        "4642"
+      ],
       "id": 6617,
       "gold": {
         "base": 750,
@@ -8877,7 +11875,11 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Health", "Spell Damage", "Cooldown Reduction"],
+      "tags": [
+        "Health",
+        "Spell Damage",
+        "Cooldown Reduction"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -8895,7 +11897,11 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste<br><attention>10%</attention> Omnivamp</stats><br><br><active>Active -</active> <active>Thirsting Slash:</active> Deal <physicalDamage>(175% Base Attack Damage) physical damage</physicalDamage> to nearby enemies. Restore <healing>(25% Base Attack Damage + 10% missing Health)</healing> for each champion hit (15s cooldown, reduced by Ability Haste).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Ability Haste.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6029", "3133", "3067"],
+      "from": [
+        "6029",
+        "3133",
+        "3067"
+      ],
       "id": 6630,
       "gold": {
         "base": 300,
@@ -8929,7 +11935,11 @@
       "description": "<mainText><stats><attention>50</attention> Attack Damage<br><attention>20%</attention> Attack Speed<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Halting Slash:</active> Deal <physicalDamage>(175% Attack Damage) physical damage</physicalDamage> to nearby enemies, <status>Slowing</status> them by 40% for 3 seconds (15s cooldown, reduced by Ability Haste). Can be cast while moving.<br><li><passive>Heroic Gait:</passive> Dealing physical damage grants <speed>20 Move Speed</speed> for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>2%</attention> Move Speed.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6029", "3051", "3067"],
+      "from": [
+        "6029",
+        "3051",
+        "3067"
+      ],
       "id": 6631,
       "gold": {
         "base": 400,
@@ -8972,7 +11982,11 @@
       "description": "<mainText><stats><attention>40</attention> Attack Damage<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste</stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with an additional <physicalDamage>12% (9% for Ranged owners) target max Health physical damage</physicalDamage> <OnHit>On-Hit</OnHit> (1.5s cooldown). If the target is a champion, also heal for 7.8% (3.6% for Ranged owners) target max Health.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Armor Penetration and <attention>5%</attention> Magic Penetration.<br><br><rules><passive>Spellblade</passive> will deal a minimum of (150% base Attack Damage) damage to units, but no more than (250% base Attack Damage) damage to Monsters.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3133", "3057", "3067"],
+      "from": [
+        "3133",
+        "3057",
+        "3067"
+      ],
       "id": 6632,
       "gold": {
         "base": 700,
@@ -9007,7 +12021,10 @@
       "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Agony:</passive> Deal up to <magicDamage>12% bonus magic damage</magicDamage> to Champions based on the target's bonus Health (maxed at 1250 bonus Health).<li><passive>Torment:</passive> Dealing damage with Abilities causes enemies to burn for <magicDamage>(15 + 1.5% Ability Power) + 1% max Health magic damage</magicDamage> per second for 4 seconds. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Ability Haste.</mainText><br>",
       "colloq": "",
       "plaintext": "Charge up in combat to deal high damage over time, especially against durable enemies",
-      "from": ["3802", "3108"],
+      "from": [
+        "3802",
+        "3108"
+      ],
       "id": 6653,
       "gold": {
         "base": 1000,
@@ -9015,7 +12032,12 @@
         "total": 3200,
         "sell": 2240
       },
-      "tags": ["Spell Damage", "Mana", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Spell Damage",
+        "Mana",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9033,7 +12055,10 @@
       "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>6</attention> Magic Penetration<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Echo:</passive> Damaging Abilities deal an additional <magicDamage>(100 + 10% Ability Power) magic damage</magicDamage> to the target and 3 nearby enemies and grants you <speed>15% Move Speed</speed> for 2 seconds (10s cooldown). Dealing ability damage to Champions reduces this item's cooldown by 0.5 second, up to 3 seconds per spell cast.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Magic Penetration. </mainText><br>",
       "colloq": "",
       "plaintext": "High burst damage, good against fragile foes",
-      "from": ["3802", "1026"],
+      "from": [
+        "3802",
+        "1026"
+      ],
       "id": 6655,
       "gold": {
         "base": 1050,
@@ -9066,7 +12091,11 @@
       "description": "<mainText><stats><attention>70</attention> Ability Power<br><attention>250</attention> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Glaciate:</active> Deal <magicDamage>(100+30% Ability Power) magic damage</magicDamage> in a cone, <status>Slowing</status> enemies by 65% for 1.5 seconds. Enemies at the center of the cone are <status>Rooted</status> instead (30s cooldown).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>10</attention> Ability Power. <br></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3067", "3802", "1052"],
+      "from": [
+        "3067",
+        "3802",
+        "1052"
+      ],
       "id": 6656,
       "gold": {
         "base": 265,
@@ -9101,7 +12130,11 @@
       "description": "<mainText><stats><attention>350</attention> Health<br><attention>25</attention> Armor<br><attention>25</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><li><passive>Immolate :</passive> Taking or dealing damage causes you to begin dealing <magicDamage>(12 + 1% bonus Health) magic damage</magicDamage> per second to nearby enemies (increased by 25% against minions and 150% against monsters) for 3 seconds.<li><passive>Snowbind:</passive> Attacks create a frost field for 1.5 seconds and deal (12-85  / 6-42.5) bonus magic damage to all enemies in the area (4s cooldown, 6s cooldown for ranged champions). Enemies that move across the field are <status>Slowed</status> by 25% for melee champions and 12.5% for ranged champions (increased by your <scaleHealth>max Health</scaleHealth>).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>100</attention> Health and <attention>6%</attention> Size.</mainText><br>",
       "colloq": "",
       "plaintext": "High Magic Resist.Passively slow nearby enemies. When spells are cast near you, release a wave of energy that damages and slows.",
-      "from": ["6660", "1033", "1029"],
+      "from": [
+        "6660",
+        "1033",
+        "1029"
+      ],
       "id": 6662,
       "gold": {
         "base": 950,
@@ -9136,7 +12169,11 @@
       "description": "<mainText><stats><attention>350</attention> Health<br><attention>25</attention> Armor<br><attention>25</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supercharged:</active> Grants <speed>40% Move Speed</speed> towards enemies or enemy turrets for 4 seconds. Once near an enemy (or after 4 seconds) a shockwave is emitted that <status>Slows</status> nearby champions by 50% for 1.5 seconds (90s cooldown).<br><passive>Refuel:</passive> Moving and taking damage from Champions and large monsters fills up the <keywordMajor>Chemtank</keywordMajor>. At 100 stacks, your next basic attack deals <magicDamage>40-120 (+1% max Health, + 3% Move Speed) magic damage</magicDamage> to all nearby enemies (increased by 30% against minions and 200% against jungle monsters).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Ability Haste and <attention>50</attention> Health.</mainText><br>",
       "colloq": "",
       "plaintext": "Immobilize enemies to gain a shield. Activate to run faster at opponents.",
-      "from": ["6660", "1033", "1029"],
+      "from": [
+        "6660",
+        "1033",
+        "1029"
+      ],
       "id": 6664,
       "gold": {
         "base": 950,
@@ -9174,7 +12211,11 @@
       "description": "<mainText><stats><attention>60</attention> Attack Damage<br><attention>20%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><br><active>Active -</active> <active>Cloudburst:</active> Dash in target direction, firing three missiles at the lowest Health enemy near your destination (prioritizing champions). Deals a total of <magicDamage>(180 - 220 (based on level) + 45% bonus Attack Damage) magic damage</magicDamage>, increased against low Health targets by up to 50% (90s cooldown).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>2%</attention> Move Speed.<br><br><rules>Maximum missile damage dealt when enemy Health is below 30%.<br>Cloudburst's dash cannot pass through terrain.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6670", "1018", "1037"],
+      "from": [
+        "6670",
+        "1018",
+        "1037"
+      ],
       "id": 6671,
       "gold": {
         "base": 625,
@@ -9207,7 +12248,11 @@
       "description": "<mainText><stats><attention>65</attention> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Bring It Down:</passive> Every third Attack deals an additional <trueDamage>(60 + 45% bonus Attack Damage) true damage</trueDamage>.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>10%</attention> Attack Speed.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6670", "1018", "1037"],
+      "from": [
+        "6670",
+        "1018",
+        "1037"
+      ],
       "id": 6672,
       "gold": {
         "base": 625,
@@ -9215,7 +12260,12 @@
         "total": 3400,
         "sell": 2380
       },
-      "tags": ["Damage", "Critical Strike", "Attack Speed", "Armor Penetration"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Attack Speed",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9234,7 +12284,11 @@
       "description": "<mainText><stats><attention>50</attention> Attack Damage<br><attention>20%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>8%</attention> Life Steal</stats><br><li><passive>Lifeline:</passive> When taking damage that would reduce you below 30% Health, gain a <shield>275 - 700 Shield</shield> for 3s. In addition, gain <attackDamage>15-35 Attack Damage</attackDamage> for 8s (90s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage and <attention>70</attention> Health.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["6670", "1018", "1053"],
+      "from": [
+        "6670",
+        "1018",
+        "1053"
+      ],
       "id": 6673,
       "gold": {
         "base": 600,
@@ -9268,7 +12322,11 @@
       "description": "<mainText><stats><attention>60</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>30</attention> Ability Haste</stats><br><li><passive>Deft Strikes:</passive> Your critical strikes with Attacks reduce your non-Ultimate Ability cooldowns by 20% of their remaining cooldown.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3133", "1037", "1018"],
+      "from": [
+        "3133",
+        "1037",
+        "1018"
+      ],
       "id": 6675,
       "gold": {
         "base": 825,
@@ -9276,7 +12334,12 @@
         "total": 3400,
         "sell": 2380
       },
-      "tags": ["Damage", "Critical Strike", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9299,7 +12362,11 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>12</attention> Lethality</stats><br><li><passive>Death and Taxes:</passive> Dealing damage that would leave an enemy champion below 5% Health executes them. Champion kills grant an additional 25 gold.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "1037", "1018"],
+      "from": [
+        "3134",
+        "1037",
+        "1018"
+      ],
       "id": 6676,
       "gold": {
         "base": 425,
@@ -9307,7 +12374,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Damage", "Critical Strike", "Armor Penetration"],
+      "tags": [
+        "Damage",
+        "Critical Strike",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9325,7 +12396,10 @@
       "description": "<mainText><stats><attention>60</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>20</attention> Ability Haste</stats><br><li><passive>Nightstalker:</passive> Attacking a champion deals an additional <physicalDamage>(75 + 30% bonus Attack Damage for melee / 55 + 25% bonus Attack Damage for ranged) physical damage</physicalDamage> (15s cooldown). If dealt by a Melee champion, this Attack also <status>Slows</status> the target by 99% for 0.25 seconds.  When a champion that you have damaged within the last 3 seconds dies, this cooldown is refreshed and you become <keywordStealth>Invisible</keywordStealth> for 1.5 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Ability Haste.<br></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "3133"],
+      "from": [
+        "3134",
+        "3133"
+      ],
       "id": 6691,
       "gold": {
         "base": 900,
@@ -9357,7 +12431,11 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>8%</attention> Omnivamp</stats><br><br><li><passive>Ever Rising Moon:</passive> Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals an additional <physicalDamage>6% max Health physical damage</physicalDamage>, grants you <speed>15% Move Speed</speed> and a <shield>(180 + 40% bonus Attack Damage) Shield (50% shield for ranged champions)</shield> for 2 seconds (8s cooldown, 16s cooldown for ranged champions).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>4%</attention> Armor Penetration</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "1036", "1053"],
+      "from": [
+        "3134",
+        "1036",
+        "1053"
+      ],
       "id": 6692,
       "gold": {
         "base": 750,
@@ -9388,7 +12466,10 @@
       "description": "<mainText><stats><attention>60</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Sandswipe:</active> Dash through target enemy champion, dealing <physicalDamage>(75 + 30% bonus Attack Damage) physical damage</physicalDamage>. For the next 3 seconds, you deal 15% increased damage to the target. (90s cooldown).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Lethality</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "3133"],
+      "from": [
+        "3134",
+        "3133"
+      ],
       "id": 6693,
       "gold": {
         "base": 900,
@@ -9420,7 +12501,10 @@
       "description": "<mainText><stats><attention>45</attention> Attack Damage<br><attention>30%</attention> Armor Penetration<br><attention>20</attention> Ability Haste</stats><br><li><passive>Bitter Cold:</passive> Damaging Abilities <status>Slow</status> enemies by 30% for 1 second.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3133", "3035"],
+      "from": [
+        "3133",
+        "3035"
+      ],
       "id": 6694,
       "gold": {
         "base": 650,
@@ -9450,7 +12534,10 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>12</attention> Lethality</stats><br><li><passive>Shield Reaver:</passive> Dealing damage to an enemy champion reduces any shields they gain by (50% | 35% for Ranged Champions) for 3 seconds. When you damage an enemy who is unaffected by Shield Reaver, reduce all shields on them by (50% | 35% for Ranged Champions).<br><br><rules>Additional damage not applied to targets with shields that only block magic damage.<br>Item performance differs for melee and ranged users.</rules></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "1037"],
+      "from": [
+        "3134",
+        "1037"
+      ],
       "id": 6695,
       "gold": {
         "base": 625,
@@ -9458,7 +12545,10 @@
         "total": 2600,
         "sell": 1820
       },
-      "tags": ["Damage", "Armor Penetration"],
+      "tags": [
+        "Damage",
+        "Armor Penetration"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9475,7 +12565,10 @@
       "description": "<mainText><stats><attention>55</attention> Attack Damage<br><attention>10</attention> Lethality<br><attention>25</attention> Ability Haste</stats><br><li><passive>Flux:</passive> Whenever a Champion dies within 3 seconds of you having damaged them, refund 20% of your Ultimate Ability's total cooldown.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3134", "3133"],
+      "from": [
+        "3134",
+        "3133"
+      ],
       "id": 6696,
       "gold": {
         "base": 800,
@@ -9483,7 +12576,11 @@
         "total": 3000,
         "sell": 2100
       },
-      "tags": ["Damage", "Armor Penetration", "Ability Haste"],
+      "tags": [
+        "Damage",
+        "Armor Penetration",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9500,7 +12597,10 @@
       "description": "<mainText><stats><attention>650</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Vow:</active> Choose a Nemesis to start building a Vendetta (90s).<br><li><passive>Vendetta:</passive> Take up to 30% reduced damage from your Nemesis, 1% per Vendetta stack. You gain stacks over time, and reach the maximum number of stacks after 60 seconds.<li><passive>Vengeance:</passive> At maximum stacks, your Nemesis has 20% reduced Tenacity while near you.<br><br><rules>Active can be cast while dead and at global range. Stacks reset upon choosing a new target. Cannot be cast for 15 seconds while in-combat with champions.</rules><br><br><flavorText>\"She swore to dedicate her life to his destruction. The gauntlets heard.\"</flavorText></mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3067", "1011"],
+      "from": [
+        "3067",
+        "1011"
+      ],
       "id": 8001,
       "gold": {
         "base": 800,
@@ -9508,7 +12608,12 @@
         "total": 2500,
         "sell": 1750
       },
-      "tags": ["Health", "Active", "Cooldown Reduction", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Active",
+        "Cooldown Reduction",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9525,7 +12630,10 @@
       "description": "<mainText><stats><attention>450</attention> Health<br><attention>30</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Unmake:</passive> <status>Curse</status> nearby enemy champions, reducing their <scaleMR>Magic Resist by 5 + 1% bonus Health</scaleMR> (max 20). For each <status>Cursed</status> enemy, gain <scaleMR>7 Magic Resist</scaleMR>.</mainText><br>",
       "colloq": "",
       "plaintext": "",
-      "from": ["3067", "3211"],
+      "from": [
+        "3067",
+        "3211"
+      ],
       "id": 8020,
       "gold": {
         "base": 650,
@@ -9533,7 +12641,12 @@
         "total": 2700,
         "sell": 1890
       },
-      "tags": ["Health", "Spell Block", "Consumable", "Ability Haste"],
+      "tags": [
+        "Health",
+        "Spell Block",
+        "Consumable",
+        "Ability Haste"
+      ],
       "maps": {
         "11": true,
         "12": true,
@@ -9717,6 +12830,40 @@
       "win": 0,
       "loss": 0,
       "id": 5
+    },
+    {
+      "title": "Lidia",
+      "champion": {
+        "name": "Ahri",
+        "key": 103
+      },
+      "item1": {
+        "name": "Mercury's Treads",
+        "id": 3111
+      },
+      "item2": {
+        "name": "Guardian Angel",
+        "id": 3026
+      },
+      "item3": {
+        "name": "Evenshroud",
+        "id": 3001
+      },
+      "item4": {
+        "name": "Phantom Dancer",
+        "id": 3046
+      },
+      "item5": {
+        "name": "Mejai's Soulstealer",
+        "id": 3041
+      },
+      "item6": {
+        "name": "Bloodthirster",
+        "id": 3072
+      },
+      "win": 0,
+      "loss": 0,
+      "id": 6
     }
   ]
 }
